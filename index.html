@@ -111,6 +111,14 @@ dl.facts dt{color:var(--ink-2)}
 dl.facts dd{margin:0}
 #tip{position:fixed; pointer-events:none; z-index:10; background:var(--ink); color:var(--surface); font-size:.8rem; line-height:1.4; padding:7px 9px; border-radius:6px; max-width:280px; opacity:0; transition:opacity .08s}
 #tip b{font-weight:600}
+header.top .topbar{display:flex; flex-wrap:wrap; gap:8px 20px; align-items:center; justify-content:space-between}
+/* margin-left:auto lo mantiene a la derecha también cuando el flex envuelve en pantallas angostas */
+header.top .topbar a.xlink{margin-left:auto}
+a.xlink{font-size:.82rem; font-weight:600; color:var(--accent); text-decoration:none; white-space:nowrap;
+  display:inline-flex; align-items:center; gap:6px; padding:6px 13px; border-radius:999px;
+  border:1px solid color-mix(in srgb, var(--accent) 45%, transparent); background:var(--accent-soft);
+  transition:background .12s, color .12s, border-color .12s}
+a.xlink:hover, a.xlink:focus-visible{background:var(--accent); border-color:var(--accent); color:var(--surface); outline:none}
 footer{margin-top:40px; padding-top:18px; border-top:1px solid var(--rule); font-size:.82rem; color:var(--ink-3); display:grid; gap:4px}
 @media (prefers-reduced-motion: reduce){ *{transition:none!important} }
 @media (max-width:560px){ dl.facts{grid-template-columns:1fr} dl.facts dd{margin-bottom:6px} }
@@ -118,7 +126,10 @@ footer{margin-top:40px; padding-top:18px; border-top:1px solid var(--rule); font
 
 <div class="wrap">
 <header class="top">
-  <div class="eyebrow">Acústica de salas · ISO 3382-2, método de ingeniería</div>
+  <div class="topbar">
+    <div class="eyebrow">Acústica de salas · ISO 3382-2, método de ingeniería</div>
+    <a class="xlink" href="imus_captacion_acustica.html">Otro informe: Sala de Captación IMUS →</a>
+  </div>
   <h1>Teatro Aula Magna UTFSM</h1>
   <p class="muted" style="font-size:1.08rem">Caracterización acústica de la sala a partir de 18 respuestas al impulso medidas con barrido senoidal (2 fuentes × 9 receptores), más una segunda campaña de validación con globo. Sala vacía, telón abierto, 15 de septiembre de 2026.</p>
   <div class="meta">
