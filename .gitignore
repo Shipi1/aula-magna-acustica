@@ -1,0 +1,6 @@
+# Salida regenerable del pipeline de análisis
+analisis/salida/
+
+# Python
+__pycache__/
+*.py[cod]
