@@ -1,0 +1,28 @@
+const {chromium}=require('C:/Users/arias/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const {pathToFileURL}=require('node:url');
+const path=require('node:path');
+(async()=>{
+ const browser=await chromium.launch({headless:true,channel:'msedge'});
+ const page=await browser.newPage({viewport:{width:1440,height:1000}});
+ const errors=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.goto(pathToFileURL(path.join(__dirname,'visor.html')).href);
+ await page.waitForFunction(()=>window.MODEL_READY);
+ await page.screenshot({path:path.join(__dirname,'vista-previa.png')});
+ await page.getByRole('button',{name:'Planta',exact:true}).click();
+ await page.getByLabel('Cerrar techo y lateral').check();
+ await page.getByLabel('Mostrar triangulación').check();
+ await page.getByLabel('Mediciones originales *',{exact:true}).check();
+ if(!(await page.locator('#detail').innerText()).includes('P5'))throw new Error('No aparece el estado de mediciones');
+ await page.getByLabel('Cerrar techo y lateral').uncheck();
+ await page.getByLabel('Mostrar triangulación').uncheck();
+ await page.getByLabel('Mediciones originales *',{exact:true}).uncheck();
+ await page.getByRole('button',{name:'Corte',exact:true}).click();
+ await page.screenshot({path:path.join(__dirname,'vista-corte.png')});
+ await page.setViewportSize({width:390,height:844});
+ await page.getByRole('button',{name:'Perspectiva',exact:true}).click();
+ await page.screenshot({path:path.join(__dirname,'vista-movil.png'),fullPage:true});
+ const overflow=await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth);
+ if(overflow||errors.length)throw new Error(JSON.stringify({overflow,errors}));
+ console.log(JSON.stringify({ready:await page.evaluate(()=>window.MODEL_READY),overflow,errors,controls:'OK'}));
+ await browser.close();
+})().catch(e=>{console.error(e);process.exit(1)});

@@ -1,0 +1,20 @@
+{
+  "vertices": 1875,
+  "triangulos": 3746,
+  "aristas_abiertas": 0,
+  "aristas_no_manifold": 0,
+  "caras_degeneradas": 0,
+  "normales": "hacia el interior",
+  "euler": 2,
+  "volumen_m3": 10968.76,
+  "superficies_m2": {
+    "escenario": 270.84,
+    "frente_balcon": 145.78,
+    "platea": 484.44,
+    "muros": 1411.3,
+    "bajo_balcon": 207.75,
+    "gradas": 400.26,
+    "cielo": 939.03
+  },
+  "alcance": "Cierre topológico y orientación verificados; no certifica exactitud arquitectónica ni compatibilidad con un simulador."
+}
