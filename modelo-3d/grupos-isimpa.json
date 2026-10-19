@@ -1,0 +1,110 @@
+[
+  {
+    "objeto_3ds": "00_escenario",
+    "familia": "escenario",
+    "descripcion": "Piso de escenario",
+    "triangulos": 29
+  },
+  {
+    "objeto_3ds": "01_platea",
+    "familia": "platea",
+    "descripcion": "Platea / butacas equivalentes",
+    "triangulos": 212
+  },
+  {
+    "objeto_3ds": "02_gradas",
+    "familia": "gradas",
+    "descripcion": "Graderías / butacas equivalentes",
+    "triangulos": 1283
+  },
+  {
+    "objeto_3ds": "03_frente_balcon",
+    "familia": "frente_balcon",
+    "descripcion": "Frente y contrahuellas",
+    "triangulos": 1289
+  },
+  {
+    "objeto_3ds": "04_bajo_balcon",
+    "familia": "bajo_balcon",
+    "descripcion": "Cielo bajo balcón",
+    "triangulos": 152
+  },
+  {
+    "objeto_3ds": "05_muros",
+    "familia": "muros",
+    "descripcion": "Muros generales",
+    "triangulos": 116
+  },
+  {
+    "objeto_3ds": "06_cielo",
+    "familia": "cielo",
+    "descripcion": "Cielo de caja escénica / frente",
+    "triangulos": 6
+  },
+  {
+    "objeto_3ds": "07_circulacion_alta",
+    "familia": "circulacion_alta",
+    "descripcion": "Circulaciones de platea alta (hipótesis)",
+    "triangulos": 246
+  },
+  {
+    "objeto_3ds": "08_embocadura",
+    "familia": "embocadura",
+    "descripcion": "Embocadura / jambas",
+    "triangulos": 26
+  },
+  {
+    "objeto_3ds": "09_antepecho",
+    "familia": "antepecho",
+    "descripcion": "Antepecho curvo del balcón",
+    "triangulos": 250
+  },
+  {
+    "objeto_3ds": "10_laterales_altos",
+    "familia": "laterales_altos",
+    "descripcion": "Muros laterales de platea alta",
+    "triangulos": 110
+  },
+  {
+    "objeto_3ds": "11_fondo_alto",
+    "familia": "fondo_alto",
+    "descripcion": "Muro posterior alto",
+    "triangulos": 2
+  },
+  {
+    "objeto_3ds": "12_pilares",
+    "familia": "pilares",
+    "descripcion": "Cuatro pilares bajo balcón",
+    "triangulos": 200
+  },
+  {
+    "objeto_3ds": "13_cielo_1",
+    "familia": "cielo_1",
+    "descripcion": "Cielo acústico · plano 1",
+    "triangulos": 6
+  },
+  {
+    "objeto_3ds": "14_cielo_2",
+    "familia": "cielo_2",
+    "descripcion": "Cielo acústico · plano 2",
+    "triangulos": 4
+  },
+  {
+    "objeto_3ds": "15_cielo_3",
+    "familia": "cielo_3",
+    "descripcion": "Cielo acústico · plano 3",
+    "triangulos": 4
+  },
+  {
+    "objeto_3ds": "16_cielo_4",
+    "familia": "cielo_4",
+    "descripcion": "Cielo acústico · plano 4",
+    "triangulos": 4
+  },
+  {
+    "objeto_3ds": "17_cielo_5",
+    "familia": "cielo_5",
+    "descripcion": "Cielo acústico · plano 5",
+    "triangulos": 3
+  }
+]

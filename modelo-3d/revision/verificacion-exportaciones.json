@@ -1,0 +1,201 @@
+{
+  "json": {
+    "vertices_unidos": 1965,
+    "caras": 3942,
+    "cerrada": true,
+    "orientacion_consistente": true,
+    "euler": -6,
+    "volumen_m3": 9550.56,
+    "area_minima_m2": 2.6529894000000205e-05,
+    "bounds_m": [
+      [
+        0.0,
+        -11.665,
+        -0.6
+      ],
+      [
+        40.25,
+        11.665,
+        13.32
+      ]
+    ]
+  },
+  "ply": {
+    "vertices_unidos": 1965,
+    "caras": 3942,
+    "cerrada": true,
+    "orientacion_consistente": true,
+    "euler": -6,
+    "volumen_m3": 9550.56,
+    "area_minima_m2": 2.6526584974817524e-05,
+    "bounds_m": [
+      [
+        0.0,
+        -11.664999961853027,
+        -0.6000000238418579
+      ],
+      [
+        40.25,
+        11.664999961853027,
+        13.319999694824219
+      ]
+    ]
+  },
+  "3ds": {
+    "vertices_unidos": 1965,
+    "caras": 3942,
+    "cerrada": true,
+    "orientacion_consistente": true,
+    "euler": -6,
+    "volumen_m3": 9550.56,
+    "area_minima_m2": 2.6526584974817524e-05,
+    "bounds_m": [
+      [
+        0.0,
+        -11.664999961853027,
+        -0.6000000238418579
+      ],
+      [
+        40.25,
+        11.664999961853027,
+        13.319999694824219
+      ]
+    ]
+  },
+  "grupos_3ds": [
+    "00_escenario",
+    "01_platea",
+    "02_gradas",
+    "03_frente_balcon",
+    "04_bajo_balcon",
+    "05_muros",
+    "06_cielo",
+    "07_circulacion_alta",
+    "08_embocadura",
+    "09_antepecho",
+    "10_laterales_altos",
+    "11_fondo_alto",
+    "12_pilares",
+    "13_cielo_1",
+    "14_cielo_2",
+    "15_cielo_3",
+    "16_cielo_4",
+    "17_cielo_5"
+  ],
+  "puntos_heredados": {
+    "F1": {
+      "dentro": true,
+      "coordenadas": [
+        5.36,
+        0.02,
+        1.5
+      ],
+      "registro": "provisional"
+    },
+    "F2": {
+      "dentro": true,
+      "coordenadas": [
+        5.6,
+        4.72,
+        1.5
+      ],
+      "registro": "provisional"
+    },
+    "P1": {
+      "dentro": true,
+      "coordenadas": [
+        18.16,
+        9.4,
+        1.63
+      ],
+      "registro": "provisional"
+    },
+    "P2": {
+      "dentro": true,
+      "coordenadas": [
+        15.73,
+        4.53,
+        1.54
+      ],
+      "registro": "provisional"
+    },
+    "P3": {
+      "dentro": true,
+      "coordenadas": [
+        27.42,
+        -4.55,
+        1.95
+      ],
+      "registro": "provisional"
+    },
+    "P4": {
+      "dentro": true,
+      "coordenadas": [
+        18.16,
+        -9.72,
+        1.63
+      ],
+      "registro": "provisional"
+    },
+    "P5": {
+      "dentro": true,
+      "coordenadas": [
+        33.5,
+        0.34,
+        2.0
+      ],
+      "registro": "provisional"
+    },
+    "P6": {
+      "dentro": true,
+      "coordenadas": [
+        30.96,
+        4.3,
+        2.0
+      ],
+      "registro": "provisional"
+    },
+    "P7": {
+      "dentro": true,
+      "coordenadas": [
+        19.57,
+        -4.53,
+        1.68
+      ],
+      "registro": "provisional"
+    },
+    "P8": {
+      "dentro": true,
+      "coordenadas": [
+        26.66,
+        -8.14,
+        6.5
+      ],
+      "registro": "provisional"
+    },
+    "P9": {
+      "dentro": true,
+      "coordenadas": [
+        26.59,
+        8.01,
+        6.5
+      ],
+      "registro": "provisional"
+    }
+  },
+  "versiones": {
+    "numpy": "2.4.2",
+    "manifold3d": "3.5.4",
+    "trimesh": "5.1.1",
+    "matplotlib": "3.11.2",
+    "Pillow": "12.1.1"
+  },
+  "sha256_fuentes": {
+    "datos\\Aula Magna 24-09-25_260915_112537.pdf": "5dd6738f1a53e13d05d91743866bfa056a37ad06a0412560be3d2354d03ba1e7",
+    "datos\\Aula Magna Marcado.pdf": "06d20c5c6b1fe2944b18732bdc8fabf04400cce73fa66672ca13ac64cc996311",
+    "datos\\Butacas.jpeg": "28194ecac0ff53f91e5e8f9a706230fcd598ed2695eadf6513204d8c88e10ff4",
+    "datos\\Fondo bajo balcon.jpeg": "8108e76627e798b640a6e899d3615943adce51f56251adb63e0fe100b66100f0",
+    "datos\\Frente escenario.jpeg": "87cffd4d67b9284ccba8e3b53f96e4bac986d2084deee19ebd65d52a38fef5e8"
+  },
+  "isimpa": "No se ha ejecutado importación ni mallado dentro de I-Simpa."
+}
