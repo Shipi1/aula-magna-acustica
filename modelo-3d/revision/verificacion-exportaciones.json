@@ -1,12 +1,12 @@
 {
   "json": {
-    "vertices_unidos": 1965,
-    "caras": 3942,
+    "vertices_unidos": 2246,
+    "caras": 4504,
     "cerrada": true,
     "orientacion_consistente": true,
     "euler": -6,
-    "volumen_m3": 9550.56,
-    "area_minima_m2": 2.6529894000000205e-05,
+    "volumen_m3": 9550.484,
+    "area_minima_m2": 5.891896660189975e-05,
     "bounds_m": [
       [
         0.0,
@@ -21,13 +21,13 @@
     ]
   },
   "ply": {
-    "vertices_unidos": 1965,
-    "caras": 3942,
+    "vertices_unidos": 2246,
+    "caras": 4504,
     "cerrada": true,
     "orientacion_consistente": true,
     "euler": -6,
-    "volumen_m3": 9550.56,
-    "area_minima_m2": 2.6526584974817524e-05,
+    "volumen_m3": 9550.484,
+    "area_minima_m2": 5.890715962497037e-05,
     "bounds_m": [
       [
         0.0,
@@ -42,13 +42,13 @@
     ]
   },
   "3ds": {
-    "vertices_unidos": 1965,
-    "caras": 3942,
+    "vertices_unidos": 2246,
+    "caras": 4504,
     "cerrada": true,
     "orientacion_consistente": true,
     "euler": -6,
-    "volumen_m3": 9550.56,
-    "area_minima_m2": 2.6526584974817524e-05,
+    "volumen_m3": 9550.484,
+    "area_minima_m2": 5.890715962497037e-05,
     "bounds_m": [
       [
         0.0,
@@ -64,13 +64,10 @@
   },
   "grupos_3ds": [
     "00_escenario",
-    "01_platea",
-    "02_gradas",
     "03_frente_balcon",
     "04_bajo_balcon",
     "05_muros",
     "06_cielo",
-    "07_circulacion_alta",
     "08_embocadura",
     "09_antepecho",
     "10_laterales_altos",
@@ -80,7 +77,13 @@
     "14_cielo_2",
     "15_cielo_3",
     "16_cielo_4",
-    "17_cielo_5"
+    "17_cielo_5",
+    "18_butacas_platea",
+    "19_butacas_alta_frontal",
+    "20_butacas_alta_posterior",
+    "21_pasillos_alfombra",
+    "22_madera_expuesta",
+    "23_cortinas_fondo"
   ],
   "puntos_heredados": {
     "F1": {

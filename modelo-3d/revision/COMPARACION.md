@@ -1,5 +1,7 @@
 # Revisión del modelo contra ARQ-01
 
+> Corrección v2.1: se eliminaron superficies superpuestas detectadas por TetGen. La geometría y la exportación 3DS pasan ahora el mallado con los ejecutables instalados de I-Simpa, con y sin reparación. Ver [diagnóstico y pasos para reimportar](../../prediccion/diagnostico/LEEME.md). El proyecto abierto en la interfaz aún debe reimportarse.
+
 Fecha: 19/10/2026. Objetivo: mejorar la geometría existente antes de simular en I-Simpa.
 
 Se revisaron los PDF originales y marcado de `datos/`, las plantas de acceso y platea y el corte A, junto con `Frente escenario.jpeg`, `Fondo bajo balcon.jpeg` y `Butacas.jpeg`. Las cotas escritas prevalecen sobre las lecturas gráficas. Las cifras leídas a escala siguen siendo aproximaciones aunque tengan dos decimales. El corte combina secciones y proyecciones de elementos laterales: no toda línea pertenece a la sección central.

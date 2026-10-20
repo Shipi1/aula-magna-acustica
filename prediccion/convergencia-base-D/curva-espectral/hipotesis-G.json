@@ -1,0 +1,17 @@
+{
+  "alpha_efectivo": {
+    "125": 0.23094628455412167,
+    "250": 0.6,
+    "500": 0.44,
+    "1000": 0.24794628455412168,
+    "2000": 0.17,
+    "4000": 0.11,
+    "8000": 0.2679462845541217
+  },
+  "grupos": [
+    "05_muros",
+    "10_laterales_altos",
+    "11_fondo_alto"
+  ],
+  "nota": "Hipótesis de absorción equivalente NO MEDIDA, no identifica concreto ni construcción real. Primer ensayo espectral, no resultado de optimización. Se mantiene 1 kHz y se estima el cambio inicial con balance de absorción de Sabine, que no sustituye la simulación. El resto de materiales y dispersión se conservan."
+}

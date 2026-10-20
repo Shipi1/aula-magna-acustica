@@ -1,0 +1,11 @@
+{
+  "casos_totales": 19,
+  "calculos_nuevos": 18,
+  "reutilizados": 1,
+  "perdida_maxima_mallado_pct": 0.021,
+  "configuracion_fisica_convergencia_identica": true,
+  "unico_material_modificado_G": 115,
+  "fuentes_G_conservadas": true,
+  "proyecto_D_original_intacto": true,
+  "ZIP_XML_y_Lw90_verificados": true
+}

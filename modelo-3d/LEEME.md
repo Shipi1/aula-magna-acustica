@@ -1,5 +1,9 @@
 # Aula Magna UTFSM · modelo acústico revisado v2
 
+Actualización: [v2.2, cortinas y butacas equivalentes](revision/CAMBIOS-v2_2.md).
+
+> Corrección v2.1: se eliminaron superficies superpuestas detectadas por TetGen. La geometría y la exportación 3DS pasan ahora el mallado con los ejecutables instalados de I-Simpa, con y sin reparación. Ver [diagnóstico y pasos para reimportar](../prediccion/diagnostico/LEEME.md). El proyecto abierto en la interfaz aún debe reimportarse.
+
 Revisión del 19/10/2026 a partir de plantas, corte A de ARQ-01 y fotografías locales. **Geometría mejorada, todavía no un levantamiento exacto ni un modelo acústico calibrado.**
 
 Abrir [el visor](visor.html). «Perfil del cielo» muestra su sección central con el techo oculto. «Cerrar techo y lateral» restaura las superficies ocultas. Las exportaciones siempre contienen la envolvente completa.

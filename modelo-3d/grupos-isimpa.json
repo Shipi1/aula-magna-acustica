@@ -6,22 +6,10 @@
     "triangulos": 29
   },
   {
-    "objeto_3ds": "01_platea",
-    "familia": "platea",
-    "descripcion": "Platea / butacas equivalentes",
-    "triangulos": 212
-  },
-  {
-    "objeto_3ds": "02_gradas",
-    "familia": "gradas",
-    "descripcion": "Graderías / butacas equivalentes",
-    "triangulos": 1283
-  },
-  {
     "objeto_3ds": "03_frente_balcon",
     "familia": "frente_balcon",
     "descripcion": "Frente y contrahuellas",
-    "triangulos": 1289
+    "triangulos": 1535
   },
   {
     "objeto_3ds": "04_bajo_balcon",
@@ -33,49 +21,43 @@
     "objeto_3ds": "05_muros",
     "familia": "muros",
     "descripcion": "Muros generales",
-    "triangulos": 116
+    "triangulos": 73
   },
   {
     "objeto_3ds": "06_cielo",
     "familia": "cielo",
     "descripcion": "Cielo de caja escénica / frente",
-    "triangulos": 6
-  },
-  {
-    "objeto_3ds": "07_circulacion_alta",
-    "familia": "circulacion_alta",
-    "descripcion": "Circulaciones de platea alta (hipótesis)",
-    "triangulos": 246
+    "triangulos": 4
   },
   {
     "objeto_3ds": "08_embocadura",
     "familia": "embocadura",
     "descripcion": "Embocadura / jambas",
-    "triangulos": 26
+    "triangulos": 22
   },
   {
     "objeto_3ds": "09_antepecho",
     "familia": "antepecho",
     "descripcion": "Antepecho curvo del balcón",
-    "triangulos": 250
+    "triangulos": 244
   },
   {
     "objeto_3ds": "10_laterales_altos",
     "familia": "laterales_altos",
     "descripcion": "Muros laterales de platea alta",
-    "triangulos": 110
+    "triangulos": 41
   },
   {
     "objeto_3ds": "11_fondo_alto",
     "familia": "fondo_alto",
     "descripcion": "Muro posterior alto",
-    "triangulos": 2
+    "triangulos": 10
   },
   {
     "objeto_3ds": "12_pilares",
     "familia": "pilares",
     "descripcion": "Cuatro pilares bajo balcón",
-    "triangulos": 200
+    "triangulos": 204
   },
   {
     "objeto_3ds": "13_cielo_1",
@@ -105,6 +87,42 @@
     "objeto_3ds": "17_cielo_5",
     "familia": "cielo_5",
     "descripcion": "Cielo acústico · plano 5",
-    "triangulos": 3
+    "triangulos": 2
+  },
+  {
+    "objeto_3ds": "18_butacas_platea",
+    "familia": "butacas_platea",
+    "descripcion": "Butacas vacías · platea equivalente",
+    "triangulos": 210
+  },
+  {
+    "objeto_3ds": "19_butacas_alta_frontal",
+    "familia": "butacas_alta_frontal",
+    "descripcion": "Butacas vacías · platea alta frontal",
+    "triangulos": 616
+  },
+  {
+    "objeto_3ds": "20_butacas_alta_posterior",
+    "familia": "butacas_alta_posterior",
+    "descripcion": "Butacas vacías · platea alta posterior",
+    "triangulos": 514
+  },
+  {
+    "objeto_3ds": "21_pasillos_alfombra",
+    "familia": "pasillos_alfombra",
+    "descripcion": "Pasillos · alfombra aproximada",
+    "triangulos": 452
+  },
+  {
+    "objeto_3ds": "22_madera_expuesta",
+    "familia": "madera_expuesta",
+    "descripcion": "Madera expuesta / circulaciones",
+    "triangulos": 324
+  },
+  {
+    "objeto_3ds": "23_cortinas_fondo",
+    "familia": "cortinas_fondo",
+    "descripcion": "Cortinas sobre puertas · fondo bajo balcón",
+    "triangulos": 54
   }
 ]

@@ -38,6 +38,14 @@ MATERIALS = {
 }
 for i in range(5):
  MATERIALS[f'cielo_{i+1}']={'label':f'Cielo acústico · plano {i+1}', 'color':['#d8c9ad','#d3c1a1','#ccb995','#c5b08a','#bda780'][i]}
+MATERIALS.update({
+ 'butacas_platea':{'label':'Butacas vacías · platea equivalente','color':'#4f91af'},
+ 'butacas_alta_frontal':{'label':'Butacas vacías · platea alta frontal','color':'#579dad'},
+ 'butacas_alta_posterior':{'label':'Butacas vacías · platea alta posterior','color':'#68a7b0'},
+ 'pasillos_alfombra':{'label':'Pasillos · alfombra aproximada','color':'#a35e6f'},
+ 'madera_expuesta':{'label':'Madera expuesta / circulaciones','color':'#ba9269'},
+ 'cortinas_fondo':{'label':'Cortinas sobre puertas · fondo bajo balcón','color':'#944d55'},
+})
 # Sección del aire: cada etiqueta corresponde al borde que sale del vértice.
 profile=[]
 def add(x,z,mat): profile.append([x,z,mat])
@@ -119,6 +127,10 @@ assert air.status()==md.Error.NoError
 def tagged(solid,mat):
  solid=solid.as_original(); provenance[solid.original_id()]=mat; return solid
 def box(lo,hi,mat):
+ # Evitar tapas booleanas casi coincidentes con el perímetro exterior.
+ lo=list(lo);hi=list(hi)
+ if abs(lo[1]+W/2)<1e-8: lo[1]-=.10
+ if abs(hi[1]-W/2)<1e-8: hi[1]+=.10
  return tagged(md.Manifold.cube(tuple(b-a for a,b in zip(lo,hi))).translate(lo),mat)
 def prism(poly,z0,z1,mat):
  if area(poly)<0: poly=list(reversed(poly))
@@ -130,7 +142,7 @@ def prism(poly,z0,z1,mat):
 upper_edge=[(30.24,9.085),(32.60,9.085),(33.35,8.90),(33.80,8.40),
             (34.25,7.85),(34.90,7.45),(35.50,7.245),(40.25,7.245)]
 for sign in [-1,1]:
- poly=[(x,sign*y) for x,y in upper_edge]+[(REAR,sign*W/2),(30.24,sign*W/2)]
+ poly=[(x,sign*y) for x,y in upper_edge]+[(REAR,sign*(W/2+.10)),(30.24,sign*(W/2+.10))]
  air=air+prism(poly,5.54,TOP,'circulacion_alta')
 
 # Embocadura: ancho libre 15.93, espesor 0.50 de planta.
@@ -151,6 +163,8 @@ for sign in [-1,1]:
 # Antepecho macizo curvo: 0.25 de espesor y coronación +4.45 estimados.
 # Base bajo intradós para que quede integrado en la envolvente.
 front=[(BALCONY-bow(BALCONY)*(y/(W/2))**2,y) for y in ys]
+dx=(front[1][0]-front[0][0])/(front[1][1]-front[0][1])
+front=[(front[0][0]-.10*dx,front[0][1]-.10)]+front+[(front[-1][0]-.10*dx,front[-1][1]+.10)]
 poly=[(x-.12,y) for x,y in front]+[(x+.13,y) for x,y in reversed(front)]
 air=air-prism(poly,3.20,4.45,'antepecho')
 
@@ -164,6 +178,8 @@ for y in [-6.0,-3.5,3.5,6.0]:
  x=COLUMNS-1.65*(y/(W/2))**2
  column=md.Manifold.cylinder(4.30,.30,.30,24).translate((x,y,-.70))
  air=air-tagged(column,'pilares')
+envelope=md.Manifold.cube((REAR,W,TOP+2)).translate((0,-W/2,-1))
+air=air^tagged(envelope,'muros')
 assert air.status()==md.Error.NoError and not air.is_empty()
 air=air.simplify(1e-6)
 mesh=air.to_mesh64()
@@ -183,6 +199,67 @@ for j,oid in enumerate(mesh.run_original_id):
    if np.all(np.abs(pts[:,0]-REAR)<1e-4): mat='fondo_alto'
    elif np.all(np.abs(np.abs(pts[:,1])-W/2)<1e-4) and center[0]>20: mat='laterales_altos'
   faces.append({'v':vv,'material':mat})
+
+# Subdivisión conforme por planos: separa asignaciones sin añadir obstáculos.
+# Las franjas de pasillo son aproximaciones explícitas, no un levantamiento.
+for axis,cut in [(1,y) for y in [-10.25,-6.65,-.65,.65,6.65,10.25]]+[(0,x) for x in [12.50,31.90,35.00]]:
+ new=[]
+ def vertex(p):
+  key=tuple(round(float(c),6) for c in p)
+  if key not in unique: unique[key]=len(vertices);vertices.append(list(key))
+  return unique[key]
+ for f in faces:
+  poly=[np.array(vertices[k]) for k in f['v']]
+  distances=[p[axis]-cut for p in poly]
+  if min(distances)>=-1e-8 or max(distances)<=1e-8:
+   new.append(f);continue
+  for sign in [-1,1]:
+   clipped=[]
+   for a,b in zip(poly,poly[1:]+poly[:1]):
+    da,db=sign*(a[axis]-cut),sign*(b[axis]-cut)
+    if da>=-1e-8: clipped.append(a)
+    if (da>1e-8 and db< -1e-8) or (da< -1e-8 and db>1e-8):
+     p=a+(b-a)*(da/(da-db));p[axis]=cut;clipped.append(p)
+   vv=[vertex(p) for p in clipped]
+   vv=list(dict.fromkeys(vv))
+   for k in range(1,len(vv)-1):
+    new.append({'v':[vv[0],vv[k],vv[k+1]],'material':f['material']})
+ faces=new
+for f in faces:
+ pts=np.array([vertices[k] for k in f['v']]);x,y,z=pts.mean(axis=0);mat=f['material']
+ if mat in ('platea','gradas','circulacion_alta'):
+  if mat=='platea':
+   if 12.50<x<35 and .65<abs(y)<10.25: mat='butacas_platea'
+   elif x>11.55 and (abs(y)<.65 or abs(y)>10.25): mat='pasillos_alfombra'
+   else: mat='madera_expuesta'
+  elif mat=='gradas':
+   limit=10.25 if x<31.90 else 6.65
+   if .65<abs(y)<limit: mat='butacas_alta_frontal' if x<31.90 else 'butacas_alta_posterior'
+   else: mat='pasillos_alfombra'
+  else: mat='madera_expuesta'
+ if mat=='muros' and np.all(pts[:,2]>=-1e-5) and np.all(pts[:,2]<=3.30001):
+  rear=REAR_FLOOR-1.65*(pts[:,1]/(W/2))**2
+  if np.max(np.abs(pts[:,0]-rear))<.02: mat='cortinas_fondo'
+ f['material']=mat
+# Simplificar la subdivisión a 0.1 mm manteniendo los grupos de material.
+# Evita triángulos microscópicos por cruces de las nuevas líneas con diagonales.
+ordered=[];runs=[0];ids=[];new_provenance={}
+for mat in MATERIALS:
+ fs=[f['v'][::-1] for f in faces if f['material']==mat]
+ if not fs:continue
+ oid=md.Manifold.reserve_ids(1);new_provenance[oid]=mat;ids.append(oid)
+ ordered.extend(fs);runs.append(3*len(ordered))
+partition=md.Manifold(md.Mesh64(np.asarray(vertices,np.float64),np.asarray(ordered,np.uint64),
+ run_index=np.asarray(runs,np.uint64),run_original_id=np.asarray(ids,np.uint32))).simplify(.0001)
+assert partition.status()==md.Error.NoError
+mesh=partition.to_mesh64();vertices=mesh.vert_properties[:,:3].astype(float).tolist();faces=[]
+for j,oid in enumerate(mesh.run_original_id):
+ for i in range(mesh.run_index[j]//3,mesh.run_index[j+1]//3):
+  faces.append({'v':mesh.tri_verts[i].tolist()[::-1],'material':new_provenance[oid]})
+# Descartar vértices sin uso heredados de las operaciones booleanas/subdivisión.
+used=sorted({k for f in faces for k in f['v']});mapping={k:i for i,k in enumerate(used)}
+vertices=[vertices[k] for k in used]
+for f in faces:f['v']=[mapping[k] for k in f['v']]
 edges=Counter(); directed=Counter(); areas=Counter()
 for f in faces:
  a,b,c=[vertices[i] for i in f['v']]
@@ -200,7 +277,7 @@ checks={'vertices':len(vertices),'triangulos':len(faces),'aristas_abiertas':0,
  'aristas_no_manifold':0,'caras_degeneradas':0,'normales':'hacia el interior',
  'euler':-6,'pilares_conectados':4,'volumen_m3':round(abs(volume()),2),
  'superficies_m2':{k:round(v,2) for k,v in areas.items()},
- 'motor_booleano':str(air.status()), 'revision':'v2_2026-10-19',
+ 'motor_booleano':str(air.status()), 'revision':'v2.2_2026-10-19',
  'alcance':'Cierre y orientación verificados; requiere comprobación de importación/mallado en I-Simpa y calibración acústica.'}
 points=[{'id':k,'xyz':v[:3],'provisional':True} for k,v in XY.items()]
 data={'units':'m','status':'revision_plano_v2_no_calibrado','vertices':vertices,'faces':faces,
@@ -238,18 +315,21 @@ ply+=[' '.join(map(str,v)) for v in vertices]
 ply+=['3 '+' '.join(map(str,f['v'])) for f in faces]
 (BASE/'aula-magna.ply').write_text('\n'.join(ply)+'\n',encoding='ascii')
 def chunk(tag,payload): return struct.pack('<HI',tag,len(payload)+6)+payload
-objects=[]; mapping=[]
+objects=[]; mapping=[];visual_materials=[]
 for number,mat in enumerate(MATERIALS):
  fs=[f['v'] for f in faces if f['material']==mat]
  if not fs: continue
  used=sorted({i for f in fs for i in f}); remap={v:i for i,v in enumerate(used)}
  assert len(used)<65536 and len(fs)<65536
  name=f'{number:02d}_{mat}'[:40]
+ rgb=bytes(int(MATERIALS[mat]['color'][i:i+2],16) for i in [1,3,5])
+ visual_materials.append(chunk(0xAFFF,chunk(0xA000,name.encode('ascii')+b'\0')+chunk(0xA020,chunk(0x0011,rgb))))
  vp=struct.pack('<H',len(used))+b''.join(struct.pack('<fff',*vertices[i]) for i in used)
  fp=struct.pack('<H',len(fs))+b''.join(struct.pack('<HHHH',*(remap[i] for i in f),0) for f in fs)
+ fp+=chunk(0x4130,name.encode('ascii')+b'\0'+struct.pack('<H',len(fs))+b''.join(struct.pack('<H',i) for i in range(len(fs))))
  objects.append(chunk(0x4000,name.encode('ascii')+b'\0'+chunk(0x4100,chunk(0x4110,vp)+chunk(0x4120,fp))))
  mapping.append({'objeto_3ds':name,'familia':mat,'descripcion':MATERIALS[mat]['label'],'triangulos':len(fs)})
-(BASE/'aula-magna.3ds').write_bytes(chunk(0x4D4D,chunk(0x0002,struct.pack('<I',3))+chunk(0x3D3D,chunk(0x0100,struct.pack('<f',1.0))+b''.join(objects))))
+(BASE/'aula-magna.3ds').write_bytes(chunk(0x4D4D,chunk(0x0002,struct.pack('<I',3))+chunk(0x3D3D,chunk(0x0100,struct.pack('<f',1.0))+b''.join(visual_materials)+b''.join(objects))))
 (BASE/'grupos-isimpa.json').write_text(json.dumps(mapping,ensure_ascii=False,indent=2),encoding='utf8')
 with (BASE/'mediciones-originales.csv').open('w',newline='',encoding='utf8') as fh:
  w=csv.writer(fh); w.writerow(['id','x_original_m','y_original_m','z_original_m','estado'])

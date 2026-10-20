@@ -1,0 +1,1128 @@
+{
+  "limite_escenario": [
+    {
+      "caso": "D",
+      "frecuencia_Hz": 250,
+      "n": 6,
+      "T20_sim_media_s": 2.4859141495236456,
+      "T20_REW_media_s": 1.5765000000000002
+    },
+    {
+      "caso": "escenario_alpha1",
+      "frecuencia_Hz": 250,
+      "n": 6,
+      "T20_sim_media_s": 2.1511743081379486,
+      "T20_REW_media_s": 1.5765000000000002
+    },
+    {
+      "caso": "D",
+      "frecuencia_Hz": 500,
+      "n": 8,
+      "T20_sim_media_s": 2.048101929457726,
+      "T20_REW_media_s": 1.58625
+    },
+    {
+      "caso": "escenario_alpha1",
+      "frecuencia_Hz": 500,
+      "n": 8,
+      "T20_sim_media_s": 1.7874853768132808,
+      "T20_REW_media_s": 1.58625
+    }
+  ],
+  "resumen_curva_espectral": [
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "frecuencia_Hz": 2000,
+      "n_RT": 8,
+      "T20_sim_media_s": 1.5800186748556033,
+      "T20_REW_media_s": 1.741875,
+      "error_RT_pct": -9.292074640510762,
+      "n_C80": 8,
+      "MAE_C80_dB": 1.2477185172840306
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "frecuencia_Hz": 4000,
+      "n_RT": 8,
+      "T20_sim_media_s": 1.351952927670966,
+      "T20_REW_media_s": 1.5662500000000001,
+      "error_RT_pct": -13.68217540807879,
+      "n_C80": 8,
+      "MAE_C80_dB": 1.1331846494924165
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "frecuencia_Hz": 2000,
+      "n_RT": 8,
+      "T20_sim_media_s": 1.7870213044670975,
+      "T20_REW_media_s": 1.741875,
+      "error_RT_pct": 2.591822287310941,
+      "n_C80": 8,
+      "MAE_C80_dB": 1.0149092033914473
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "frecuencia_Hz": 250,
+      "n_RT": 6,
+      "T20_sim_media_s": 1.7500425734132203,
+      "T20_REW_media_s": 1.5765000000000002,
+      "error_RT_pct": 11.008092192402152,
+      "n_C80": 8,
+      "MAE_C80_dB": 2.7611373208478023
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "frecuencia_Hz": 4000,
+      "n_RT": 8,
+      "T20_sim_media_s": 1.6278948949974112,
+      "T20_REW_media_s": 1.5662500000000001,
+      "error_RT_pct": 3.9358272943279315,
+      "n_C80": 8,
+      "MAE_C80_dB": 1.0526766179074492
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "frecuencia_Hz": 500,
+      "n_RT": 8,
+      "T20_sim_media_s": 1.6262765553304817,
+      "T20_REW_media_s": 1.58625,
+      "error_RT_pct": 2.523344701685204,
+      "n_C80": 8,
+      "MAE_C80_dB": 1.546026711995549
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "frecuencia_Hz": 2000,
+      "n_RT": 8,
+      "T20_sim_media_s": 1.798492290081981,
+      "T20_REW_media_s": 1.7542499999999999,
+      "error_RT_pct": 2.522005990137166,
+      "n_C80": 8,
+      "MAE_C80_dB": 1.544354936578915
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "frecuencia_Hz": 250,
+      "n_RT": 7,
+      "T20_sim_media_s": 1.7822202813243968,
+      "T20_REW_media_s": 1.5551428571428574,
+      "error_RT_pct": 14.601708334289686,
+      "n_C80": 8,
+      "MAE_C80_dB": 3.797856463955615
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "frecuencia_Hz": 4000,
+      "n_RT": 8,
+      "T20_sim_media_s": 1.6142803851653091,
+      "T20_REW_media_s": 1.58775,
+      "error_RT_pct": 1.6709422242361383,
+      "n_C80": 8,
+      "MAE_C80_dB": 1.065099437257803
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "frecuencia_Hz": 500,
+      "n_RT": 8,
+      "T20_sim_media_s": 1.6278268684009902,
+      "T20_REW_media_s": 1.62025,
+      "error_RT_pct": 0.46763575997470497,
+      "n_C80": 8,
+      "MAE_C80_dB": 2.2338358514802295
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "frecuencia_Hz": 250,
+      "n_RT": 6,
+      "T20_sim_media_s": 2.4859141495236456,
+      "T20_REW_media_s": 1.5765000000000002,
+      "error_RT_pct": 57.68564221526453,
+      "n_C80": 8,
+      "MAE_C80_dB": 1.6281918907009743
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "frecuencia_Hz": 500,
+      "n_RT": 8,
+      "T20_sim_media_s": 2.048101929457726,
+      "T20_REW_media_s": 1.58625,
+      "error_RT_pct": 29.115960879919676,
+      "n_C80": 8,
+      "MAE_C80_dB": 1.830887161660124
+    }
+  ],
+  "comparaciones": [
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P1",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 1.0531565246705774,
+      "C80_REW_dB": 0.88,
+      "T20_sim_s": 1.533906451583435,
+      "T20_REW_s": 1.776
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P2",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 2.441192644414277,
+      "C80_REW_dB": 4.0,
+      "T20_sim_s": 1.5643152560183768,
+      "T20_REW_s": 1.802
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P4",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 1.2344516704196096,
+      "C80_REW_dB": 0.95,
+      "T20_sim_s": 1.590027636977861,
+      "T20_REW_s": 1.717
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P5",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 3.4911954893295416,
+      "C80_REW_dB": 1.18,
+      "T20_sim_s": 1.5322667429470227,
+      "T20_REW_s": 1.826
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P6",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 4.888996006137811,
+      "C80_REW_dB": 3.74,
+      "T20_sim_s": 1.6538465629609875,
+      "T20_REW_s": 1.69
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P7",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 0.8625372075390896,
+      "C80_REW_dB": 3.61,
+      "T20_sim_s": 1.6180018253770658,
+      "T20_REW_s": 1.715
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P8",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 1.0532416867160945,
+      "C80_REW_dB": 0.58,
+      "T20_sim_s": 1.6455041935911914,
+      "T20_REW_s": 1.741
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P9",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 0.9844366129519778,
+      "C80_REW_dB": -0.3,
+      "T20_sim_s": 1.5022807293888867,
+      "T20_REW_s": 1.668
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P1",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 1.6822580217476948,
+      "C80_REW_dB": 1.83,
+      "T20_sim_s": 1.3223240415638007,
+      "T20_REW_s": 1.581
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P2",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 2.661264491249719,
+      "C80_REW_dB": 1.5,
+      "T20_sim_s": 1.3493861202164146,
+      "T20_REW_s": 1.518
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P4",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 2.100790385942446,
+      "C80_REW_dB": 1.58,
+      "T20_sim_s": 1.3434252145984926,
+      "T20_REW_s": 1.59
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P5",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 4.444745272080777,
+      "C80_REW_dB": 4.01,
+      "T20_sim_s": 1.3449345871017169,
+      "T20_REW_s": 1.546
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P6",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 4.569129532535367,
+      "C80_REW_dB": 4.45,
+      "T20_sim_s": 1.367058974879969,
+      "T20_REW_s": 1.591
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P7",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 1.955689238760848,
+      "C80_REW_dB": 4.61,
+      "T20_sim_s": 1.3774009927683153,
+      "T20_REW_s": 1.492
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P8",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 2.109252567040367,
+      "C80_REW_dB": -0.3,
+      "T20_sim_s": 1.3760086175870263,
+      "T20_REW_s": 1.65
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P9",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 1.6182422075991987,
+      "C80_REW_dB": 0.0,
+      "T20_sim_s": 1.335084872651993,
+      "T20_REW_s": 1.562
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P1",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 0.7272866472726822,
+      "C80_REW_dB": 0.88,
+      "T20_sim_s": 1.764263873728286,
+      "T20_REW_s": 1.776
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P2",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 1.7177696502925626,
+      "C80_REW_dB": 4.0,
+      "T20_sim_s": 1.7487103132335826,
+      "T20_REW_s": 1.802
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P4",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 0.6879186241360945,
+      "C80_REW_dB": 0.95,
+      "T20_sim_s": 1.8045988730013938,
+      "T20_REW_s": 1.717
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P5",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 2.283616916720526,
+      "C80_REW_dB": 1.18,
+      "T20_sim_s": 1.6350628589825225,
+      "T20_REW_s": 1.826
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P6",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 4.0439436642694035,
+      "C80_REW_dB": 3.74,
+      "T20_sim_s": 1.8400624355523403,
+      "T20_REW_s": 1.69
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P7",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 0.6770121281537407,
+      "C80_REW_dB": 3.61,
+      "T20_sim_s": 1.8330011036550187,
+      "T20_REW_s": 1.715
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P8",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 0.017986877311031373,
+      "C80_REW_dB": 0.58,
+      "T20_sim_s": 1.8689587806993437,
+      "T20_REW_s": 1.741
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P9",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 0.21968697330776085,
+      "C80_REW_dB": -0.3,
+      "T20_sim_s": 1.801512196884293,
+      "T20_REW_s": 1.668
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P1",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": 1.1827013033739708,
+      "C80_REW_dB": -0.28,
+      "T20_sim_s": 1.7132013644775688,
+      "T20_REW_s": 1.591
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P2",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": 2.1777188232157956,
+      "C80_REW_dB": 1.28,
+      "T20_sim_s": 1.74480125844119,
+      "T20_REW_s": 1.599
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P4",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": 0.9894951373740282,
+      "C80_REW_dB": -0.8,
+      "T20_sim_s": 1.6371159892831642,
+      "T20_REW_s": 1.483
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P5",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": 0.8939827827438869,
+      "C80_REW_dB": 3.0,
+      "T20_sim_s": 2.416806218672168,
+      "T20_REW_s": 1.532
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P6",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": 4.014365043671915,
+      "C80_REW_dB": 1.23,
+      "T20_sim_s": 1.8985971537625954,
+      "T20_REW_s": 1.562
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P7",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": 1.2843034193314298,
+      "C80_REW_dB": -0.14,
+      "T20_sim_s": 1.7277133167962073,
+      "T20_REW_s": 1.6
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P8",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": 2.3394612902960152,
+      "C80_REW_dB": -2.91,
+      "T20_sim_s": 2.2289475869859716,
+      "T20_REW_s": 1.455
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P9",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": 2.7750363322631513,
+      "C80_REW_dB": -3.6,
+      "T20_sim_s": 1.7788263577185957,
+      "T20_REW_s": 1.624
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P1",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 0.8468571197641438,
+      "C80_REW_dB": 1.83,
+      "T20_sim_s": 1.5924875614930916,
+      "T20_REW_s": 1.581
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P2",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 1.3587016348027923,
+      "C80_REW_dB": 1.5,
+      "T20_sim_s": 1.6134996116846716,
+      "T20_REW_s": 1.518
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P4",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 1.040143649431443,
+      "C80_REW_dB": 1.58,
+      "T20_sim_s": 1.6147923756703861,
+      "T20_REW_s": 1.59
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P5",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 2.7743088890751433,
+      "C80_REW_dB": 4.01,
+      "T20_sim_s": 1.590840729618091,
+      "T20_REW_s": 1.546
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P6",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 4.458975145301592,
+      "C80_REW_dB": 4.45,
+      "T20_sim_s": 1.737216376424025,
+      "T20_REW_s": 1.591
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P7",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 0.22493373844854617,
+      "C80_REW_dB": 4.61,
+      "T20_sim_s": 1.564794587291106,
+      "T20_REW_s": 1.492
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P8",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 0.7458277579741944,
+      "C80_REW_dB": -0.3,
+      "T20_sim_s": 1.687307903939872,
+      "T20_REW_s": 1.65
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P9",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 0.08155507150587452,
+      "C80_REW_dB": 0.0,
+      "T20_sim_s": 1.6222200138580465,
+      "T20_REW_s": 1.562
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P1",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": 1.6884742421518875,
+      "C80_REW_dB": 2.44,
+      "T20_sim_s": 1.664583008347569,
+      "T20_REW_s": 1.528
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P2",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": 2.5394581748863185,
+      "C80_REW_dB": 1.96,
+      "T20_sim_s": 1.6042123474751415,
+      "T20_REW_s": 1.689
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P4",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": 1.168388463828089,
+      "C80_REW_dB": -0.81,
+      "T20_sim_s": 1.6221381101009111,
+      "T20_REW_s": 1.711
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P5",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": 2.3164954716041732,
+      "C80_REW_dB": 3.83,
+      "T20_sim_s": 1.6118455564350596,
+      "T20_REW_s": 1.71
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P6",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": 4.69700206090463,
+      "C80_REW_dB": 3.35,
+      "T20_sim_s": 1.597936158854698,
+      "T20_REW_s": 1.554
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P7",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": 0.8271498514672264,
+      "C80_REW_dB": 2.95,
+      "T20_sim_s": 1.6570834177814293,
+      "T20_REW_s": 1.445
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P8",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": 1.9179901559607422,
+      "C80_REW_dB": 0.87,
+      "T20_sim_s": 1.6391941787824336,
+      "T20_REW_s": 1.546
+    },
+    {
+      "caso": "G",
+      "fuente": "F1",
+      "receptor": "P9",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": 1.9374944056078989,
+      "C80_REW_dB": -1.09,
+      "T20_sim_s": 1.613219664866611,
+      "T20_REW_s": 1.507
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P1",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": -0.2910540500164408,
+      "C80_REW_dB": 1.58,
+      "T20_sim_s": 1.731182653211389,
+      "T20_REW_s": 1.772
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P2",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 2.122465301657383,
+      "C80_REW_dB": -1.2,
+      "T20_sim_s": 1.778884448247781,
+      "T20_REW_s": 1.656
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P3",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 1.9695723903630211,
+      "C80_REW_dB": 1.75,
+      "T20_sim_s": 1.8258105941558584,
+      "T20_REW_s": 1.654
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P4",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 0.6403635616719283,
+      "C80_REW_dB": 0.4,
+      "T20_sim_s": 1.7938024774798693,
+      "T20_REW_s": 1.769
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P5",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 5.012287084625541,
+      "C80_REW_dB": 0.9,
+      "T20_sim_s": 1.9797384985987319,
+      "T20_REW_s": 1.783
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P7",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": 0.39289286104805154,
+      "C80_REW_dB": -0.37,
+      "T20_sim_s": 1.7117551790941508,
+      "T20_REW_s": 1.716
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P8",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": -0.04222756809795153,
+      "C80_REW_dB": -0.56,
+      "T20_sim_s": 1.7621992659014245,
+      "T20_REW_s": 1.842
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P9",
+      "frecuencia_Hz": 2000,
+      "C80_sim_dB": -1.048431811346908,
+      "C80_REW_dB": 0.26,
+      "T20_sim_s": 1.804565203966643,
+      "T20_REW_s": 1.842
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P1",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": 1.0021961463049989,
+      "C80_REW_dB": -2.66,
+      "T20_sim_s": 1.6259107401303567,
+      "T20_REW_s": 1.445
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P2",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": 3.046149740801516,
+      "C80_REW_dB": -1.05,
+      "T20_sim_s": 1.8694625089911054,
+      "T20_REW_s": 1.463
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P3",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": 3.762493739718906,
+      "C80_REW_dB": -0.25,
+      "T20_sim_s": 1.9994481147832472,
+      "T20_REW_s": 1.536
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P4",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": 0.08488722068566776,
+      "C80_REW_dB": -2.49,
+      "T20_sim_s": 1.5445191957695066,
+      "T20_REW_s": 1.643
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P5",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": 4.810466774341347,
+      "C80_REW_dB": -0.52,
+      "T20_sim_s": 2.127153196665356,
+      "T20_REW_s": 1.703
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P7",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": -0.2488403150696467,
+      "C80_REW_dB": 1.15,
+      "T20_sim_s": 1.711210887196413,
+      "T20_REW_s": 1.433
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P8",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": 3.03783791063848,
+      "C80_REW_dB": -0.7,
+      "T20_sim_s": 1.668496992221745,
+      "T20_REW_s": 1.479
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P9",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": 2.1099798640843574,
+      "C80_REW_dB": -3.46,
+      "T20_sim_s": 1.5978373257347918,
+      "T20_REW_s": 1.663
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P1",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": -0.26449799358286724,
+      "C80_REW_dB": 1.95,
+      "T20_sim_s": 1.588567191165054,
+      "T20_REW_s": 1.55
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P2",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 2.412946773074719,
+      "C80_REW_dB": 1.4,
+      "T20_sim_s": 1.5953461045269193,
+      "T20_REW_s": 1.591
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P3",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 2.6148360324160533,
+      "C80_REW_dB": 1.78,
+      "T20_sim_s": 1.6930268725660191,
+      "T20_REW_s": 1.615
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P4",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 1.4612300226208599,
+      "C80_REW_dB": 2.52,
+      "T20_sim_s": 1.5355699572175723,
+      "T20_REW_s": 1.546
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P5",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 3.467687896799047,
+      "C80_REW_dB": 1.8,
+      "T20_sim_s": 1.7412861399323598,
+      "T20_REW_s": 1.576
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P7",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": -0.04201394132987353,
+      "C80_REW_dB": 1.03,
+      "T20_sim_s": 1.5324319435435543,
+      "T20_REW_s": 1.537
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P8",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": 0.861327267335573,
+      "C80_REW_dB": 0.59,
+      "T20_sim_s": 1.5820024613592338,
+      "T20_REW_s": 1.611
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P9",
+      "frecuencia_Hz": 4000,
+      "C80_sim_dB": -0.6212843838548485,
+      "C80_REW_dB": -1.01,
+      "T20_sim_s": 1.6460124110117602,
+      "T20_REW_s": 1.676
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P1",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": 0.19783130186101008,
+      "C80_REW_dB": 0.54,
+      "T20_sim_s": 1.5309519168187757,
+      "T20_REW_s": 1.351
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P2",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": 2.632148672979718,
+      "C80_REW_dB": -0.27,
+      "T20_sim_s": 1.5773801343592768,
+      "T20_REW_s": 1.704
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P3",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": 3.6046157927014617,
+      "C80_REW_dB": 1.4,
+      "T20_sim_s": 1.6726930201095578,
+      "T20_REW_s": 1.65
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P4",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": 1.4140310197725108,
+      "C80_REW_dB": 0.15,
+      "T20_sim_s": 1.5734512380719607,
+      "T20_REW_s": 1.757
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P5",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": 4.988772605427528,
+      "C80_REW_dB": 0.3,
+      "T20_sim_s": 1.8313715281638292,
+      "T20_REW_s": 1.578
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P7",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": 0.7337696786003212,
+      "C80_REW_dB": 1.84,
+      "T20_sim_s": 1.638811462372604,
+      "T20_REW_s": 1.637
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P8",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": 1.4813133392308524,
+      "C80_REW_dB": -0.28,
+      "T20_sim_s": 1.5094247121234277,
+      "T20_REW_s": 1.781
+    },
+    {
+      "caso": "G",
+      "fuente": "F2",
+      "receptor": "P9",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": 1.3714063621910948,
+      "C80_REW_dB": -2.23,
+      "T20_sim_s": 1.6885309351884903,
+      "T20_REW_s": 1.504
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P1",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": -2.154317036845661,
+      "C80_REW_dB": -0.28,
+      "T20_sim_s": 2.4232410448408226,
+      "T20_REW_s": 1.591
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P2",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": -0.23935305422891726,
+      "C80_REW_dB": 1.28,
+      "T20_sim_s": 2.3928442992203824,
+      "T20_REW_s": 1.599
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P4",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": -1.7844442842959714,
+      "C80_REW_dB": -0.8,
+      "T20_sim_s": 2.4336716773642038,
+      "T20_REW_s": 1.483
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P5",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": -0.5684506354380644,
+      "C80_REW_dB": 3.0,
+      "T20_sim_s": 2.365209445516577,
+      "T20_REW_s": 1.532
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P6",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": 1.2028870130849796,
+      "C80_REW_dB": 1.23,
+      "T20_sim_s": 2.685498714948155,
+      "T20_REW_s": 1.562
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P7",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": -1.722135505050975,
+      "C80_REW_dB": -0.14,
+      "T20_sim_s": 2.5126962484255158,
+      "T20_REW_s": 1.6
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P8",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": -1.5013341725889378,
+      "C80_REW_dB": -2.91,
+      "T20_sim_s": 2.4892345788175607,
+      "T20_REW_s": 1.455
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P9",
+      "frecuencia_Hz": 250,
+      "C80_sim_dB": -1.5389442045778776,
+      "C80_REW_dB": -3.6,
+      "T20_sim_s": 2.4675329123427954,
+      "T20_REW_s": 1.624
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P1",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": -0.4999844629975795,
+      "C80_REW_dB": 2.44,
+      "T20_sim_s": 2.002047522339777,
+      "T20_REW_s": 1.528
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P2",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": 0.35726606978322517,
+      "C80_REW_dB": 1.96,
+      "T20_sim_s": 2.0860268172522916,
+      "T20_REW_s": 1.689
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P4",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": -0.4959671928665074,
+      "C80_REW_dB": -0.81,
+      "T20_sim_s": 2.0102424933159733,
+      "T20_REW_s": 1.711
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P5",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": 0.7872624360963885,
+      "C80_REW_dB": 3.83,
+      "T20_sim_s": 1.9779353724315285,
+      "T20_REW_s": 1.71
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P6",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": 2.581402900690643,
+      "C80_REW_dB": 3.35,
+      "T20_sim_s": 2.0918462572249594,
+      "T20_REW_s": 1.554
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P7",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": -0.6521919788556323,
+      "C80_REW_dB": 2.95,
+      "T20_sim_s": 2.146115416903332,
+      "T20_REW_s": 1.445
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P8",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": -0.6848853529379039,
+      "C80_REW_dB": 0.87,
+      "T20_sim_s": 1.998601702290411,
+      "T20_REW_s": 1.546
+    },
+    {
+      "caso": "D",
+      "fuente": "F1",
+      "receptor": "P9",
+      "frecuencia_Hz": 500,
+      "C80_sim_dB": -0.2680659020733582,
+      "C80_REW_dB": -1.09,
+      "T20_sim_s": 2.0719998539035336,
+      "T20_REW_s": 1.507
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "original_B_intacto": true,
+  "escena_y_referencias_de_caras_identicas": true,
+  "fuentes_y_receptores_conservados": true,
+  "cambio_fisico": "Solo absorción en 05_muros, 10_laterales_altos, 11_fondo_alto; dispersión conservada.",
+  "bandas_material_verificadas": 27,
+  "T20_P1_F1_confirmado_s": 1.6502817948314492,
+  "T30_P1_F1_confirmado_s": 1.732824487773082,
+  "confirmacion_particulas": 1200000,
+  "validacion_fuentes": 2,
+  "validacion_bandas_por_fuente": 7,
+  "validacion_receptores": 9,
+  "sha256_proyecto": "352857b1e488c13cc771a85c2717578e2b87883e23101dc46072c6695986f3a5",
+  "interfaz_grafica": "No comprobada; cálculos ejecutados con SPPS instalado."
+}

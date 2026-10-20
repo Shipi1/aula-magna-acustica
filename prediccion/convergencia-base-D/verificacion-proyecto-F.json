@@ -1,0 +1,13 @@
+{
+  "proyecto": "F_base_D_convergencia_Lw90.proj",
+  "SHA256": "f38f9020520e3b22101e61b263a0a5877e980f950c5076ea938f627845a5d984",
+  "E_original_sha256": "1b76a05e7381d5c95ff365657f04ae7bdb27ccba9a6ebf14feba4504e6ac0e5d",
+  "geometria_fuentes_receptores_preservados": true,
+  "materiales_preservados": true,
+  "unico_material_modificado": null,
+  "particulas_configuracion_principal": 4800000,
+  "banda_configuracion_principal_Hz": 1000,
+  "Lw_global_principal_dB": 90,
+  "Lw_global_resultados_dB": 80,
+  "resultados_nativos_incluidos": 5
+}

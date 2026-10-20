@@ -1,0 +1,135 @@
+{
+  "carpeta": "confirmacion-00",
+  "fuente": "F1",
+  "alpha_1kHz": 0.24794628455412168,
+  "incremento_alpha": 0.21794628455412168,
+  "particulas_por_banda": 1200000,
+  "bandas_Hz": [
+    1000
+  ],
+  "duracion_calculo_s": 281.7637465000007,
+  "resultados": [
+    {
+      "receptor": "P1",
+      "frecuencia_Hz": 1000,
+      "T20_s": 1.6502817948314492,
+      "T20_r2": 0.9982919295135931,
+      "T30_s": 1.732824487773082,
+      "T30_r2": 0.9984471592953222,
+      "EDT_s": 1.5879486253527224,
+      "EDT_r2": 0.9978335775143615,
+      "energia_ultimo_segundo_pct": 0.0
+    },
+    {
+      "receptor": "P2",
+      "frecuencia_Hz": 1000,
+      "T20_s": 1.6437282543736744,
+      "T20_r2": 0.9995723447567726,
+      "T30_s": 1.7396801472577885,
+      "T30_r2": 0.9979026953523644,
+      "EDT_s": 1.7439552574818076,
+      "EDT_r2": 0.9972507002429547,
+      "energia_ultimo_segundo_pct": 0.0
+    },
+    {
+      "receptor": "P3",
+      "frecuencia_Hz": 1000,
+      "T20_s": 1.705383721562146,
+      "T20_r2": 0.998302817376571,
+      "T30_s": 1.715009549559125,
+      "T30_r2": 0.9985384977426947,
+      "EDT_s": 1.466988754059639,
+      "EDT_r2": 0.991193969080183,
+      "energia_ultimo_segundo_pct": 0.0
+    },
+    {
+      "receptor": "P4",
+      "frecuencia_Hz": 1000,
+      "T20_s": 1.702959561598328,
+      "T20_r2": 0.9987246832314318,
+      "T30_s": 1.753379442483938,
+      "T30_r2": 0.9988936600653506,
+      "EDT_s": 1.610773698597161,
+      "EDT_r2": 0.9969800550547727,
+      "energia_ultimo_segundo_pct": 0.0
+    },
+    {
+      "receptor": "P5",
+      "frecuencia_Hz": 1000,
+      "T20_s": 1.7019488093722692,
+      "T20_r2": 0.9964635283089662,
+      "T30_s": 1.7280509729174571,
+      "T30_r2": 0.9977136655554294,
+      "EDT_s": 1.5218239125530162,
+      "EDT_r2": 0.9280061984148382,
+      "energia_ultimo_segundo_pct": 0.0
+    },
+    {
+      "receptor": "P6",
+      "frecuencia_Hz": 1000,
+      "T20_s": 1.7372112757503861,
+      "T20_r2": 0.9975229530105866,
+      "T30_s": 1.7228257507313467,
+      "T30_r2": 0.997452481253248,
+      "EDT_s": 1.4206243662085967,
+      "EDT_r2": 0.9491308462630392,
+      "energia_ultimo_segundo_pct": 0.0
+    },
+    {
+      "receptor": "P7",
+      "frecuencia_Hz": 1000,
+      "T20_s": 1.6415371463442554,
+      "T20_r2": 0.9995625127745146,
+      "T30_s": 1.6703657962385912,
+      "T30_r2": 0.9991272292383981,
+      "EDT_s": 1.622108123961425,
+      "EDT_r2": 0.9982718318481014,
+      "energia_ultimo_segundo_pct": 0.0
+    },
+    {
+      "receptor": "P8",
+      "frecuencia_Hz": 1000,
+      "T20_s": 1.6691808422031509,
+      "T20_r2": 0.9987769209235918,
+      "T30_s": 1.783328652497205,
+      "T30_r2": 0.9975843074816154,
+      "EDT_s": 1.6052220050672625,
+      "EDT_r2": 0.9957930957405619,
+      "energia_ultimo_segundo_pct": 0.0
+    },
+    {
+      "receptor": "P9",
+      "frecuencia_Hz": 1000,
+      "T20_s": 1.7196462151794325,
+      "T20_r2": 0.999426000883835,
+      "T30_s": 1.7037926781433683,
+      "T30_r2": 0.9983314061012146,
+      "EDT_s": 1.6763730169965307,
+      "EDT_r2": 0.9931351896299562,
+      "energia_ultimo_segundo_pct": 0.0
+    }
+  ],
+  "estadisticas": [
+    [
+      "",
+      "Particles absorbed by the atmosphere",
+      "Particles absorbed by the materials",
+      "Particles absorbed by the fittings",
+      "Particles lost by infinite loops",
+      "Particles lost by meshing problems",
+      "Particles remaining at the end of the calculation",
+      "Total"
+    ],
+    [
+      "1000 Hz",
+      31828,
+      1167956,
+      0,
+      16,
+      200,
+      0,
+      1200000
+    ]
+  ],
+  "EDT_metodo": "Ajuste desde primera llegada no nula hasta -10 dB de Schroeder; excluye silencio de propagación."
+}

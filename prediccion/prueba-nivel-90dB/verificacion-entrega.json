@@ -1,0 +1,17 @@
+{
+  "proyecto": "E_fuente_Lw90.proj",
+  "fuentes": [
+    {
+      "fuente": "F1",
+      "Lw_global_suma_dB": 89.99997927336408,
+      "bandas": 27
+    },
+    {
+      "fuente": "F2",
+      "Lw_global_suma_dB": 89.99997927336408,
+      "bandas": 27
+    }
+  ],
+  "D_original_sha256": "352857b1e488c13cc771a85c2717578e2b87883e23101dc46072c6695986f3a5",
+  "geometria_materiales_receptores_sin_cambios": true
+}

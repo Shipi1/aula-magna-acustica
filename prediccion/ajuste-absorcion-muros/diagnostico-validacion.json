@@ -1,0 +1,7 @@
+{
+  "objetivo_excluido": true,
+  "comparaciones_fuera_del_objetivo": 214,
+  "error_absoluto_medio_s": 0.4560378076241409,
+  "RMSE_s": 0.7275610721063908,
+  "nota": "Comparaciones correlacionadas por fuente/receptor/método; resumen descriptivo, no incertidumbre estadística ni criterio normativo."
+}

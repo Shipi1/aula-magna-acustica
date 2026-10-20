@@ -1,0 +1,23 @@
+{
+  "numerical_comparisons": 16,
+  "charts": 4,
+  "desktop": true,
+  "mobile": true,
+  "no_horizontal_overflow": true,
+  "empty_selection": true,
+  "paired_reference_intersection": true,
+  "csv_download": true,
+  "svg_download": true,
+  "portable_file": true,
+  "single_predictive_base": true,
+  "simplified_method": true,
+  "loess_trend": {
+    "symmetricColor": true,
+    "zeroColor": true,
+    "linearExact": true,
+    "curved": true,
+    "sparse": true,
+    "constant": true
+  },
+  "javascript_errors": []
+}

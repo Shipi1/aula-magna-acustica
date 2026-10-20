@@ -1,0 +1,13 @@
+{
+  "proyecto": "G_base_efectiva_espectral_Lw90.proj",
+  "SHA256": "c7d4c08a0cfee0ac6bb3fe1afc9343cecbb74702111644c8f0eba5109857a84e",
+  "E_original_sha256": "1b76a05e7381d5c95ff365657f04ae7bdb27ccba9a6ebf14feba4504e6ac0e5d",
+  "geometria_fuentes_receptores_preservados": true,
+  "materiales_preservados": false,
+  "unico_material_modificado": 115,
+  "particulas_configuracion_principal": 4800000,
+  "banda_configuracion_principal_Hz": 1000,
+  "Lw_global_principal_dB": 90,
+  "Lw_global_resultados_dB": 80,
+  "resultados_nativos_incluidos": 8
+}

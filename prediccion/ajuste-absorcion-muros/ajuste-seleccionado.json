@@ -1,0 +1,26 @@
+{
+  "alpha_1kHz": 0.24794628455412168,
+  "incremento_alpha": 0.21794628455412168,
+  "T20_P1_F1_confirmado_s": 1.6502817948314492,
+  "objetivo_s": 1.7,
+  "tolerancia_s": 0.05,
+  "confirmacion": "confirmacion-00",
+  "grupos": [
+    "05_muros",
+    "10_laterales_altos",
+    "11_fondo_alto"
+  ],
+  "no_modificados": [
+    "cielos",
+    "pilares",
+    "frente de balcón",
+    "embocadura",
+    "antepecho",
+    "paneles de escenario",
+    "butacas",
+    "cortinas",
+    "piso"
+  ],
+  "ley_frecuencias": "alpha_B(f) + incremento_alpha, limitado a 0.99. No se reajustan otras bandas.",
+  "estado": "Ajuste inverso efectivo a P1-F1 a 1 kHz; no propiedad medida del concreto ni calibración global."
+}

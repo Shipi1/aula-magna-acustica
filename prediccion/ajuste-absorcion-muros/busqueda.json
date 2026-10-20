@@ -1,0 +1,44 @@
+[
+  {
+    "alpha_1kHz": 0.03,
+    "T20_P1_s": 2.872666775057336,
+    "particulas": 100000,
+    "carpeta": "busqueda-00-base"
+  },
+  {
+    "alpha_1kHz": 0.3,
+    "T20_P1_s": 1.4199233620956169,
+    "particulas": 100000,
+    "carpeta": "busqueda-01-superior"
+  },
+  {
+    "alpha_1kHz": 0.24794628455412168,
+    "T20_P1_s": 1.6472419187281457,
+    "particulas": 100000,
+    "carpeta": "busqueda-02-interpolada"
+  },
+  {
+    "alpha_1kHz": 0.22615165609870952,
+    "T20_P1_s": 1.8275566191865549,
+    "particulas": 100000,
+    "carpeta": "busqueda-03-interpolada"
+  },
+  {
+    "alpha_1kHz": 0.24156941801790868,
+    "T20_P1_s": 1.4792399086092634,
+    "particulas": 100000,
+    "carpeta": "busqueda-04-interpolada"
+  },
+  {
+    "alpha_1kHz": 0.23179777506491359,
+    "T20_P1_s": 1.998892154597413,
+    "particulas": 100000,
+    "carpeta": "busqueda-05-interpolada"
+  },
+  {
+    "alpha_1kHz": 0.24794628455412168,
+    "T20_P1_s": 1.6502817948314492,
+    "particulas": 1200000,
+    "carpeta": "confirmacion-00"
+  }
+]

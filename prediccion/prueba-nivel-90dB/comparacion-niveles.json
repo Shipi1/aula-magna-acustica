@@ -1,0 +1,99 @@
+{
+  "referencia": "Lw global espectral: 80 frente a 90 dB re 1 pW, sumando las 27 bandas de fuente. Cálculo solo del tercio de 1000 Hz.",
+  "no_equivale_a": "90 dB SPL en un receptor ni a Lp global de banda ancha.",
+  "particulas_por_ensayo": 100000,
+  "semilla": 20261019,
+  "resultados": [
+    {
+      "receptor": "P1",
+      "T20_Lw80_s": 1.6472419187281457,
+      "T20_Lw90_s": 1.6472419170074155,
+      "diferencia_T20_s": -1.7207302249744316e-09,
+      "aumento_energia_integrada_dB": 9.999999905336484,
+      "diferencia_relativa_energia_90_vs_10x80": 4.667709307587697e-08,
+      "bins_con_energia_Lw80": 1025,
+      "bins_con_energia_Lw90": 1025
+    },
+    {
+      "receptor": "P2",
+      "T20_Lw80_s": 1.7531781266663573,
+      "T20_Lw90_s": 1.7531781281071848,
+      "diferencia_T20_s": 1.440827457344085e-09,
+      "aumento_energia_integrada_dB": 9.999999921926548,
+      "diferencia_relativa_energia_90_vs_10x80": 2.9413231288309386e-08,
+      "bins_con_energia_Lw80": 1031,
+      "bins_con_energia_Lw90": 1031
+    },
+    {
+      "receptor": "P3",
+      "T20_Lw80_s": 1.520014513710637,
+      "T20_Lw90_s": 1.520014516219832,
+      "diferencia_T20_s": 2.509195073940873e-09,
+      "aumento_energia_integrada_dB": 9.99999991603963,
+      "diferencia_relativa_energia_90_vs_10x80": 3.10098363017782e-08,
+      "bins_con_energia_Lw80": 771,
+      "bins_con_energia_Lw90": 771
+    },
+    {
+      "receptor": "P4",
+      "T20_Lw80_s": 1.7537674336305051,
+      "T20_Lw90_s": 1.753767428828831,
+      "diferencia_T20_s": -4.801674169385706e-09,
+      "aumento_energia_integrada_dB": 9.999999904508662,
+      "diferencia_relativa_energia_90_vs_10x80": 5.541479977470685e-08,
+      "bins_con_energia_Lw80": 995,
+      "bins_con_energia_Lw90": 995
+    },
+    {
+      "receptor": "P5",
+      "T20_Lw80_s": 1.5842534574962306,
+      "T20_Lw90_s": 1.5842534530727987,
+      "diferencia_T20_s": -4.423431843036951e-09,
+      "aumento_energia_integrada_dB": 9.999999928220285,
+      "diferencia_relativa_energia_90_vs_10x80": 3.6061679243385444e-08,
+      "bins_con_energia_Lw80": 575,
+      "bins_con_energia_Lw90": 575
+    },
+    {
+      "receptor": "P6",
+      "T20_Lw80_s": 1.7973848132587675,
+      "T20_Lw90_s": 1.7973848080523822,
+      "diferencia_T20_s": -5.2063853228645485e-09,
+      "aumento_energia_integrada_dB": 9.99999992630942,
+      "diferencia_relativa_energia_90_vs_10x80": 3.8116818873426836e-08,
+      "bins_con_energia_Lw80": 756,
+      "bins_con_energia_Lw90": 756
+    },
+    {
+      "receptor": "P7",
+      "T20_Lw80_s": 1.5405621301697152,
+      "T20_Lw90_s": 1.5405621260063356,
+      "diferencia_T20_s": -4.163379641042297e-09,
+      "aumento_energia_integrada_dB": 9.999999934887402,
+      "diferencia_relativa_energia_90_vs_10x80": 2.4722576586552266e-08,
+      "bins_con_energia_Lw80": 1037,
+      "bins_con_energia_Lw90": 1037
+    },
+    {
+      "receptor": "P8",
+      "T20_Lw80_s": 1.6771706429630047,
+      "T20_Lw90_s": 1.67717064129011,
+      "diferencia_T20_s": -1.6728947116462223e-09,
+      "aumento_energia_integrada_dB": 9.99999992853613,
+      "diferencia_relativa_energia_90_vs_10x80": 5.131622925574566e-08,
+      "bins_con_energia_Lw80": 881,
+      "bins_con_energia_Lw90": 881
+    },
+    {
+      "receptor": "P9",
+      "T20_Lw80_s": 1.6019328992774167,
+      "T20_Lw90_s": 1.601932898031655,
+      "diferencia_T20_s": -1.2457617160066548e-09,
+      "aumento_energia_integrada_dB": 9.999999950165538,
+      "diferencia_relativa_energia_90_vs_10x80": 3.213735480482212e-08,
+      "bins_con_energia_Lw80": 919,
+      "bins_con_energia_Lw90": 919
+    }
+  ],
+  "max_diferencia_T20_s": 5.2063853228645485e-09
+}
