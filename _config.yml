@@ -1,0 +1,14 @@
+# Keep native simulation runs in Git while publishing the reports and their assets.
+exclude:
+  - prediccion/estudio-difusion/absorcion-posterior/calculos
+  - prediccion/estudio-difusion/calculos
+  - prediccion/estudio-difusion/comparacion-octavas/calculos
+  - prediccion/estudio-difusion/d50-laterales/calculos
+  - prediccion/estudio-difusion/dispersion-agudos/calculos
+  - prediccion/estudio-difusion/laterales-adelantados/calculos
+  - prediccion/estudio-difusion/localizado/calculos
+  - prediccion/estudio-difusion/reflectores-absorcion-localizada/calculos
+  - prediccion/estudio-difusion/reflectores-cobertura/calculos
+  - prediccion/estudio-difusion/reflectores-frente-media/calculos
+  - prediccion/estudio-difusion/reflectores-inclinacion/calculos
+  - prediccion/estudio-difusion/reflectores/calculos
