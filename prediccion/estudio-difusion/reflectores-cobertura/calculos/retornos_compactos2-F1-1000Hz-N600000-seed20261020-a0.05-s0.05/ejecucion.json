@@ -1,0 +1,14 @@
+{
+  "variante": "retornos_compactos2",
+  "fuente": "F1",
+  "frecuencia": 1000,
+  "N": 600000,
+  "semilla": 20261020,
+  "alpha": 0.05,
+  "dispersion": 0.05,
+  "fraccion_perdidas": 0.00011666666666666667,
+  "segundos": 80.67802691459656,
+  "config_sha256": "b668908eb88ce55df4e3396d64d67c5e6b7b9563b85465310c147a528376fdb8",
+  "malla_sha256": "50d8c8da335478c174ab6e6a4c7fb9f0575647679d51862bded082937f145192",
+  "tetra_sha256": "ff31ec21bf4714098d621241dde3ab0ecc7443f04becf359cb1f6afafd7cc2ed"
+}

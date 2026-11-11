@@ -1,0 +1,21 @@
+{
+  "corridas_exploratorias": 40,
+  "pilotos_funcionamiento": 1,
+  "receptores_por_corrida": 21,
+  "frecuencias": [
+    1000,
+    2000,
+    4000,
+    8000
+  ],
+  "configuraciones_y_tetra_hash_verificados": true,
+  "Lw_global_90_verificado": true,
+  "absorcion_conservada": true,
+  "max_fraccion_perdidas": 0.00023333333333333333,
+  "documentos_enlaces_verificados": [
+    "informes/PLAN-DE-LOCALIZACION-Y-VALIDACION-DEL-TRATAMIENTO.md",
+    "informes/PASO-3-ENSAYO-DE-PANOS-LOCALIZADOS.md",
+    "informes/METODO-DE-COMPARACION-DE-DIFUSION.md",
+    "prediccion/estudio-difusion/localizado/README.md"
+  ]
+}

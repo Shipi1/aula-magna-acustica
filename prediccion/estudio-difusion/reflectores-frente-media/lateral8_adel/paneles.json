@@ -1,0 +1,786 @@
+[
+  {
+    "id": 1,
+    "centro": [
+      15.5,
+      -8.0,
+      4.4
+    ],
+    "normal": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "u": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "v": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "ancho": 6.0,
+    "alto": 3.0,
+    "espesor": 0.02,
+    "funcion": "Retorno lateral hacia frente y media",
+    "rutas_actuales": [
+      {
+        "fuente": "F1",
+        "receptor": "V02",
+        "objetivo": true,
+        "punto": [
+          18.077415435591938,
+          -7.99,
+          4.479340970268981
+        ],
+        "retardo_ms": 10.101142969685379,
+        "distancia_reflejada_m": 24.86745948188623,
+        "cos_incidencia": 0.5227715363936686,
+        "corte_finito_estimado_Hz": 408.89096133431036
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V03",
+        "objetivo": true,
+        "punto": [
+          14.061389550630857,
+          -7.990000000000002,
+          3.538496453319798
+        ],
+        "retardo_ms": 20.64355402311167,
+        "distancia_reflejada_m": 28.467359222061486,
+        "cos_incidencia": 0.6674310690830939,
+        "corte_finito_estimado_Hz": 296.0812806612357
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V07",
+        "objetivo": false,
+        "punto": [
+          16.169284287404913,
+          -7.990000000000002,
+          4.046336825941102
+        ],
+        "retardo_ms": 17.453944443071023,
+        "distancia_reflejada_m": 32.479088544409294,
+        "cos_incidencia": 0.5849917855168227,
+        "corte_finito_estimado_Hz": 439.7247445402913
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V08",
+        "objetivo": true,
+        "punto": [
+          13.575056090424802,
+          -7.990000000000002,
+          3.4352159877043107
+        ],
+        "retardo_ms": 24.813256975186835,
+        "distancia_reflejada_m": 36.31654158465828,
+        "cos_incidencia": 0.6883915402923191,
+        "corte_finito_estimado_Hz": 317.0537639972052
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V11",
+        "objetivo": false,
+        "punto": [
+          18.277179024178974,
+          -7.990000000000002,
+          4.643425848006114
+        ],
+        "retardo_ms": 15.032578735525501,
+        "distancia_reflejada_m": 36.81584224226777,
+        "cos_incidencia": 0.5160821766489245,
+        "corte_finito_estimado_Hz": 640.4328890144179
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V12",
+        "objetivo": false,
+        "punto": [
+          15.17705609036404,
+          -7.990000000000002,
+          3.4352159877043107
+        ],
+        "retardo_ms": 21.954791490348995,
+        "distancia_reflejada_m": 40.003639726093304,
+        "cos_incidencia": 0.6249431344429928,
+        "corte_finito_estimado_Hz": 423.75807131037965
+      },
+      {
+        "fuente": "F2",
+        "receptor": "P9",
+        "objetivo": false,
+        "punto": [
+          14.892333675114797,
+          -7.989999999999998,
+          3.8184350165063727
+        ],
+        "retardo_ms": 41.128565421329746,
+        "distancia_reflejada_m": 35.94816251810612,
+        "cos_incidencia": 0.7986500065037088,
+        "corte_finito_estimado_Hz": 264.19004315743916
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V03",
+        "objetivo": true,
+        "punto": [
+          16.540253164556965,
+          -7.99,
+          4.093153645117072
+        ],
+        "retardo_ms": 31.013348401496604,
+        "distancia_reflejada_m": 31.642233590667246,
+        "cos_incidencia": 0.7489989583728444,
+        "corte_finito_estimado_Hz": 266.5046903094589
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V04",
+        "objetivo": true,
+        "punto": [
+          14.33010101010101,
+          -7.990000000000002,
+          3.74112101339732
+        ],
+        "retardo_ms": 43.619528080125846,
+        "distancia_reflejada_m": 36.409825113406605,
+        "cos_incidencia": 0.8157138878720965,
+        "corte_finito_estimado_Hz": 254.52035001827235
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V08",
+        "objetivo": true,
+        "punto": [
+          16.46983164983165,
+          -7.990000000000002,
+          4.084794596469764
+        ],
+        "retardo_ms": 38.266927368699726,
+        "distancia_reflejada_m": 39.54404632228706,
+        "cos_incidencia": 0.7510612282299763,
+        "corte_finito_estimado_Hz": 326.06940551608733
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "centro": [
+      15.5,
+      8.0,
+      4.4
+    ],
+    "normal": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "u": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "v": [
+      -0.0,
+      0.0,
+      1.0
+    ],
+    "ancho": 6.0,
+    "alto": 3.0,
+    "espesor": 0.02,
+    "funcion": "Retorno lateral hacia frente y media",
+    "rutas_actuales": [
+      {
+        "fuente": "F1",
+        "receptor": "V02",
+        "objetivo": true,
+        "punto": [
+          14.036202609318117,
+          7.99,
+          3.5325958450290127
+        ],
+        "retardo_ms": 20.54914909949938,
+        "distancia_reflejada_m": 28.440677578282617,
+        "cos_incidencia": 0.6666507838380384,
+        "corte_finito_estimado_Hz": 296.2621017767866
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V03",
+        "objetivo": true,
+        "punto": [
+          18.05296301464425,
+          7.99,
+          4.473612439917392
+        ],
+        "retardo_ms": 10.056456938790253,
+        "distancia_reflejada_m": 24.84657201922356,
+        "cos_incidencia": 0.5216011283335183,
+        "corte_finito_estimado_Hz": 410.8581439165703
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V05",
+        "objetivo": true,
+        "punto": [
+          13.547131501450785,
+          7.990000000000002,
+          3.4286378084057105
+        ],
+        "retardo_ms": 24.694962972388737,
+        "distancia_reflejada_m": 36.289017522039394,
+        "cos_incidencia": 0.6878114014877393,
+        "corte_finito_estimado_Hz": 316.77624639247864
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V06",
+        "objetivo": false,
+        "punto": [
+          16.1379958583316,
+          7.99,
+          4.038966228772875
+        ],
+        "retardo_ms": 17.372337157076338,
+        "distancia_reflejada_m": 32.455705087234165,
+        "cos_incidencia": 0.5841808073337649,
+        "corte_finito_estimado_Hz": 440.2804767572746
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V09",
+        "objetivo": false,
+        "punto": [
+          15.143685988691228,
+          7.990000000000002,
+          3.428637808407495
+        ],
+        "retardo_ms": 21.84934636081686,
+        "distancia_reflejada_m": 39.978654196706096,
+        "cos_incidencia": 0.6243331723383411,
+        "corte_finito_estimado_Hz": 423.55663391717275
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V10",
+        "objetivo": false,
+        "punto": [
+          18.23978910734508,
+          7.99,
+          4.634326923850515
+        ],
+        "retardo_ms": 14.961188029817997,
+        "distancia_reflejada_m": 36.795214906852856,
+        "cos_incidencia": 0.5152843935942297,
+        "corte_finito_estimado_Hz": 641.5497117792087
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V03",
+        "objetivo": true,
+        "punto": [
+          13.676029055690076,
+          7.99,
+          3.4142504171366848
+        ],
+        "retardo_ms": 4.380268347799838,
+        "distancia_reflejada_m": 22.533720212302953,
+        "cos_incidencia": 0.3665617537706981,
+        "corte_finito_estimado_Hz": 762.0446227129847
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V07",
+        "objetivo": false,
+        "punto": [
+          15.655447941888625,
+          7.99,
+          3.8911379994260784
+        ],
+        "retardo_ms": 3.563970080858859,
+        "distancia_reflejada_m": 27.3837396923646,
+        "cos_incidencia": 0.3016388591476105,
+        "corte_finito_estimado_Hz": 1367.602806320688
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V10",
+        "objetivo": false,
+        "punto": [
+          12.571107994389905,
+          7.99,
+          3.209828422246776
+        ],
+        "retardo_ms": 6.307756102915018,
+        "distancia_reflejada_m": 34.39628247654531,
+        "cos_incidencia": 0.414579686328714,
+        "corte_finito_estimado_Hz": 671.9786341100327
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V11",
+        "objetivo": false,
+        "punto": [
+          17.634866828087173,
+          7.99,
+          4.451834540101577
+        ],
+        "retardo_ms": 2.995025192562704,
+        "distancia_reflejada_m": 32.372584824296894,
+        "cos_incidencia": 0.2551541696417316,
+        "corte_finito_estimado_Hz": 2259.50778738456
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "centro": [
+      12.0,
+      -4.0,
+      9.2
+    ],
+    "normal": [
+      0.4425293332784,
+      0.3786567042238177,
+      -0.812887993228176
+    ],
+    "u": [
+      -0.1810480439546309,
+      0.9255371955498906,
+      0.3325695497694367
+    ],
+    "v": [
+      0.8782877631894782,
+      2.7755575615628914e-17,
+      0.4781324137010826
+    ],
+    "ancho": 4.0,
+    "alto": 3.0,
+    "espesor": 0.02,
+    "familia": "adelantado",
+    "lado": -1,
+    "rutas": [
+      {
+        "fuente": "F1",
+        "receptor": "P8",
+        "punto": [
+          11.607547714227284,
+          -5.4918118060473144,
+          8.27913981212351
+        ],
+        "retardo_ms": 7.892345556081215,
+        "distancia_reflejada_m": 26.10221109286346,
+        "cos_incidencia": 0.4499629151135969,
+        "corte_finito_estimado_Hz": 593.1885966098625
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V05",
+        "punto": [
+          12.479201344400856,
+          -5.681907879174105,
+          8.665110757552712
+        ],
+        "retardo_ms": 7.616396843070615,
+        "distancia_reflejada_m": 30.448147905812597,
+        "cos_incidencia": 0.4166825100484807,
+        "corte_finito_estimado_Hz": 785.7645927356803
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V06",
+        "punto": [
+          10.748308726311421,
+          -3.4333137920824846,
+          8.77025989323648
+        ],
+        "retardo_ms": 10.132011778698704,
+        "distancia_reflejada_m": 29.979513807829015,
+        "cos_incidencia": 0.49897910342888124,
+        "corte_finito_estimado_Hz": 500.33718737092374
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V09",
+        "punto": [
+          12.40861560575668,
+          -5.378701136914163,
+          8.767923207186177
+        ],
+        "retardo_ms": 8.383176088791302,
+        "distancia_reflejada_m": 35.373223963673354,
+        "cos_incidencia": 0.42121852894749723,
+        "corte_finito_estimado_Hz": 830.1599889262865
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V10",
+        "punto": [
+          11.61635158412395,
+          -3.447015018541765,
+          9.23643280884946
+        ],
+        "retardo_ms": 9.494761326283886,
+        "distancia_reflejada_m": 34.92569697424419,
+        "cos_incidencia": 0.4587021213036394,
+        "corte_finito_estimado_Hz": 664.4116121549079
+      },
+      {
+        "fuente": "F2",
+        "receptor": "P8",
+        "punto": [
+          12.965432652168937,
+          -4.1991373652881485,
+          9.620510048505222
+        ],
+        "retardo_ms": 10.077817372617872,
+        "distancia_reflejada_m": 28.672183332490448,
+        "cos_incidencia": 0.4754057382764137,
+        "corte_finito_estimado_Hz": 602.4741499521118
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V01",
+        "punto": [
+          13.256499633339656,
+          -4.824989363581812,
+          9.487432209011818
+        ],
+        "retardo_ms": 9.256251455026558,
+        "distancia_reflejada_m": 28.301742803035026,
+        "cos_incidencia": 0.459804509344949,
+        "corte_finito_estimado_Hz": 635.1813420397954
+      }
+    ],
+    "pares_primarios_tempranos": 2,
+    "virtuales_tempranos": 5,
+    "rutas_actuales": [
+      {
+        "fuente": "F1",
+        "receptor": "P8",
+        "objetivo": true,
+        "punto": [
+          11.607547714227284,
+          -5.4918118060473144,
+          8.27913981212351
+        ],
+        "retardo_ms": 7.892345556081215,
+        "distancia_reflejada_m": 26.10221109286346,
+        "cos_incidencia": 0.4499629151135969,
+        "corte_finito_estimado_Hz": 593.1885966098625
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V05",
+        "objetivo": true,
+        "punto": [
+          12.479201344400856,
+          -5.681907879174105,
+          8.665110757552712
+        ],
+        "retardo_ms": 7.616396843070615,
+        "distancia_reflejada_m": 30.448147905812597,
+        "cos_incidencia": 0.4166825100484807,
+        "corte_finito_estimado_Hz": 785.7645927356803
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V06",
+        "objetivo": false,
+        "punto": [
+          10.748308726311421,
+          -3.4333137920824846,
+          8.77025989323648
+        ],
+        "retardo_ms": 10.132011778698704,
+        "distancia_reflejada_m": 29.979513807829015,
+        "cos_incidencia": 0.49897910342888124,
+        "corte_finito_estimado_Hz": 500.33718737092374
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V09",
+        "objetivo": false,
+        "punto": [
+          12.40861560575668,
+          -5.378701136914163,
+          8.767923207186177
+        ],
+        "retardo_ms": 8.383176088791302,
+        "distancia_reflejada_m": 35.373223963673354,
+        "cos_incidencia": 0.42121852894749723,
+        "corte_finito_estimado_Hz": 830.1599889262865
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V10",
+        "objetivo": false,
+        "punto": [
+          11.61635158412395,
+          -3.447015018541765,
+          9.23643280884946
+        ],
+        "retardo_ms": 9.494761326283886,
+        "distancia_reflejada_m": 34.92569697424419,
+        "cos_incidencia": 0.4587021213036394,
+        "corte_finito_estimado_Hz": 664.4116121549079
+      },
+      {
+        "fuente": "F2",
+        "receptor": "P8",
+        "objetivo": true,
+        "punto": [
+          12.965432652168937,
+          -4.1991373652881485,
+          9.620510048505222
+        ],
+        "retardo_ms": 10.077817372617872,
+        "distancia_reflejada_m": 28.672183332490448,
+        "cos_incidencia": 0.4754057382764137,
+        "corte_finito_estimado_Hz": 602.4741499521118
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V01",
+        "objetivo": true,
+        "punto": [
+          13.256499633339656,
+          -4.824989363581812,
+          9.487432209011818
+        ],
+        "retardo_ms": 9.256251455026558,
+        "distancia_reflejada_m": 28.301742803035026,
+        "cos_incidencia": 0.459804509344949,
+        "corte_finito_estimado_Hz": 635.1813420397954
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "centro": [
+      12.0,
+      4.0,
+      8.2
+    ],
+    "normal": [
+      0.35121076935267953,
+      -0.007538979963930391,
+      -0.9362660729043867
+    ],
+    "u": [
+      0.00264784620111879,
+      0.9999715814867458,
+      -0.00705869176205936
+    ],
+    "v": [
+      0.9362926809503501,
+      0.0,
+      0.35122075052423346
+    ],
+    "ancho": 4.0,
+    "alto": 3.0,
+    "espesor": 0.02,
+    "familia": "adelantado",
+    "lado": 1,
+    "rutas": [
+      {
+        "fuente": "F1",
+        "receptor": "P9",
+        "punto": [
+          11.710207120122304,
+          3.095806153212285,
+          8.08789332003163
+        ],
+        "retardo_ms": 6.143984134142969,
+        "distancia_reflejada_m": 25.381688732717386,
+        "cos_incidencia": 0.4103209845183989,
+        "corte_finito_estimado_Hz": 675.0649089912118
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V04",
+        "punto": [
+          11.673238826462327,
+          3.5437074192599933,
+          8.070419247220494
+        ],
+        "retardo_ms": 5.98816588670135,
+        "distancia_reflejada_m": 25.158023249920753,
+        "cos_incidencia": 0.4054385867344308,
+        "corte_finito_estimado_Hz": 690.7117669408985
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V08",
+        "punto": [
+          12.625686421550231,
+          3.233252617532111,
+          8.430199842627442
+        ],
+        "retardo_ms": 5.820447052424001,
+        "distancia_reflejada_m": 29.821000591073393,
+        "cos_incidencia": 0.375714882356323,
+        "corte_finito_estimado_Hz": 917.3396708539709
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V12",
+        "punto": [
+          12.792351069544807,
+          2.805963883440465,
+          8.496159447742285
+        ],
+        "retardo_ms": 6.2118976557698025,
+        "distancia_reflejada_m": 34.61957003466722,
+        "cos_incidencia": 0.3743618872969332,
+        "corte_finito_estimado_Hz": 996.032000533088
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V03",
+        "punto": [
+          11.508199092299801,
+          4.111364125900285,
+          8.003938909688184
+        ],
+        "retardo_ms": 7.023424848769534,
+        "distancia_reflejada_m": 23.43767973563459,
+        "cos_incidencia": 0.45525288672964825,
+        "corte_finito_estimado_Hz": 504.0145027364274
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V06",
+        "punto": [
+          12.757666078270134,
+          2.0301551237711513,
+          8.489395413501532
+        ],
+        "retardo_ms": 6.083949157080991,
+        "distancia_reflejada_m": 29.306433734151057,
+        "cos_incidencia": 0.38706582053655125,
+        "corte_finito_estimado_Hz": 849.3732550942367
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V07",
+        "punto": [
+          12.797599003841405,
+          4.148567553096426,
+          8.487317163093932
+        ],
+        "retardo_ms": 6.274680238068288,
+        "distancia_reflejada_m": 28.310802566130224,
+        "cos_incidencia": 0.3990803480097178,
+        "corte_finito_estimado_Hz": 773.250662479079
+      }
+    ],
+    "pares_primarios_tempranos": 1,
+    "virtuales_tempranos": 6,
+    "rutas_actuales": [
+      {
+        "fuente": "F1",
+        "receptor": "P9",
+        "objetivo": true,
+        "punto": [
+          11.710207120122304,
+          3.095806153212285,
+          8.08789332003163
+        ],
+        "retardo_ms": 6.143984134142969,
+        "distancia_reflejada_m": 25.381688732717386,
+        "cos_incidencia": 0.4103209845183989,
+        "corte_finito_estimado_Hz": 675.0649089912118
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V04",
+        "objetivo": true,
+        "punto": [
+          11.673238826462327,
+          3.5437074192599933,
+          8.070419247220494
+        ],
+        "retardo_ms": 5.98816588670135,
+        "distancia_reflejada_m": 25.158023249920753,
+        "cos_incidencia": 0.4054385867344308,
+        "corte_finito_estimado_Hz": 690.7117669408985
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V08",
+        "objetivo": true,
+        "punto": [
+          12.625686421550231,
+          3.233252617532111,
+          8.430199842627442
+        ],
+        "retardo_ms": 5.820447052424001,
+        "distancia_reflejada_m": 29.821000591073393,
+        "cos_incidencia": 0.375714882356323,
+        "corte_finito_estimado_Hz": 917.3396708539709
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V12",
+        "objetivo": false,
+        "punto": [
+          12.792351069544807,
+          2.805963883440465,
+          8.496159447742285
+        ],
+        "retardo_ms": 6.2118976557698025,
+        "distancia_reflejada_m": 34.61957003466722,
+        "cos_incidencia": 0.3743618872969332,
+        "corte_finito_estimado_Hz": 996.032000533088
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V03",
+        "objetivo": true,
+        "punto": [
+          11.508199092299801,
+          4.111364125900285,
+          8.003938909688184
+        ],
+        "retardo_ms": 7.023424848769534,
+        "distancia_reflejada_m": 23.43767973563459,
+        "cos_incidencia": 0.45525288672964825,
+        "corte_finito_estimado_Hz": 504.0145027364274
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V06",
+        "objetivo": false,
+        "punto": [
+          12.757666078270134,
+          2.0301551237711513,
+          8.489395413501532
+        ],
+        "retardo_ms": 6.083949157080991,
+        "distancia_reflejada_m": 29.306433734151057,
+        "cos_incidencia": 0.38706582053655125,
+        "corte_finito_estimado_Hz": 849.3732550942367
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V07",
+        "objetivo": false,
+        "punto": [
+          12.797599003841405,
+          4.148567553096426,
+          8.487317163093932
+        ],
+        "retardo_ms": 6.274680238068288,
+        "distancia_reflejada_m": 28.310802566130224,
+        "cos_incidencia": 0.3990803480097178,
+        "corte_finito_estimado_Hz": 773.250662479079
+      }
+    ]
+  }
+]

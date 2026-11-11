@@ -1,0 +1,226 @@
+[
+  {
+    "variante": "lateral9",
+    "panel": 1,
+    "holgura_vertical": {
+      "minimo_m": 3.311462072138165,
+      "punto_panel": [
+        18.5,
+        -9.01,
+        2.9000000000000004
+      ],
+      "cota_piso_m": -0.41146207213816444,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "lateral9",
+    "panel": 2,
+    "holgura_vertical": {
+      "minimo_m": 3.31077534071873,
+      "punto_panel": [
+        18.5,
+        9.01,
+        2.9000000000000004
+      ],
+      "cota_piso_m": -0.41077534071872956,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "lateral8",
+    "panel": 1,
+    "holgura_vertical": {
+      "minimo_m": 3.3149697549208743,
+      "punto_panel": [
+        18.5,
+        -8.01,
+        2.9000000000000004
+      ],
+      "cota_piso_m": -0.4149697549208741,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "lateral8",
+    "panel": 2,
+    "holgura_vertical": {
+      "minimo_m": 3.3144365603536596,
+      "punto_panel": [
+        18.5,
+        8.01,
+        2.9000000000000004
+      ],
+      "cota_piso_m": -0.4144365603536592,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "lateral8_adel",
+    "panel": 1,
+    "holgura_vertical": {
+      "minimo_m": 3.3149697549208743,
+      "punto_panel": [
+        18.5,
+        -8.01,
+        2.9000000000000004
+      ],
+      "cota_piso_m": -0.4149697549208741,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "lateral8_adel",
+    "panel": 2,
+    "holgura_vertical": {
+      "minimo_m": 3.3144365603536596,
+      "punto_panel": [
+        18.5,
+        8.01,
+        2.9000000000000004
+      ],
+      "cota_piso_m": -0.4144365603536592,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "lateral8_adel",
+    "panel": 3,
+    "holgura_vertical": {
+      "minimo_m": 7.669533399381174,
+      "punto_panel": [
+        11.049089736457827,
+        -5.847287824057543,
+        7.80953339997722
+      ],
+      "cota_piso_m": 0.14000000059604645,
+      "material_piso": 111,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "lateral8_adel",
+    "panel": 4,
+    "holgura_vertical": {
+      "minimo_m": 7.509688829364441,
+      "punto_panel": [
+        10.60436877867024,
+        5.999867773173852,
+        7.649688829960487
+      ],
+      "cota_piso_m": 0.14000000059604645,
+      "material_piso": 111,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "lateral8_inter",
+    "panel": 1,
+    "holgura_vertical": {
+      "minimo_m": 3.3149697549208743,
+      "punto_panel": [
+        18.5,
+        -8.01,
+        2.9000000000000004
+      ],
+      "cota_piso_m": -0.4149697549208741,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "lateral8_inter",
+    "panel": 2,
+    "holgura_vertical": {
+      "minimo_m": 3.3144365603536596,
+      "punto_panel": [
+        18.5,
+        8.01,
+        2.9000000000000004
+      ],
+      "cota_piso_m": -0.4144365603536592,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "lateral8_inter",
+    "panel": 3,
+    "holgura_vertical": {
+      "minimo_m": 9.292816831236987,
+      "punto_panel": [
+        18.528980438148842,
+        -5.994776443269766,
+        8.872786934815776
+      ],
+      "cota_piso_m": -0.4200298964212098,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "lateral8_inter",
+    "panel": 4,
+    "holgura_vertical": {
+      "minimo_m": 4.50494143125762,
+      "punto_panel": [
+        23.543041512577272,
+        8.864278367540166,
+        8.572633234236136
+      ],
+      "cota_piso_m": 4.067691802978516,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "lateral8_equiv",
+    "panel": 1,
+    "holgura_vertical": {
+      "minimo_m": 3.3149697549208743,
+      "punto_panel": [
+        18.5,
+        -8.01,
+        2.9000000000000004
+      ],
+      "cota_piso_m": -0.4149697549208741,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "lateral8_equiv",
+    "panel": 2,
+    "holgura_vertical": {
+      "minimo_m": 3.3144365603536596,
+      "punto_panel": [
+        18.5,
+        8.01,
+        2.9000000000000004
+      ],
+      "cota_piso_m": -0.4144365603536592,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  }
+]

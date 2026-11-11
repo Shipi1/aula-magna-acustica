@@ -1,0 +1,102 @@
+{
+  "pares_ponderados": [
+    {
+      "fuente": "F1",
+      "receptor": "P8",
+      "peso": 2.1340394360042723
+    },
+    {
+      "fuente": "F1",
+      "receptor": "P9",
+      "peso": 2.034989839045952
+    },
+    {
+      "fuente": "F2",
+      "receptor": "P8",
+      "peso": 0.44999999999999996
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V01",
+      "peso": 1.3567260254003046
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V02",
+      "peso": 1.0903422205467286
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V03",
+      "peso": 1.1289221064530275
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V04",
+      "peso": 1.3414263494689742
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V05",
+      "peso": 1.5782444291856819
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V08",
+      "peso": 1.668556989466571
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V10",
+      "peso": 1.7039175229984351
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V11",
+      "peso": 1.393766120382746
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V01",
+      "peso": 1.7393741569163055
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V02",
+      "peso": 1.1226449750577345
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V03",
+      "peso": 1.2423780662129302
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V04",
+      "peso": 2.2213095039093673
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V05",
+      "peso": 1.141010508633545
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V08",
+      "peso": 3.0
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V10",
+      "peso": 1.1864907945547187
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V11",
+      "peso": 1.6214751396922444
+    }
+  ],
+  "control_no_optimizado": "F2-P9 y puntos sobre madera; se conservan todos los 21 receptores en SPPS",
+  "material": "alpha .05, dispersion .05 a 1000 Hz; no cambia entre variantes",
+  "condiciones": "Paneles 4x3 m, 20 mm. Dentro de envolvente, sin interseccion entre cajas, sin bloquear segmentos directos de F1/F2 a 21 receptores, corte conservador <=1000 Hz y retardo <45 ms para rutas puntuadas. El puntaje es geometrico; no predice D50/C80."
+}

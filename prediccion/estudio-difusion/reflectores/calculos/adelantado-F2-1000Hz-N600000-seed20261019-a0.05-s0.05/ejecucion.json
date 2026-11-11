@@ -1,0 +1,14 @@
+{
+  "variante": "adelantado",
+  "fuente": "F2",
+  "frecuencia": 1000,
+  "N": 600000,
+  "semilla": 20261019,
+  "alpha": 0.05,
+  "dispersion": 0.05,
+  "fraccion_perdidas": 0.000175,
+  "segundos": 94.57175755500793,
+  "config_sha256": "6164e3c2bca09aa9cf382a6b90ddf14c7b3ab899160952c7c69568d0ee23c557",
+  "malla_sha256": "16a2b20d02d41888309acab7b4729eeb9ce1356f99cb0f950471133cebf21c0f",
+  "tetra_sha256": "5643e77b99f845859e148e57bb9a20035202de6f95f2655c88ab812251b45cc3"
+}

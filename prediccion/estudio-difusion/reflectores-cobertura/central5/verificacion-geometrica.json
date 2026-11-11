@@ -1,0 +1,8 @@
+{
+  "caso": "central5",
+  "paneles": 5,
+  "area_frontal_m2": 60.0,
+  "volumen_aire_m3": 9542.533964366941,
+  "volumen_desplazado_m3": 1.2000062319148128,
+  "aristas_dos_caras": true
+}

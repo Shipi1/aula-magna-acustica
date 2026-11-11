@@ -1,0 +1,12 @@
+{
+  "corridas_nuevas": 27,
+  "max_fraccion_perdidas": 0.00018,
+  "control_1000Hz": {
+    "caso": "R2",
+    "fuente": "F1",
+    "semilla": 20261019,
+    "receptores": 21,
+    "max_abs_delta_D50_pp": 0.0,
+    "max_abs_delta_C80_dB": 0.0
+  }
+}

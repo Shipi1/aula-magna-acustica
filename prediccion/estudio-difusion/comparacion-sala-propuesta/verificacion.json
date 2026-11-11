@@ -1,0 +1,129 @@
+{
+  "corridas_reutilizadas": 12,
+  "nuevas_simulaciones": 0,
+  "receptores": 21,
+  "frecuencia_Hz": 1000,
+  "condiciones_iguales_salvo_modelo_y_absorcion_del_pano": true,
+  "corridas": [
+    {
+      "estado": "sin_tratamiento",
+      "carpeta": "reflectores\\calculos\\base-F1-1000Hz-N600000-seed20261019-a0.05-s0.05",
+      "N": 600000,
+      "semilla": 20261019,
+      "fraccion_perdidas": 0.00013,
+      "config_sha256": "ad3cccbd2e814248ac9b88b877b8fd0a43d6ffb392cab5471f78b00992f6f3d7",
+      "malla_sha256": "3e6616806769fde921e6dc3365ae047e98f06da17964e0d58bde92764054faa7",
+      "tetra_sha256": "8bb8e6ca83958e9d1bb65a521b2c6e42f8cbe82420ada701df9740a24034fb58"
+    },
+    {
+      "estado": "sin_tratamiento",
+      "carpeta": "reflectores\\calculos\\base-F1-1000Hz-N600000-seed20261020-a0.05-s0.05",
+      "N": 600000,
+      "semilla": 20261020,
+      "fraccion_perdidas": 0.00014666666666666666,
+      "config_sha256": "a7f6aae148ef526f24ed0f5a168239822dca2e567909789fcd206b84c799b1f9",
+      "malla_sha256": "3e6616806769fde921e6dc3365ae047e98f06da17964e0d58bde92764054faa7",
+      "tetra_sha256": "8bb8e6ca83958e9d1bb65a521b2c6e42f8cbe82420ada701df9740a24034fb58"
+    },
+    {
+      "estado": "sin_tratamiento",
+      "carpeta": "reflectores\\calculos\\base-F1-1000Hz-N600000-seed20261021-a0.05-s0.05",
+      "N": 600000,
+      "semilla": 20261021,
+      "fraccion_perdidas": 0.00013,
+      "config_sha256": "28aa1c4e80f3a5c3f9c298b580cfb8dc6df427dea8f602cdeab8f3dc164dd08a",
+      "malla_sha256": "3e6616806769fde921e6dc3365ae047e98f06da17964e0d58bde92764054faa7",
+      "tetra_sha256": "8bb8e6ca83958e9d1bb65a521b2c6e42f8cbe82420ada701df9740a24034fb58"
+    },
+    {
+      "estado": "sin_tratamiento",
+      "carpeta": "reflectores\\calculos\\base-F2-1000Hz-N600000-seed20261019-a0.05-s0.05",
+      "N": 600000,
+      "semilla": 20261019,
+      "fraccion_perdidas": 0.000145,
+      "config_sha256": "21130902e6a21ecb95f011c3cfe002bfac6b47e5842664b915a7c16477edea6f",
+      "malla_sha256": "3e6616806769fde921e6dc3365ae047e98f06da17964e0d58bde92764054faa7",
+      "tetra_sha256": "8bb8e6ca83958e9d1bb65a521b2c6e42f8cbe82420ada701df9740a24034fb58"
+    },
+    {
+      "estado": "sin_tratamiento",
+      "carpeta": "reflectores\\calculos\\base-F2-1000Hz-N600000-seed20261020-a0.05-s0.05",
+      "N": 600000,
+      "semilla": 20261020,
+      "fraccion_perdidas": 0.00015833333333333332,
+      "config_sha256": "39c02c966c14fce4136014f02566947d4d094461508c9cd2718fc99c0cd29aa1",
+      "malla_sha256": "3e6616806769fde921e6dc3365ae047e98f06da17964e0d58bde92764054faa7",
+      "tetra_sha256": "8bb8e6ca83958e9d1bb65a521b2c6e42f8cbe82420ada701df9740a24034fb58"
+    },
+    {
+      "estado": "sin_tratamiento",
+      "carpeta": "reflectores\\calculos\\base-F2-1000Hz-N600000-seed20261021-a0.05-s0.05",
+      "N": 600000,
+      "semilla": 20261021,
+      "fraccion_perdidas": 0.00014833333333333332,
+      "config_sha256": "001eeb1eda19c6e91fd6a8620d7da4f7fa20db1b6a81e55afbc12c555a0fb1d1",
+      "malla_sha256": "3e6616806769fde921e6dc3365ae047e98f06da17964e0d58bde92764054faa7",
+      "tetra_sha256": "8bb8e6ca83958e9d1bb65a521b2c6e42f8cbe82420ada701df9740a24034fb58"
+    },
+    {
+      "estado": "propuesta",
+      "carpeta": "reflectores-absorcion-localizada\\calculos\\media_centro_a060-F1-1000Hz-N600000-seed20261019-a0.05-s0.05",
+      "N": 600000,
+      "semilla": 20261019,
+      "fraccion_perdidas": 0.000155,
+      "config_sha256": "f276036462c5e80fbc3770da5ad870b6fe2dc32505b52b7d3351929c1edab84f",
+      "malla_sha256": "e3c80b81c4b8aec413245ba418ad8e4d027def9db88088c4bd8cc4d5fb959461",
+      "tetra_sha256": "d66038439c20bee5dfa57009beb714ecc8db3d8dc68aefd550e397fafb251005"
+    },
+    {
+      "estado": "propuesta",
+      "carpeta": "reflectores-absorcion-localizada\\calculos\\media_centro_a060-F1-1000Hz-N600000-seed20261020-a0.05-s0.05",
+      "N": 600000,
+      "semilla": 20261020,
+      "fraccion_perdidas": 0.000125,
+      "config_sha256": "dabedfa7c17af8e1bd9a40c47ba97f095ef8d1f7e88f81a69351f702137f027d",
+      "malla_sha256": "e3c80b81c4b8aec413245ba418ad8e4d027def9db88088c4bd8cc4d5fb959461",
+      "tetra_sha256": "d66038439c20bee5dfa57009beb714ecc8db3d8dc68aefd550e397fafb251005"
+    },
+    {
+      "estado": "propuesta",
+      "carpeta": "reflectores-absorcion-localizada\\calculos\\media_centro_a060-F1-1000Hz-N600000-seed20261021-a0.05-s0.05",
+      "N": 600000,
+      "semilla": 20261021,
+      "fraccion_perdidas": 0.00014333333333333334,
+      "config_sha256": "378736ca6f2c362947b4fdbb664135059a5d10cceaf38fc9276c7d921f7afb1f",
+      "malla_sha256": "e3c80b81c4b8aec413245ba418ad8e4d027def9db88088c4bd8cc4d5fb959461",
+      "tetra_sha256": "d66038439c20bee5dfa57009beb714ecc8db3d8dc68aefd550e397fafb251005"
+    },
+    {
+      "estado": "propuesta",
+      "carpeta": "reflectores-absorcion-localizada\\calculos\\media_centro_a060-F2-1000Hz-N600000-seed20261019-a0.05-s0.05",
+      "N": 600000,
+      "semilla": 20261019,
+      "fraccion_perdidas": 0.00012833333333333333,
+      "config_sha256": "26e17bcf2aadcd6272fdbdfe57733dc2dd8753420bcb16727a3d4e74adb994fc",
+      "malla_sha256": "e3c80b81c4b8aec413245ba418ad8e4d027def9db88088c4bd8cc4d5fb959461",
+      "tetra_sha256": "d66038439c20bee5dfa57009beb714ecc8db3d8dc68aefd550e397fafb251005"
+    },
+    {
+      "estado": "propuesta",
+      "carpeta": "reflectores-absorcion-localizada\\calculos\\media_centro_a060-F2-1000Hz-N600000-seed20261020-a0.05-s0.05",
+      "N": 600000,
+      "semilla": 20261020,
+      "fraccion_perdidas": 0.000145,
+      "config_sha256": "9ab3e20894e47524f42a8940aee6c9c27fc7ab84ca64d7580453fce3068c41ad",
+      "malla_sha256": "e3c80b81c4b8aec413245ba418ad8e4d027def9db88088c4bd8cc4d5fb959461",
+      "tetra_sha256": "d66038439c20bee5dfa57009beb714ecc8db3d8dc68aefd550e397fafb251005"
+    },
+    {
+      "estado": "propuesta",
+      "carpeta": "reflectores-absorcion-localizada\\calculos\\media_centro_a060-F2-1000Hz-N600000-seed20261021-a0.05-s0.05",
+      "N": 600000,
+      "semilla": 20261021,
+      "fraccion_perdidas": 0.00014166666666666668,
+      "config_sha256": "494f9dfc788de9992d69aedf366e72b186487060ef782d7a3bdc6b3487d203ca",
+      "malla_sha256": "e3c80b81c4b8aec413245ba418ad8e4d027def9db88088c4bd8cc4d5fb959461",
+      "tetra_sha256": "d66038439c20bee5dfa57009beb714ecc8db3d8dc68aefd550e397fafb251005"
+    }
+  ]
+}

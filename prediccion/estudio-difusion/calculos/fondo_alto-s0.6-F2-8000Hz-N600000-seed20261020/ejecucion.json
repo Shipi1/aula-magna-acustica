@@ -1,0 +1,11 @@
+{
+  "variante": "fondo_alto",
+  "fuente": "F2",
+  "frecuencia": 8000,
+  "N": 600000,
+  "semilla": 20261020,
+  "dispersion": 0.6,
+  "segundos": 52.79295229911804,
+  "config_sha256": "dbc7a16a384f2b44f5cc2f325e346d37015e4a01b4ebb86cb559cc243874a763",
+  "mesh_sha256": "dd245844061c7e82e9e6b5e032945d913fcb7e01ff50569c6b404fab53c684ad"
+}

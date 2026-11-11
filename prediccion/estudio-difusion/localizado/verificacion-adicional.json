@@ -1,0 +1,24 @@
+{
+  "normales_tetra_hacia_vertice_opuesto": true,
+  "max_error_area_frontera_m2": 1.2441939024832038e-05,
+  "virtuales_dentro_de_dominio": [
+    "V01",
+    "V02",
+    "V03",
+    "V04",
+    "V05",
+    "V06",
+    "V07",
+    "V08",
+    "V09",
+    "V10",
+    "V11",
+    "V12"
+  ],
+  "recorridos_candidatos_cubiertos_R_C": [
+    "F1-P9",
+    "F1-P8",
+    "F2-P9",
+    "F2-P8"
+  ]
+}

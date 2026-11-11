@@ -1,0 +1,56 @@
+{
+  "frecuencias_Hz": [
+    63,
+    125,
+    250,
+    500,
+    1000,
+    2000,
+    4000,
+    8000
+  ],
+  "absorcion_pano": {
+    "63": 0.09,
+    "125": 0.09,
+    "250": 0.39,
+    "500": 0.6,
+    "1000": 0.6,
+    "2000": 0.6,
+    "4000": 0.6,
+    "8000": 0.6
+  },
+  "absorcion_reflectores": {
+    "63": 0.05,
+    "125": 0.05,
+    "250": 0.05,
+    "500": 0.05,
+    "1000": 0.05,
+    "2000": 0.05,
+    "4000": 0.05,
+    "8000": 0.05
+  },
+  "dispersion_reflectores": {
+    "63": 0.05,
+    "125": 0.05,
+    "250": 0.05,
+    "500": 0.05,
+    "1000": 0.05,
+    "2000": 0.05,
+    "4000": 0.05,
+    "8000": 0.05
+  },
+  "fuente_curva": "https://www.ecophon.com/globalassets/old-structure/01.ecophon-master/technical-documentation/absorption_iso/akusto-wall/akusto_wall_wall_panel_a_super_g_ods43_octave.pdf/",
+  "ensayo": "CSTB AC14-26051052/7, 01/10/2014; Akusto Wall A/Super G 40mm, profundidad total 43mm; coeficientes prácticos de octava.",
+  "coeficientes_publicados": {
+    "125": 0.15,
+    "250": 0.65,
+    "500": 1.0,
+    "1000": 1.0,
+    "2000": 1.0,
+    "4000": 1.0
+  },
+  "transformacion": "Hipotesis efectiva alpha_A1(f)=0.60*alpha_referencia(f)/alpha_referencia(1000). Conserva el valor anterior de .60 a 1000Hz. No es el espectro ensayado del producto.",
+  "extremos": "63Hz mantiene el valor de 125Hz y 8000Hz el de 4000Hz; extrapolaciones exploratorias sin dato de ensayo.",
+  "reflector": "Superficie rigida idealizada alpha .05 y dispersion .05 constantes. Se ignoran resonancias y difraccion detallada; cautela especial en bajas frecuencias.",
+  "base": "Se conserva todo el espectro efectivo de la sala, sin recalibrarlo. A 250Hz la absorcion efectiva original del muro (.60) supera la hipotesis nueva (.39)."
+}

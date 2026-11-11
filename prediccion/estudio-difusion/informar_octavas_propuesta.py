@@ -1,0 +1,98 @@
+"""Informe de la extensión por octavas, sin reinterpretar bandas como medidas."""
+import json
+import analizar_octavas_propuesta as a
+from informar_estudio_mixto import table,f
+B=a.B;O=a.O;OUT=O/'resultados';ROOT=B.parents[1];IMG='../prediccion/estudio-difusion/comparacion-octavas/resultados/'
+def main():
+    audit=json.loads((OUT/'verificacion.json').read_text());assert not audit['parcial'] and audit['nuevas']==84 and audit['reutilizadas']==12
+    means=json.loads((OUT/'medias.json').read_text());summary=json.loads((OUT/'resumen-zonas.json').read_text());diff=json.loads((OUT/'diferencias.json').read_text());spectrum=json.loads((O/'espectros.json').read_text())
+    def group(c,hz,g='frente_media'):return next(r for r in summary if r['estado']==c and r['frecuencia']==hz and r['grupo']==g)
+    def point(c,hz,s,p):return next(r for r in means if r['estado']==c and r['frecuencia']==hz and r['fuente']==s and r['receptor']==p)
+    def delta(hz,s,p):return next(r for r in diff if r['frecuencia']==hz and r['fuente']==s and r['receptor']==p)
+    def transition(hz,k,g='frente_media',unit='',dec=2):return f(group('sin_tratamiento',hz,g)[k],dec)+' → '+f(group('propuesta',hz,g)[k],dec)+unit
+    def pairtransition(hz,s,p,k):return f(point('sin_tratamiento',hz,s,p)[k])+' → '+f(point('propuesta',hz,s,p)[k])
+    increases=[hz for hz in a.FREQS if group('propuesta',hz)['D50_pct']>group('sin_tratamiento',hz)['D50_pct']]
+    declines=[hz for hz in a.FREQS if hz not in increases]
+    gains=[group('propuesta',hz)['D50_pct']-group('sin_tratamiento',hz)['D50_pct'] for hz in a.FREQS]
+    media_declines=[hz for hz in a.FREQS if group('propuesta',hz,'media')['D50_pct']<group('sin_tratamiento',hz,'media')['D50_pct']]
+    pattern=(f"El D50 medio de las doce combinaciones objetivo aumenta en las ocho bandas, entre {f(min(gains))} y {f(max(gains))} puntos porcentuales." if not declines else f"El D50 medio objetivo aumenta en {len(increases)} bandas y no aumenta en {len(declines)} ({', '.join(str(hz) for hz in declines)} Hz).")
+    flagged=[r for r in means if r['T30_revision']]
+    quality=('Las respuestas señaladas se conservan identificadas en las tablas y los promedios:\n\n'+table(['Banda Hz','Estado','Par','T30 s','R²','Final de ajuste s'],[[r['frecuencia'],a.NAMES[r['estado']],r['fuente']+'–'+r['receptor'],f(r['T30'],3),f(r['T30_r2'],3),f(r['T30_fin_ajuste_s'],3)] for r in flagged])) if flagged else 'Ninguna respuesta media activa ese control numérico. Esto no sustituye la validación física.'
+    txt=['# Comparación por bandas de octava: sala base y propuesta mixta',
+        '**Aula Magna UTFSM — estudio iniciado el 10 de noviembre de 2026.**  \n**Estados:** sala sin tratamiento propuesto frente a cuatro reflectores con inclinación combinada y paño posterior central de 9,6 m².  \n**Bandas:** 63, 125, 250, 500, 1.000, 2.000, 4.000 y 8.000 Hz.',
+        '## Resumen',
+        'Se amplió la comparación a ocho frecuencias centrales de octava manteniendo las geometrías del informe anterior. Se ejecutaron **84 corridas principales nuevas** y se reutilizaron **doce corridas compatibles de 1.000 Hz**. El conjunto reúne 96 condiciones banda/estado/fuente/semilla, 672 respuestas medias y 2.016 respuestas individuales. Los pilotos se excluyen de los resultados.',
+        pattern+' Un aumento de D50 no se interpreta automáticamente como mejora musical: se examina junto con C80, EDT/T30, energía recibida y posición.',
+        'La banda de 1.000 Hz reproduce exactamente el resultado anterior: D50 medio objetivo de 42,47 → 44,46 %, C80 de +0,53 → +1,00 dB y T30 de 1,772 → 1,723 s. La extensión espectral añade hipótesis de materiales; no constituye una validación física multibanda ni una medición posterior a la intervención.',
+        '## 1. Objetivo y propuesta conservada',
+        'El objetivo es determinar cómo varía por frecuencia el efecto de la propuesta, identificar beneficios y compromisos que un único resultado a 1.000 Hz no muestra, y comprobar si se conserva el balance entre definición y reverberación en las posiciones de interés.',
+        'Se mantienen cuatro reflectores rígidos de 4 × 3 m, 48 m² de área frontal total y 20 mm de espesor, con la inclinación combinada del estudio anterior. El paño A1 ocupa 9,6 m² en el muro posterior: X = 40,25 m, Y = −4 a +4 m, Z = 9,0 a 10,2 m. No se incorpora el paño superior extendido de 19,2 m².',
+        '![Geometrías comparadas](../prediccion/estudio-difusion/comparacion-sala-propuesta/modelos-3D-comparados.png)',
+        'La figura corresponde a las mismas geometrías calculadas. La apertura gráfica de cielos y muro lateral permite visualizar el interior; no se abre el recinto de simulación. Los cambios de este estudio son espectrales, no una nueva disposición de paneles.',
+        '## 2. Hipótesis de materiales por frecuencia',
+        'La propuesta anterior solo definía el tratamiento a 1.000 Hz. El usuario autorizó usar un espectro de referencia documentado para la ampliación. Se utilizó la forma de la curva publicada en el [ensayo CSTB AC14-26051052/7 de Ecophon](https://www.ecophon.com/globalassets/old-structure/01.ecophon-master/technical-documentation/absorption_iso/akusto-wall/akusto_wall_wall_panel_a_super_g_ods43_octave.pdf/), correspondiente a Akusto Wall A/Super G de 40 mm y profundidad total de montaje de 43 mm. Sus coeficientes prácticos de 125–4.000 Hz se escalan por 0,60 para conservar el valor efectivo anterior a 1.000 Hz.',
+        'La curva resultante es una **hipótesis efectiva de la propuesta**, no el espectro ensayado de ese producto ni una especificación de montaje. El escalado no identifica por sí solo una mezcla de áreas o una solución constructiva capaz de reproducirla.',
+        table(['Banda Hz','α publicado de referencia','α A1 usado','α reflectores','Dato / hipótesis'],[[hz,f(spectrum['coeficientes_publicados'].get(str(hz))),f(spectrum['absorcion_pano'][str(hz)]),'0,05','Extrapolación del extremo vecino' if hz in (63,8000) else 'Referencia escalada'] for hz in a.FREQS]),
+        'A 63 Hz se conserva el valor de 125 Hz y a 8.000 Hz el de 4.000 Hz. No hay un dato de ensayo de esa fuente para esos dos extremos. Los reflectores mantienen absorción y dispersión 0,05 constantes; no se representan resonancias, flexión del tablero ni difracción detallada de sus bordes. La dispersión de A1 se conserva como la del muro original.',
+        'El espectro efectivo original de la sala permanece fijo. Su muro tiene α ≈ 0,231 a 63/125 Hz y α = 0,60 a 250 Hz, superiores a la hipótesis de A1 en esas bandas. Por ello la sustitución puede reducir la absorción efectiva de ese sector en graves. La base no se recalibra para hacer favorable el tratamiento.',
+        'Estos coeficientes del muro no son la ficha física del concreto: pueden representar pérdidas equivalentes no resueltas por la geometría. Un empeoramiento calculado en graves bajo esta sustitución no prueba por sí solo que un panel poroso real empeoraría la sala. Señala también la incertidumbre de reemplazar una superficie calibrada por una curva física hipotética.',
+        '![Espectros efectivos utilizados]('+IMG+'espectros-materiales.png)',
+        '## 3. Metodología de cálculo y comparación',
+        'Se sigue el [protocolo previo de octavas](PROTOCOLO-COMPARACION-POR-OCTAVAS.md). Se usa SPPS energético, una fuente y una frecuencia activa por proceso, 600.000 partículas por corrida y tres semillas (20261019/20261020/20261021). Se conservan 4 s, paso 1 ms, radio receptor 0,31 m, 18 °C, humedad 57 %, velocidad 342 m/s, absorción del aire activada y transmisión de superficies desactivada.',
+        'Se mantienen las dos fuentes omnidireccionales, las posiciones de los 21 receptores y el espectro completo de fuente normalizado a Lw global de 90 dB. La frecuencia activa utiliza el valor correspondiente de ese espectro; no se asignan 90 dB a cada banda ni se suman como potencia global los ocho resultados aislados. Las comparaciones de energía son cocientes dentro de cada banda y entre estados.',
+        'La selección de frecuencias centrales representa las bandas mediante el cálculo geométrico y los coeficientes usados en esas frecuencias; no es una integración ondulatoria de todos los tonos contenidos en cada octava. No se modela la directividad del parlante real ni del line array.',
+        'Se promedian energías lineales de las tres semillas y después se calculan D50, C80, EDT y T30. Las ventanas 0–50, 50–80 y >80 ms se refieren al directo geométrico. Se mantiene la integración del estudio anterior y no se eleva otra vez al cuadrado la energía nativa. Los cambios de D50 son puntos porcentuales; los de energía son 10 log10(Epropuesta/Ebase).',
+        'Los promedios de zona son medias de los indicadores por combinación. La evaluación principal comprende V01–V04 y V05/V08 con ambas fuentes: doce combinaciones. P8/P9 prioritarios, F2–P9, platea baja, bajo balcón y posiciones posteriores se conservan identificados. Los datos adjuntos incluyen todos los receptores.',
+        'El rango D50 de 45–55 % y C80 de −2 a +2 dB se utilizó como criterio exploratorio a 1.000 Hz. No se convierte aquí en un requisito idéntico u óptimo universal para cada banda. Los resultados se interpretan como tendencias espectrales y compromisos locales.',
+        f"Se verificaron geometrías, condiciones y hashes de las 96 corridas. La máxima fracción de partículas perdidas es {audit['max_fraccion_perdidas']:.3g}. Los resultados de 1.000 Hz se reproducen con error máximo {audit['max_error_reproduccion_1000Hz']:.3g} en D50/C80/EDT/T30. Los 28 pilotos de 20.000 partículas quedan excluidos de los promedios.",
+        '## 4. Resultados del conjunto objetivo de platea alta',
+        'Cada celda presenta **sin tratamiento → propuesta**. Se agrupan las doce combinaciones de frente y media; las fuentes no se emiten simultáneamente.',
+        table(['Banda Hz','D50 %','ΔD50 puntos','C80 dB','T30 s','EDT s'],[[hz,transition(hz,'D50_pct'),f(group('propuesta',hz)['D50_pct']-group('sin_tratamiento',hz)['D50_pct']),transition(hz,'C80'),transition(hz,'T30',dec=3),transition(hz,'EDT',dec=3)] for hz in a.FREQS]),
+        '### 4.1. Distribución por franja',
+        table(['Banda Hz','D50 frente %','D50 media %','C80 frente dB','C80 media dB'],[[hz,transition(hz,'D50_pct','frente'),transition(hz,'D50_pct','media'),transition(hz,'C80','frente'),transition(hz,'C80','media')] for hz in a.FREQS]),
+        '![D50 por zona]('+IMG+'D50-por-zona.png)',
+        '![C80 por zona]('+IMG+'C80-por-zona.png)',
+        'Las líneas conectan bandas calculadas y no representan mediciones en frecuencias intermedias. El sombreado es el mínimo/máximo de las tres medias espaciales por semilla, no la dispersión entre asientos ni un intervalo de confianza.',
+        f"**El resultado espacial es desigual.** Aunque la media conjunta aumenta en las ocho bandas, la media de la franja intermedia disminuye en {len(media_declines)} ({', '.join(str(hz) for hz in media_declines)} Hz). La mejora conjunta se concentra en el frente y en determinados pares prioritarios. Las diferencias pequeñas por franja se interpretan con los rangos entre semillas.",
+        '### 4.2. Decaimiento y balance reverberante',
+        '![T30 por zona]('+IMG+'T30-por-zona.png)',
+        '![EDT por zona]('+IMG+'EDT-por-zona.png)',
+        'EDT y T30 extrapolan a 60 dB los ajustes 0/−10 y −5/−35 dB. No se afirma que la respuesta haya caído 60 dB en cada caso. Se revisó la calidad de ajuste y su proximidad al final de la ventana simulada.',
+        f"El control interno señala **{audit['T30_revisar']}/672 respuestas medias** para revisión de T30 por ajuste insuficiente, R² menor que 0,95 o final de ajuste después de 3,8 s. Son umbrales de revisión numérica de este informe; no garantizan validación física cuando no se activan. Los valores, R² y final de ajuste se conservan en los archivos.",
+        quality,
+        '## 5. P8/P9: comparación detallada de los pares prioritarios',
+        '### D50, porcentaje: sin tratamiento → propuesta',
+        table(['Banda Hz','F1–P8','F1–P9','F2–P8'],[[hz]+[pairtransition(hz,s,p,'D50_pct') for s,p in [('F1','P8'),('F1','P9'),('F2','P8')]] for hz in a.FREQS]),
+        '### C80, dB: sin tratamiento → propuesta',
+        table(['Banda Hz','F1–P8','F1–P9','F2–P8'],[[hz]+[pairtransition(hz,s,p,'C80') for s,p in [('F1','P8'),('F1','P9'),('F2','P8')]] for hz in a.FREQS]),
+        '![P8/P9 por octava]('+IMG+'P8-P9-por-octava.png)',
+        'El sombreado representa el rango de cada parámetro entre semillas en ese punto. La mejora observada a 1.000 Hz no se traslada automáticamente a todas las bandas; una frecuencia con mayor D50 o C80 puede estar cambiando su balance musical, no necesariamente mejorando en cualquier sentido.',
+        'En **500 Hz** aparece un compromiso que el promedio general oculta: F1–P8, F1–P9 y F2–P8 alcanzan D50 de 57,37/56,80/59,33 % y C80 de +2,69/+2,74/+2,79 dB. Parte de la referencia ya tenía C80 alto y la propuesta lo aumenta. Con la guía de balance del proyecto, estos puntos requieren revisión espectral; no se presenta ese aumento como una mejora musical automática ni como prueba de deterioro subjetivo.',
+        'En **4.000 Hz**, F1–P9 pasa de D50 de 42,55 a 51,64 % y C80 de +0,47 a +1,82 dB; F2–P8 pasa de 44,83 a 51,51 % y de +0,58 a +1,80 dB. Esto constituye un beneficio local bajo las hipótesis del modelo y muestra que una misma geometría puede tener compromisos distintos según la banda.',
+        '## 6. Distribución espacial de los cambios',
+        '![Cambios de D50 por combinación]('+IMG+'delta_D50_pct.png)',
+        '![Cambios de C80 por combinación]('+IMG+'delta_C80.png)',
+        'El color usa la magnitud absoluta del cambio y una sola escala cromática. Las anotaciones conservan el signo para distinguir aumento y disminución. Una celda intensa indica un cambio grande, no una mejora o deterioro automático.',
+        '## 7. Energía según el tiempo',
+        '![Energía por ventanas y octavas]('+IMG+'energias-por-octava.png)',
+        'Los gráficos separan el aporte temprano (directo más reflexiones de 0–50 ms), el intervalo 50–80 ms y la energía posterior a 80 ms. El intervalo intermedio pertenece al denominador de D50 y al numerador de C80. Por eso un cambio de D50 no permite deducir por sí solo el de C80.',
+        'Esta comparación incluye reflectores y absorción, por lo que puede haber redistribución de trayectorias y cambios de pérdidas. No se atribuye todo el cambio a A1 ni se supone que el efecto combinado sea la suma de estudios separados. Los histogramas energéticos no identifican automáticamente una pared causal para cada pico.',
+        '## 8. Caso crítico F2–V08 y control secundario F2–P9',
+        table(['Banda Hz','V08 D50 %','V08 C80 dB','V08 T30 s','F2–P9 D50 %','F2–P9 C80 dB'],[[hz,pairtransition(hz,'F2','V08','D50_pct'),pairtransition(hz,'F2','V08','C80'),pairtransition(hz,'F2','V08','T30'),pairtransition(hz,'F2','P9','D50_pct'),pairtransition(hz,'F2','P9','C80')] for hz in a.FREQS]),
+        'Ambos permanecen visibles, sin excluir sus datos. La mejora parcial de otros puntos no requiere que V08 alcance un único valor ideal en todas las frecuencias, pero tampoco permite declarar resuelta la franja media si conserva déficits. Esta matriz no demuestra que un punto sea imposible de mejorar mediante otras geometrías o condiciones de fuente.',
+        '## 9. Controles en las otras zonas',
+        table(['Banda Hz','D50 platea baja %','C80 platea baja dB','D50 bajo balcón %','C80 bajo balcón dB'],[[hz,transition(hz,'D50_pct','platea_baja'),transition(hz,'C80','platea_baja'),transition(hz,'D50_pct','bajo_balcon'),transition(hz,'C80','bajo_balcon')] for hz in a.FREQS]),
+        'Los promedios de otras zonas permiten observar efectos indirectos. No se les impone el rango de la platea alta ni se interpreta que un C80 alto equivalga a cobertura sonora suficiente. La propuesta no incluye altavoces de apoyo ni rediseño del sistema de refuerzo.',
+        '## 10. Alcance de la evidencia',
+        'El cálculo permite comparar dos modelos bajo condiciones conservadas y observar efectos espectrales en todas las bandas solicitadas. Se mantiene como evidencia predictiva exploratoria. Las hipótesis de material y calibración no quedan validadas por haber completado el cálculo.',
+        'Las limitaciones más relevantes son el espectro efectivo y provisional de la base; su discrepancia previa de claridad a 250 Hz; el escalado no ensayado de A1; las extrapolaciones de 63 y 8.000 Hz; las fuentes omnidireccionales; y la representación geométrica de reflectores finitos, sin resonancias ni difracción detallada. Las longitudes de onda bajas comparables al tamaño de los paneles requieren especial cautela.',
+        'Las diferencias pequeñas deben leerse con los rangos entre semillas. Tres repeticiones no constituyen un intervalo de confianza ni demuestran un efecto perceptual. Tampoco es válido sumar a las mediciones reales las diferencias porcentuales de la simulación como si fueran una corrección lineal.',
+        '## 11. Conclusión',
+        'La extensión por octavas permite evaluar la propuesta más allá de su resultado a 1.000 Hz y detectar qué bandas y posiciones mejoran, cambian poco o se alejan del balance buscado. La lectura conjunta de definición, claridad, decaimiento y ventanas energéticas es necesaria para elegir una continuación; no basta con maximizar D50 o reducir T30.',
+        'El resultado de 1.000 Hz conserva su demostración parcial favorable. La interpretación multibanda debe restringirse a la hipótesis espectral declarada. Antes de convertirla en una especificación de material o una afirmación sobre la escucha real, corresponde contrastar las propiedades espectrales del montaje y confirmar las bandas determinantes con datos y sensibilidad de modelo adecuados.',
+        '**La comparación completa no respalda describir la propuesta como una mejora musical uniforme en todas las bandas.** Los aumentos medios de D50 más claros del conjunto objetivo se observan en 1.000, 2.000 y 4.000 Hz. En 500 Hz los pares prioritarios quedan con mayor claridad temprana y C80 alrededor de +2,7 dB. Los cambios medios de definición en graves son pequeños. El paso siguiente de diseño sería revisar el reparto espectral y las propiedades del montaje, manteniendo visibles esos compromisos, en lugar de maximizar D50 de forma indiscriminada.',
+        '## 12. Datos, fuentes y documentos vinculados',
+        '- [Coeficientes usados por material y banda]('+IMG+'coeficientes-usados.csv) y [listado de corridas verificadas]('+IMG+'corridas-verificadas.csv).',
+        '- [Protocolo de octavas](PROTOCOLO-COMPARACION-POR-OCTAVAS.md) y [carpeta del experimento](../prediccion/estudio-difusion/comparacion-octavas/README.md).\n- [Espectros declarados](../prediccion/estudio-difusion/comparacion-octavas/espectros.json) y [fuente de referencia](../prediccion/estudio-difusion/comparacion-octavas/fuentes/REFERENCIA-ESPECTRAL.md).\n- [Medias por receptor/banda]('+IMG+'medias.csv), [resultados por semilla]('+IMG+'semillas.csv), [diferencias]('+IMG+'diferencias.csv), [resumen por zona]('+IMG+'resumen-zonas.csv) y [verificación]('+IMG+'verificacion.json).\n- [Comparación previa a 1.000 Hz](INFORME-COMPARATIVO-SALA-SIN-TRATAMIENTO-Y-PROPUESTA-MIXTA.md), [estudio mixto](RESULTADOS-ESTUDIO-MIXTO-REFLECTORES-ABSORCION.md) y [base teórica](BASE-TEORICA-Y-METODOLOGIA-PREDICCION.md).','']
+    path=ROOT/'informes/RESULTADOS-COMPARACION-POR-OCTAVAS.md';path.write_text('\n\n'.join(txt),encoding='utf8');print('Informe:',path)
+if __name__=='__main__':main()

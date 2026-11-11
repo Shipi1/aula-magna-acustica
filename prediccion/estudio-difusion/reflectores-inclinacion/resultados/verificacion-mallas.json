@@ -1,0 +1,54 @@
+[
+  {
+    "variante": "vertical",
+    "sala_original_conservada": true,
+    "area_frontal_m2": 48,
+    "centros_originales_conservados": true,
+    "segmentos_directos_preservados": 42,
+    "tetraedros_en_solidos": 0,
+    "volumen_m3": 9542.773968655001,
+    "sha256": {
+      "mesh.cbin": "4b3ae149025a20f785178675e01bd7e0497bf01cd6c98a1d9b0246ab17157555",
+      "tetramesh.mbin": "f610237ccb4b7771ad1c7056a44c5a3a37b34939025628828beddf2d80a073df"
+    }
+  },
+  {
+    "variante": "horizontal",
+    "sala_original_conservada": true,
+    "area_frontal_m2": 48,
+    "centros_originales_conservados": true,
+    "segmentos_directos_preservados": 42,
+    "tetraedros_en_solidos": 0,
+    "volumen_m3": 9542.773968129002,
+    "sha256": {
+      "mesh.cbin": "8b012edfe10639ee868a2d0d5b8cd177dbb215f53f6de771bdbb18d6379bf5b0",
+      "tetramesh.mbin": "e5d11e4a7b0a777ef233548a8c7706e79331ffa8abc40a47ca989ec013c8688a"
+    }
+  },
+  {
+    "variante": "combinada",
+    "sala_original_conservada": true,
+    "area_frontal_m2": 48,
+    "centros_originales_conservados": true,
+    "segmentos_directos_preservados": 42,
+    "tetraedros_en_solidos": 0,
+    "volumen_m3": 9542.773963854332,
+    "sha256": {
+      "mesh.cbin": "30f8e16bc5a0f3749a4ff8d8ac73d095a7697b55d7537041745302eb76105d38",
+      "tetramesh.mbin": "b75dfeeb24a37e503b3ac9fd6d7687309753975c1b74190b9fae1f423a3671c4"
+    }
+  },
+  {
+    "variante": "segmentada",
+    "sala_original_conservada": true,
+    "area_frontal_m2": 48,
+    "centros_originales_conservados": false,
+    "segmentos_directos_preservados": 42,
+    "tetraedros_en_solidos": 0,
+    "volumen_m3": 9542.773972886629,
+    "sha256": {
+      "mesh.cbin": "5c75a3d3bbdc79eafa92fd48598ddb7470c1cb15482a977e2885dc95fd29c509",
+      "tetramesh.mbin": "927b646be56ebdd27f4abb6be902d428166382c693eee786628c81448475cc7b"
+    }
+  }
+]

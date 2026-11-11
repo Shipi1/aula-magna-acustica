@@ -1,0 +1,42 @@
+Opening C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\d50-laterales\scene.poly.
+Delaunizing vertices...
+Delaunay seconds:  0.028
+Creating surface mesh ...
+Surface mesh seconds:  0.012
+Recovering boundaries...
+Boundary recovery seconds:  0.239
+Removing exterior tetrahedra ...
+Exterior tets removal seconds:  0.01
+Suppressing Steiner points ...
+Steiner suppression seconds:  0.004
+Recovering Delaunayness...
+Delaunay recovery seconds:  0.053
+Refining mesh...
+Refinement seconds:  1.112
+Optimizing mesh...
+Optimization seconds:  0.253
+Jettisoning redundant points.
+
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\d50-laterales\scene.1.node.
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\d50-laterales\scene.1.ele.
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\d50-laterales\scene.1.face.
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\d50-laterales\scene.1.edge.
+
+Output seconds:  0.027
+Total running seconds:  1.738
+
+Statistics:
+
+  Input points: 2836
+  Input facets: 5684
+  Input segments: 8526
+  Input holes: 0
+  Input regions: 0
+
+  Mesh points: 2996
+  Mesh tetrahedra: 9575
+  Mesh faces: 21992
+  Mesh faces on facets: 5684
+  Mesh edges on segments: 8526
+  Steiner points inside domain: 160
+

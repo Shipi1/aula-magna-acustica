@@ -1,0 +1,8 @@
+{
+  "caso": "equilibrio4",
+  "paneles": 4,
+  "area_frontal_m2": 48.0,
+  "volumen_aire_m3": 9542.773967796666,
+  "volumen_desplazado_m3": 0.9600028021905018,
+  "aristas_dos_caras": true
+}

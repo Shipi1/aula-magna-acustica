@@ -1,0 +1,8 @@
+{
+  "caso": "adelantado",
+  "paneles": 2,
+  "area_frontal_m2": 24.0,
+  "volumen_aire_m3": 9543.25396991898,
+  "volumen_desplazado_m3": 0.48000067987595685,
+  "aristas_dos_caras": true
+}

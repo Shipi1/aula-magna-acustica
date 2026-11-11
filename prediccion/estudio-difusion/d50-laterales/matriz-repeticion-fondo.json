@@ -1,0 +1,44 @@
+[
+  {
+    "variante": "R",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261019
+  },
+  {
+    "variante": "R",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261020
+  },
+  {
+    "variante": "R",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261021
+  },
+  {
+    "variante": "R",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261019
+  },
+  {
+    "variante": "R",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261020
+  },
+  {
+    "variante": "R",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261021
+  }
+]

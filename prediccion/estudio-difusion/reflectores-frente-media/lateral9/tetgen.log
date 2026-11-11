@@ -1,0 +1,42 @@
+Opening C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\reflectores-frente-media\lateral9\scene.poly.
+Delaunizing vertices...
+Delaunay seconds:  0.017
+Creating surface mesh ...
+Surface mesh seconds:  0.005
+Recovering boundaries...
+Boundary recovery seconds:  0.059
+Removing exterior tetrahedra ...
+Exterior tets removal seconds:  0.003
+Suppressing Steiner points ...
+Steiner suppression seconds:  0
+Recovering Delaunayness...
+Delaunay recovery seconds:  0.016
+Refining mesh...
+Refinement seconds:  0.504
+Optimizing mesh...
+Optimization seconds:  0.185
+Jettisoning redundant points.
+
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\reflectores-frente-media\lateral9\scene.1.node.
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\reflectores-frente-media\lateral9\scene.1.ele.
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\reflectores-frente-media\lateral9\scene.1.face.
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\reflectores-frente-media\lateral9\scene.1.edge.
+
+Output seconds:  0.022
+Total running seconds:  0.812
+
+Statistics:
+
+  Input points: 2356
+  Input facets: 4716
+  Input segments: 7074
+  Input holes: 2
+  Input regions: 0
+
+  Mesh points: 2474
+  Mesh tetrahedra: 7496
+  Mesh faces: 17350
+  Mesh faces on facets: 4716
+  Mesh edges on segments: 7074
+  Steiner points inside domain: 118
+

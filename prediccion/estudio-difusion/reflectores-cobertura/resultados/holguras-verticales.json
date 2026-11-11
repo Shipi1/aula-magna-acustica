@@ -1,0 +1,379 @@
+[
+  {
+    "variante": "cobertura4",
+    "panel": 1,
+    "minimo_m": 7.820284509645404,
+    "punto_panel": [
+      10.833817086663037,
+      7.899504926610772,
+      7.960284510241451
+    ],
+    "cota_piso_m": 0.14000000059604645,
+    "material_piso": 111,
+    "muestras": 50
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 2,
+    "minimo_m": 7.507262658780545,
+    "punto_panel": [
+      11.127757841660951,
+      -7.8120315908258435,
+      7.647262659376591
+    ],
+    "cota_piso_m": 0.14000000059604645,
+    "material_piso": 111,
+    "muestras": 50
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 3,
+    "minimo_m": 8.261097691810324,
+    "punto_panel": [
+      10.62457953927133,
+      -1.999908643455485,
+      8.40109769240637
+    ],
+    "cota_piso_m": 0.14000000059604645,
+    "material_piso": 111,
+    "muestras": 50
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 4,
+    "minimo_m": 2.498534227250861,
+    "punto_panel": [
+      24.24995815992443,
+      -0.5409574661523257,
+      6.298534179567145
+    ],
+    "cota_piso_m": 3.799999952316284,
+    "material_piso": 112,
+    "muestras": 50
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 1,
+    "minimo_m": 7.96453687515438,
+    "punto_panel": [
+      10.76625745862863,
+      -1.9814452136558567,
+      8.104536875750426
+    ],
+    "cota_piso_m": 0.14000000059604645,
+    "material_piso": 111,
+    "muestras": 50
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 2,
+    "minimo_m": 7.820284509645404,
+    "punto_panel": [
+      10.833817086663037,
+      7.899504926610772,
+      7.960284510241451
+    ],
+    "cota_piso_m": 0.14000000059604645,
+    "material_piso": 111,
+    "muestras": 50
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 3,
+    "minimo_m": 7.507262658780545,
+    "punto_panel": [
+      11.127757841660951,
+      -7.8120315908258435,
+      7.647262659376591
+    ],
+    "cota_piso_m": 0.14000000059604645,
+    "material_piso": 111,
+    "muestras": 50
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 4,
+    "minimo_m": 2.498534227250861,
+    "punto_panel": [
+      24.24995815992443,
+      -0.5409574661523257,
+      6.298534179567145
+    ],
+    "cota_piso_m": 3.799999952316284,
+    "material_piso": 112,
+    "muestras": 50
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 1,
+    "minimo_m": 7.820284509645404,
+    "punto_panel": [
+      10.833817086663037,
+      7.899504926610772,
+      7.960284510241451
+    ],
+    "cota_piso_m": 0.14000000059604645,
+    "material_piso": 111,
+    "muestras": 50
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 2,
+    "minimo_m": 7.507262658780545,
+    "punto_panel": [
+      11.127757841660951,
+      -7.8120315908258435,
+      7.647262659376591
+    ],
+    "cota_piso_m": 0.14000000059604645,
+    "material_piso": 111,
+    "muestras": 50
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 3,
+    "minimo_m": 8.261097691810324,
+    "punto_panel": [
+      10.62457953927133,
+      -1.999908643455485,
+      8.40109769240637
+    ],
+    "cota_piso_m": 0.14000000059604645,
+    "material_piso": 111,
+    "muestras": 50
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 4,
+    "minimo_m": 2.498534227250861,
+    "punto_panel": [
+      24.24995815992443,
+      -0.5409574661523257,
+      6.298534179567145
+    ],
+    "cota_piso_m": 3.799999952316284,
+    "material_piso": 112,
+    "muestras": 50
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 5,
+    "minimo_m": 3.0248512826759386,
+    "punto_panel": [
+      25.520359986301894,
+      -8.949401985407892,
+      7.627928217490392
+    ],
+    "cota_piso_m": 4.603076934814453,
+    "material_piso": 113,
+    "muestras": 50
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 6,
+    "minimo_m": 3.292978091154236,
+    "punto_panel": [
+      25.496492035637853,
+      8.999951756829677,
+      7.896055025968689
+    ],
+    "cota_piso_m": 4.603076934814453,
+    "material_piso": 113,
+    "muestras": 50
+  },
+  {
+    "variante": "central5",
+    "panel": 1,
+    "minimo_m": 7.669533399381174,
+    "punto_panel": [
+      11.049089736457827,
+      -5.847287824057543,
+      7.80953339997722
+    ],
+    "cota_piso_m": 0.14000000059604645,
+    "material_piso": 111,
+    "muestras": 50
+  },
+  {
+    "variante": "central5",
+    "panel": 2,
+    "minimo_m": 7.509688829364441,
+    "punto_panel": [
+      10.60436877867024,
+      5.999867773173852,
+      7.649688829960487
+    ],
+    "cota_piso_m": 0.14000000059604645,
+    "material_piso": 111,
+    "muestras": 50
+  },
+  {
+    "variante": "central5",
+    "panel": 3,
+    "minimo_m": 9.292816831236987,
+    "punto_panel": [
+      18.528980438148842,
+      -5.994776443269766,
+      8.872786934815776
+    ],
+    "cota_piso_m": -0.4200298964212098,
+    "material_piso": 113,
+    "muestras": 50
+  },
+  {
+    "variante": "central5",
+    "panel": 4,
+    "minimo_m": 4.50494143125762,
+    "punto_panel": [
+      23.543041512577272,
+      8.864278367540166,
+      8.572633234236136
+    ],
+    "cota_piso_m": 4.067691802978516,
+    "material_piso": 113,
+    "muestras": 50
+  },
+  {
+    "variante": "central5",
+    "panel": 5,
+    "minimo_m": 7.291867581146598,
+    "punto_panel": [
+      10.609714241401031,
+      1.9986072812741216,
+      7.431867581742645
+    ],
+    "cota_piso_m": 0.14000000059604645,
+    "material_piso": 111,
+    "muestras": 50
+  },
+  {
+    "variante": "retornos2",
+    "panel": 1,
+    "minimo_m": 2.63410383376692,
+    "punto_panel": [
+      32.646577112185604,
+      7.999643678518374,
+      8.646208821865065
+    ],
+    "cota_piso_m": 6.0121049880981445,
+    "material_piso": 112,
+    "muestras": 50
+  },
+  {
+    "variante": "retornos2",
+    "panel": 2,
+    "minimo_m": 2.5924125299776115,
+    "punto_panel": [
+      32.55537314169287,
+      -8.99857181910702,
+      8.604517518075756
+    ],
+    "cota_piso_m": 6.0121049880981445,
+    "material_piso": 112,
+    "muestras": 50
+  },
+  {
+    "variante": "retornos_compactos2",
+    "panel": 1,
+    "minimo_m": 2.3752431062953647,
+    "punto_panel": [
+      36.839190458698525,
+      -1.17090893527324,
+      9.646295943667191
+    ],
+    "cota_piso_m": 7.271052837371826,
+    "material_piso": 113,
+    "muestras": 50
+  },
+  {
+    "variante": "retornos_compactos2",
+    "panel": 2,
+    "minimo_m": 2.716628616525762,
+    "punto_panel": [
+      34.824981256008265,
+      7.336899093053046,
+      9.515575473978155
+    ],
+    "cota_piso_m": 6.798946857452393,
+    "material_piso": 112,
+    "muestras": 50
+  },
+  {
+    "variante": "mixta6",
+    "panel": 1,
+    "minimo_m": 7.669533399381174,
+    "punto_panel": [
+      11.049089736457827,
+      -5.847287824057543,
+      7.80953339997722
+    ],
+    "cota_piso_m": 0.14000000059604645,
+    "material_piso": 111,
+    "muestras": 50
+  },
+  {
+    "variante": "mixta6",
+    "panel": 2,
+    "minimo_m": 7.509688829364441,
+    "punto_panel": [
+      10.60436877867024,
+      5.999867773173852,
+      7.649688829960487
+    ],
+    "cota_piso_m": 0.14000000059604645,
+    "material_piso": 111,
+    "muestras": 50
+  },
+  {
+    "variante": "mixta6",
+    "panel": 3,
+    "minimo_m": 9.292816831236987,
+    "punto_panel": [
+      18.528980438148842,
+      -5.994776443269766,
+      8.872786934815776
+    ],
+    "cota_piso_m": -0.4200298964212098,
+    "material_piso": 113,
+    "muestras": 50
+  },
+  {
+    "variante": "mixta6",
+    "panel": 4,
+    "minimo_m": 4.50494143125762,
+    "punto_panel": [
+      23.543041512577272,
+      8.864278367540166,
+      8.572633234236136
+    ],
+    "cota_piso_m": 4.067691802978516,
+    "material_piso": 113,
+    "muestras": 50
+  },
+  {
+    "variante": "mixta6",
+    "panel": 5,
+    "minimo_m": 2.3752431062953647,
+    "punto_panel": [
+      36.839190458698525,
+      -1.17090893527324,
+      9.646295943667191
+    ],
+    "cota_piso_m": 7.271052837371826,
+    "material_piso": 113,
+    "muestras": 50
+  },
+  {
+    "variante": "mixta6",
+    "panel": 6,
+    "minimo_m": 2.716628616525762,
+    "punto_panel": [
+      34.824981256008265,
+      7.336899093053046,
+      9.515575473978155
+    ],
+    "cota_piso_m": 6.798946857452393,
+    "material_piso": 112,
+    "muestras": 50
+  }
+]

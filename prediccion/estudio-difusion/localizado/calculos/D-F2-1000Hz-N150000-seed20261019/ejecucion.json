@@ -1,0 +1,12 @@
+{
+  "variante": "D",
+  "fuente": "F2",
+  "frecuencia": 1000,
+  "N": 150000,
+  "semilla": 20261019,
+  "segundos": 33.205026626586914,
+  "fraccion_perdidas": 7.333333333333333e-05,
+  "config_sha256": "c26ce5eab19f9642b871a5b990de4c037a83f0c0d51ad814afad0e26a04e8839",
+  "malla_sha256": "4845cc64f05781f79489321bc1960fe82a7881685ada5a0c62d79c6192f30034",
+  "tetra_sha256": "fe06ba4d9f4b326599a503174ded705649cc96c72ddc527f315dec78f3d1309e"
+}

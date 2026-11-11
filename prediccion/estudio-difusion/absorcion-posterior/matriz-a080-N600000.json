@@ -1,0 +1,296 @@
+[
+  {
+    "caso": "total_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261019
+  },
+  {
+    "caso": "total_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261020
+  },
+  {
+    "caso": "total_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261021
+  },
+  {
+    "caso": "total_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261019
+  },
+  {
+    "caso": "total_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261020
+  },
+  {
+    "caso": "total_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261021
+  },
+  {
+    "caso": "sup_centro_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261019
+  },
+  {
+    "caso": "sup_centro_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261020
+  },
+  {
+    "caso": "sup_centro_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261021
+  },
+  {
+    "caso": "sup_centro_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261019
+  },
+  {
+    "caso": "sup_centro_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261020
+  },
+  {
+    "caso": "sup_centro_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261021
+  },
+  {
+    "caso": "sup_exterior_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261019
+  },
+  {
+    "caso": "sup_exterior_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261020
+  },
+  {
+    "caso": "sup_exterior_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261021
+  },
+  {
+    "caso": "sup_exterior_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261019
+  },
+  {
+    "caso": "sup_exterior_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261020
+  },
+  {
+    "caso": "sup_exterior_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261021
+  },
+  {
+    "caso": "sup_completa_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261019
+  },
+  {
+    "caso": "sup_completa_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261020
+  },
+  {
+    "caso": "sup_completa_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261021
+  },
+  {
+    "caso": "sup_completa_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261019
+  },
+  {
+    "caso": "sup_completa_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261020
+  },
+  {
+    "caso": "sup_completa_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261021
+  },
+  {
+    "caso": "med_centro_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261019
+  },
+  {
+    "caso": "med_centro_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261020
+  },
+  {
+    "caso": "med_centro_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261021
+  },
+  {
+    "caso": "med_centro_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261019
+  },
+  {
+    "caso": "med_centro_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261020
+  },
+  {
+    "caso": "med_centro_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261021
+  },
+  {
+    "caso": "med_exterior_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261019
+  },
+  {
+    "caso": "med_exterior_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261020
+  },
+  {
+    "caso": "med_exterior_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261021
+  },
+  {
+    "caso": "med_exterior_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261019
+  },
+  {
+    "caso": "med_exterior_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261020
+  },
+  {
+    "caso": "med_exterior_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261021
+  },
+  {
+    "caso": "med_completa_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261019
+  },
+  {
+    "caso": "med_completa_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261020
+  },
+  {
+    "caso": "med_completa_a080",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261021
+  },
+  {
+    "caso": "med_completa_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261019
+  },
+  {
+    "caso": "med_completa_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261020
+  },
+  {
+    "caso": "med_completa_a080",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "N": 600000,
+    "semilla": 20261021
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "variante": "mixta6",
+  "fuente": "F1",
+  "frecuencia": 1000,
+  "N": 600000,
+  "semilla": 20261020,
+  "alpha": 0.05,
+  "dispersion": 0.05,
+  "fraccion_perdidas": 0.00016,
+  "segundos": 74.93288278579712,
+  "config_sha256": "7c9c21627e223d8f5d3299374a12f5c80c3a759e14f8977373fceff239f159d6",
+  "malla_sha256": "6a4c879257eba7118d9468e36e3246a344e172ef4f357c3ab4211080657970d6",
+  "tetra_sha256": "e0094008600390f5112b7c977cf3e2487f861003f95842222d9e6b23671c19cf"
+}

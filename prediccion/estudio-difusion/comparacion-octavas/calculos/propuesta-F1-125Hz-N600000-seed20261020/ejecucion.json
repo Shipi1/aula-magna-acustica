@@ -1,0 +1,13 @@
+{
+  "variante": "propuesta",
+  "fuente": "F1",
+  "frecuencia": 125,
+  "N": 600000,
+  "semilla": 20261020,
+  "segundos": 276.7537136077881,
+  "fraccion_perdidas": 0.0002866666666666667,
+  "alpha_pano": 0.09,
+  "config_sha256": "3f58cfa64c5ed8c959034bc7948132915d36d186aaeaa8596f4984c96b32bd35",
+  "malla_sha256": "e3c80b81c4b8aec413245ba418ad8e4d027def9db88088c4bd8cc4d5fb959461",
+  "tetra_sha256": "d66038439c20bee5dfa57009beb714ecc8db3d8dc68aefd550e397fafb251005"
+}

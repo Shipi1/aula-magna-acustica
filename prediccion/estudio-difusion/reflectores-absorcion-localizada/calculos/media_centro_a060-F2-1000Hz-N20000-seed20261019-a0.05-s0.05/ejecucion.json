@@ -1,0 +1,17 @@
+{
+  "variante": "media_centro_a060",
+  "fuente": "F2",
+  "frecuencia": 1000,
+  "N": 20000,
+  "semilla": 20261019,
+  "alpha": 0.05,
+  "dispersion": 0.05,
+  "fraccion_perdidas": 0.00015,
+  "segundos": 4.233176946640015,
+  "config_sha256": "6872a1af86363f32098a1eb53baf7f02750b2a04088972cb8ecae1e0f27ca7f0",
+  "malla_sha256": "e3c80b81c4b8aec413245ba418ad8e4d027def9db88088c4bd8cc4d5fb959461",
+  "tetra_sha256": "d66038439c20bee5dfa57009beb714ecc8db3d8dc68aefd550e397fafb251005",
+  "alpha_absorbente": 0.6,
+  "area_absorbente_m2": 9.599999999999996,
+  "referencia_estudio": "Cuatro reflectores con giro combinado; particion comun"
+}

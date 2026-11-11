@@ -1,0 +1,11 @@
+{
+  "variante": "lateral_Ypos",
+  "fuente": "F1",
+  "frecuencia": 1000,
+  "N": 150000,
+  "semilla": 20261019,
+  "dispersion": 0.6,
+  "segundos": 38.55286741256714,
+  "config_sha256": "e0c6f4c741522903c1fd38393e73ea981027f4c4f07be8e38932bc90cbad52cc",
+  "mesh_sha256": "394ba835c50cbbca74ff170feef98455121fe64b32dd7b786c8e7ee823747b92"
+}

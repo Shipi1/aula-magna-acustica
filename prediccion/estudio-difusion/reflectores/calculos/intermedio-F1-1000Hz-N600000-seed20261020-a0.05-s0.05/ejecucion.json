@@ -1,0 +1,14 @@
+{
+  "variante": "intermedio",
+  "fuente": "F1",
+  "frecuencia": 1000,
+  "N": 600000,
+  "semilla": 20261020,
+  "alpha": 0.05,
+  "dispersion": 0.05,
+  "fraccion_perdidas": 0.00013,
+  "segundos": 138.16661262512207,
+  "config_sha256": "710633e087366893d2f0f7d8a799029971791c8b2fd62faaa7606bad67480ac3",
+  "malla_sha256": "a690d591732e4c51a08ab4dca891a3137d18c15aee6731676a16ec1abed9adc6",
+  "tetra_sha256": "6909d5f8bf76c67007d1a65c21bd37705aca6193d33e5f9d878a2fd90c860fcc"
+}

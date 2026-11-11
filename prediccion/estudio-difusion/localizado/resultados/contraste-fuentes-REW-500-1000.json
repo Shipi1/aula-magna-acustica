@@ -1,0 +1,178 @@
+[
+  {
+    "fuente": "Parlante",
+    "zona": "todos",
+    "frecuencia": 500,
+    "ancho_banda": "1/3 de octava REW",
+    "n": 18,
+    "c80": 3.4411111111111112,
+    "d50": 54.355555555555554,
+    "edt": 1.3605,
+    "t30": 1.6006111111111112
+  },
+  {
+    "fuente": "Parlante",
+    "zona": "todos",
+    "frecuencia": 1000,
+    "ancho_banda": "1/3 de octava REW",
+    "n": 18,
+    "c80": 5.602777777777778,
+    "d50": 68.63333333333334,
+    "edt": 1.3072222222222223,
+    "t30": 1.6997222222222224
+  },
+  {
+    "fuente": "Parlante",
+    "zona": "grad",
+    "frecuencia": 500,
+    "ancho_banda": "1/3 de octava REW",
+    "n": 4,
+    "c80": 2.4025,
+    "d50": 47.25,
+    "edt": 1.392,
+    "t30": 1.62025
+  },
+  {
+    "fuente": "Parlante",
+    "zona": "grad",
+    "frecuencia": 1000,
+    "ancho_banda": "1/3 de octava REW",
+    "n": 4,
+    "c80": 0.91,
+    "d50": 47.775,
+    "edt": 1.924,
+    "t30": 1.7575
+  },
+  {
+    "fuente": "Parlante",
+    "zona": "piso",
+    "frecuencia": 500,
+    "ancho_banda": "1/3 de octava REW",
+    "n": 8,
+    "c80": 3.13625,
+    "d50": 54.0875,
+    "edt": 1.48575,
+    "t30": 1.56725
+  },
+  {
+    "fuente": "Parlante",
+    "zona": "piso",
+    "frecuencia": 1000,
+    "ancho_banda": "1/3 de octava REW",
+    "n": 8,
+    "c80": 6.202500000000001,
+    "d50": 71.8875,
+    "edt": 1.2802499999999999,
+    "t30": 1.699625
+  },
+  {
+    "fuente": "Parlante",
+    "zona": "balcon",
+    "frecuencia": 500,
+    "ancho_banda": "1/3 de octava REW",
+    "n": 6,
+    "c80": 4.54,
+    "d50": 59.45,
+    "edt": 1.1725,
+    "t30": 1.6320000000000001
+  },
+  {
+    "fuente": "Parlante",
+    "zona": "balcon",
+    "frecuencia": 1000,
+    "ancho_banda": "1/3 de octava REW",
+    "n": 6,
+    "c80": 7.931666666666667,
+    "d50": 78.2,
+    "edt": 0.9319999999999999,
+    "t30": 1.6613333333333333
+  },
+  {
+    "fuente": "Globo",
+    "zona": "todos",
+    "frecuencia": 500,
+    "ancho_banda": "1/3 de octava REW",
+    "n": 16,
+    "c80": 0.934375,
+    "d50": 40.53125,
+    "edt": 1.4811875,
+    "t30": 1.6366875
+  },
+  {
+    "fuente": "Globo",
+    "zona": "todos",
+    "frecuencia": 1000,
+    "ancho_banda": "1/3 de octava REW",
+    "n": 16,
+    "c80": 1.279375,
+    "d50": 41.875,
+    "edt": 1.562125,
+    "t30": 1.7685625
+  },
+  {
+    "fuente": "Globo",
+    "zona": "grad",
+    "frecuencia": 500,
+    "ancho_banda": "1/3 de octava REW",
+    "n": 4,
+    "c80": -0.6825,
+    "d50": 34.7,
+    "edt": 1.6985000000000001,
+    "t30": 1.6445
+  },
+  {
+    "fuente": "Globo",
+    "zona": "grad",
+    "frecuencia": 1000,
+    "ancho_banda": "1/3 de octava REW",
+    "n": 4,
+    "c80": 0.4825,
+    "d50": 38.975,
+    "edt": 1.76125,
+    "t30": 1.806
+  },
+  {
+    "fuente": "Globo",
+    "zona": "piso",
+    "frecuencia": 500,
+    "ancho_banda": "1/3 de octava REW",
+    "n": 8,
+    "c80": 1.1,
+    "d50": 41.55,
+    "edt": 1.480125,
+    "t30": 1.630375
+  },
+  {
+    "fuente": "Globo",
+    "zona": "piso",
+    "frecuencia": 1000,
+    "ancho_banda": "1/3 de octava REW",
+    "n": 8,
+    "c80": 0.965,
+    "d50": 39.95,
+    "edt": 1.552625,
+    "t30": 1.74375
+  },
+  {
+    "fuente": "Globo",
+    "zona": "balcon",
+    "frecuencia": 500,
+    "ancho_banda": "1/3 de octava REW",
+    "n": 4,
+    "c80": 2.22,
+    "d50": 44.325,
+    "edt": 1.266,
+    "t30": 1.6415
+  },
+  {
+    "fuente": "Globo",
+    "zona": "balcon",
+    "frecuencia": 1000,
+    "ancho_banda": "1/3 de octava REW",
+    "n": 4,
+    "c80": 2.705,
+    "d50": 48.625,
+    "edt": 1.3820000000000001,
+    "t30": 1.78075
+  }
+]

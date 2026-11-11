@@ -1,0 +1,83 @@
+{
+  "fecha": "2026-11-09",
+  "criterio": "Planes y estrategias sustituidos; se conserva soporte técnico y resultados del estudio vigente.",
+  "archivos": [
+    {
+      "origen": "informes/CRITERIOS-DE-CLARIDAD-MUSICAL-C80-D50.md",
+      "destino": "descartados/informes/CRITERIOS-DE-CLARIDAD-MUSICAL-C80-D50.md",
+      "sha256_original": "7d6ee5201e0717b4bd09de47f6ae1ea698920b4e874a39883f3603f32d25684a",
+      "sha256_archivado": "26bb978e618a5be228eb5176b7f9e59e1808819ddd7f5c55c1d62d1a0cd63ef7"
+    },
+    {
+      "origen": "informes/ESTUDIO-QRD-Y-ALTERNATIVAS-PLATEA-ALTA.md",
+      "destino": "descartados/informes/ESTUDIO-QRD-Y-ALTERNATIVAS-PLATEA-ALTA.md",
+      "sha256_original": "6a7c38c12dab04c3c95a83bfda0103ad2a47505110035de547f043d7ab1bede9",
+      "sha256_archivado": "0c6d41a6ec1f111fea90ff47e83d2a8af53522862957120afcbca2eaf16a5156"
+    },
+    {
+      "origen": "informes/informe-propuesta-acustica-refuerzo.md",
+      "destino": "descartados/informes/informe-propuesta-acustica-refuerzo.md",
+      "sha256_original": "748b2239d210fc7efcd4c0d1a0c14eeac8916da619fc13561f50122bcfae7add",
+      "sha256_archivado": "9e57499680849ed5bea19289621911e9ba566fc14a903b815a2a1a1b0db35da0"
+    },
+    {
+      "origen": "informes/METODO-DE-COMPARACION-DE-DIFUSION.md",
+      "destino": "descartados/informes/METODO-DE-COMPARACION-DE-DIFUSION.md",
+      "sha256_original": "ba8ca237fedf042986e1378876956464df2429445e45834d919168d3a60ef88a",
+      "sha256_archivado": "a8311ecbc93619b8a01dae258476207d3e470ebf3b62360cecf4cdcc33636e08"
+    },
+    {
+      "origen": "informes/PASO-3-ENSAYO-DE-PANOS-LOCALIZADOS.md",
+      "destino": "descartados/informes/PASO-3-ENSAYO-DE-PANOS-LOCALIZADOS.md",
+      "sha256_original": "871cd4520251716b8e82e9b3be2131eda12bbc85503199ddc6a203bf1ad9c91c",
+      "sha256_archivado": "26e60f2011fb367810d954f68bff1047ca9884e7d8dfd4a517e7d2a08621913d"
+    },
+    {
+      "origen": "informes/PLAN-DE-LOCALIZACION-Y-VALIDACION-DEL-TRATAMIENTO.md",
+      "destino": "descartados/informes/PLAN-DE-LOCALIZACION-Y-VALIDACION-DEL-TRATAMIENTO.md",
+      "sha256_original": "331c767f7e7f8a030b2c409441b5ba65ba1c952a55c868064a2e1ba7a0382bec",
+      "sha256_archivado": "1f37dc8e4edb7eb72eda11b56304c8067229c03ef4cdbb2db0c6129720b94a91"
+    },
+    {
+      "origen": "informes/RESULTADOS-DISPERSION-8-Y-16-KHZ.md",
+      "destino": "descartados/informes/RESULTADOS-DISPERSION-8-Y-16-KHZ.md",
+      "sha256_original": "fd15aa3f2b5b262d695a3e8ae714076c2ba70b3888e713185fe9fe230985d5c3",
+      "sha256_archivado": "9de6347dec1ce5d2fcd4f88c635fd568b7265d112a5b23799b9fbd1821005fac"
+    },
+    {
+      "origen": "informes/RESULTADOS-INICIALES-DISPERSION-PLATEA-ALTA.md",
+      "destino": "descartados/informes/RESULTADOS-INICIALES-DISPERSION-PLATEA-ALTA.md",
+      "sha256_original": "8d10debebc59e053db13a6d9717741b2d73ec2b6ccb1109762e24df0b60e1177",
+      "sha256_archivado": "763a646970d8b13f62fb46645fea556160d9bca73bd1dfb349a8843e0bc00ca9"
+    },
+    {
+      "origen": "prediccion/estudio-difusion/PLAN.md",
+      "destino": "descartados/prediccion/estudio-difusion/PLAN.md",
+      "sha256_original": "ae97af817a43d178a906ab93298e583efa244a65efcc799181aa873777a3ecff",
+      "sha256_archivado": "ac5c3089bdb0f29a7a94205e5687014608b5707ab2bc1a60c4bf86f0585650c6"
+    },
+    {
+      "origen": "informes/RESULTADOS-D50-FONDO-Y-LATERALES-PLATEA-ALTA.md",
+      "destino": "descartados/informes/RESULTADOS-D50-FONDO-Y-LATERALES-PLATEA-ALTA.md",
+      "sha256_original": "68520dede3bd4ec59ba01f2fd87abafad32a196ec6ce6df6e7828d54297627c0",
+      "sha256_archivado": "cff9b92289ac1abccbc6b839280ea069d2100dafeed4af858864b74056452a44"
+    }
+  ],
+  "documentos_con_enlaces_actualizados": [
+    "descartados/informes/CRITERIOS-DE-CLARIDAD-MUSICAL-C80-D50.md",
+    "descartados/informes/ESTUDIO-QRD-Y-ALTERNATIVAS-PLATEA-ALTA.md",
+    "descartados/informes/METODO-DE-COMPARACION-DE-DIFUSION.md",
+    "descartados/informes/PASO-3-ENSAYO-DE-PANOS-LOCALIZADOS.md",
+    "descartados/informes/PLAN-DE-LOCALIZACION-Y-VALIDACION-DEL-TRATAMIENTO.md",
+    "descartados/informes/RESULTADOS-D50-FONDO-Y-LATERALES-PLATEA-ALTA.md",
+    "descartados/informes/RESULTADOS-DISPERSION-8-Y-16-KHZ.md",
+    "descartados/informes/RESULTADOS-INICIALES-DISPERSION-PLATEA-ALTA.md",
+    "descartados/informes/informe-propuesta-acustica-refuerzo.md",
+    "descartados/prediccion/estudio-difusion/PLAN.md",
+    "informes/PLAN-DE-ESTUDIO-D50-C80-Y-TRATAMIENTOS-POR-ZONA.md",
+    "informes/README.md",
+    "informes/RESULTADOS-LATERALES-BAJOS-Y-ADELANTADOS.md",
+    "prediccion/estudio-difusion/d50-laterales/README.md",
+    "prediccion/estudio-difusion/localizado/README.md"
+  ]
+}

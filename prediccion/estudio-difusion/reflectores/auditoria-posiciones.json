@@ -1,0 +1,376 @@
+{
+  "fuentes": {
+    "F1": [
+      5.3600001335144,
+      0.0199999995529652,
+      1.5
+    ],
+    "F2": [
+      5.6,
+      4.72,
+      1.5
+    ]
+  },
+  "receptores": {
+    "P9": [
+      26.5900001525879,
+      8.01000022888184,
+      6.73699998855591
+    ],
+    "P8": [
+      26.6599998474121,
+      -8.14000034332275,
+      6.73699998855591
+    ],
+    "P7": [
+      19.5699996948242,
+      -4.53000020980835,
+      1.60300004482269
+    ],
+    "P6": [
+      30.9599990844727,
+      4.30000019073486,
+      1.88499999046326
+    ],
+    "P5": [
+      33.5,
+      0.340000003576279,
+      1.942999958992
+    ],
+    "P4": [
+      18.1599998474121,
+      -9.72000026702881,
+      1.58299994468689
+    ],
+    "P3": [
+      27.4200000762939,
+      -4.55000019073486,
+      1.79799997806549
+    ],
+    "P2": [
+      15.7299995422363,
+      4.53000020980835,
+      1.50699996948242
+    ],
+    "P1": [
+      18.1599998474121,
+      9.39999961853027,
+      1.58200001716614
+    ],
+    "V01": [
+      26.0,
+      -9.0,
+      6.7369232177734375
+    ],
+    "V02": [
+      26.0,
+      -3.0,
+      6.335384845733643
+    ],
+    "V03": [
+      26.0,
+      3.0,
+      6.335384845733643
+    ],
+    "V04": [
+      26.0,
+      9.0,
+      6.7369232177734375
+    ],
+    "V05": [
+      31.0,
+      -9.0,
+      7.539999961853027
+    ],
+    "V06": [
+      31.0,
+      -3.0,
+      7.539999961853027
+    ],
+    "V07": [
+      31.0,
+      3.0,
+      7.539999961853027
+    ],
+    "V08": [
+      31.0,
+      9.0,
+      7.539999961853027
+    ],
+    "V09": [
+      36.0,
+      -9.0,
+      7.539999961858616
+    ],
+    "V10": [
+      36.0,
+      -3.0,
+      8.956315994262695
+    ],
+    "V11": [
+      36.0,
+      3.0,
+      8.956315994262695
+    ],
+    "V12": [
+      36.0,
+      9.0,
+      7.539999961853027
+    ]
+  },
+  "distancias": [
+    {
+      "fuente": "F1",
+      "receptor": "P9",
+      "distancia_m": 23.28044615884049,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "P8",
+      "distancia_m": 23.403028912683684,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "P7",
+      "distancia_m": 14.921032083835428,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "P6",
+      "distancia_m": 25.958169675811888,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "P5",
+      "distancia_m": 28.145305851101554,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "P4",
+      "distancia_m": 16.084604031794264,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "P3",
+      "distancia_m": 22.530364027276374,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "P2",
+      "distancia_m": 11.308273017263463,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "P1",
+      "distancia_m": 15.869187425026235,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V01",
+      "distancia_m": 23.12564289418384,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V02",
+      "distancia_m": 21.41286858625383,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V03",
+      "distancia_m": 21.407263746157295,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V04",
+      "distancia_m": 23.11007051666889,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V05",
+      "distancia_m": 27.843340185482447,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V06",
+      "distancia_m": 26.51436577951406,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V07",
+      "distancia_m": 26.509839544879004,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V08",
+      "distancia_m": 27.830407699144384,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V09",
+      "distancia_m": 32.50617774130673,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V10",
+      "distancia_m": 31.6784886006551,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V11",
+      "distancia_m": 31.67470031471805,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V12",
+      "distancia_m": 32.49510103639395,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "P9",
+      "distancia_m": 21.88219314401135,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "P8",
+      "distancia_m": 25.225569791055136,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "P7",
+      "distancia_m": 16.755118751118303,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "P6",
+      "distancia_m": 25.366398609122573,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "P5",
+      "distancia_m": 28.24518806686085,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "P4",
+      "distancia_m": 19.138288660943594,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "P3",
+      "distancia_m": 23.709367575973367,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "P2",
+      "distancia_m": 10.131783635942552,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "P1",
+      "distancia_m": 13.403832160962427,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V01",
+      "distancia_m": 25.136104805415943,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V02",
+      "distancia_m": 22.34142669138098,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V03",
+      "distancia_m": 21.035668437355408,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V04",
+      "distancia_m": 21.491946510003565,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V05",
+      "distancia_m": 29.493728139032957,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V06",
+      "distancia_m": 27.225723122429358,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V07",
+      "distancia_m": 26.16486192471087,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V08",
+      "distancia_m": 26.456757162191753,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V09",
+      "distancia_m": 33.895132387103196,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V10",
+      "distancia_m": 32.23902988934837,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V11",
+      "distancia_m": 31.34828620844045,
+      "directo_visible": true
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V12",
+      "distancia_m": 31.288336477658643,
+      "directo_visible": true
+    }
+  ],
+  "cotejo": "XY coherentes con analisis/sala.py, mediciones-originales.csv y marcas del plano-referencia.png; Z predictivas conservadas, registro de campo no certificado. F2/P9 al mismo lado, sin evidencia documental para intercambiarlos."
+}

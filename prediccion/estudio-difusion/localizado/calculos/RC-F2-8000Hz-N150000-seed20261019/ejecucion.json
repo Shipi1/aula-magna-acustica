@@ -1,0 +1,12 @@
+{
+  "variante": "RC",
+  "fuente": "F2",
+  "frecuencia": 8000,
+  "N": 150000,
+  "semilla": 20261019,
+  "segundos": 30.485263109207153,
+  "fraccion_perdidas": 7.333333333333333e-05,
+  "config_sha256": "5e249690b97992b0f151f235d1c094915b571313dbdb2de48162f2e6e3eaf3f2",
+  "malla_sha256": "6e9de0c04bdde40be5a63387e13f4ee3aea8050d444391acfdc6302735a9caf9",
+  "tetra_sha256": "fe06ba4d9f4b326599a503174ded705649cc96c72ddc527f315dec78f3d1309e"
+}

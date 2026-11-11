@@ -1,0 +1,42 @@
+Opening C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\reflectores-cobertura\retornos_compactos2\scene.poly.
+Delaunizing vertices...
+Delaunay seconds:  0.02
+Creating surface mesh ...
+Surface mesh seconds:  0.004
+Recovering boundaries...
+Boundary recovery seconds:  0.071
+Removing exterior tetrahedra ...
+Exterior tets removal seconds:  0.003
+Suppressing Steiner points ...
+Steiner suppression seconds:  0
+Recovering Delaunayness...
+Delaunay recovery seconds:  0.015
+Refining mesh...
+Refinement seconds:  0.206
+Optimizing mesh...
+Optimization seconds:  0.187
+Jettisoning redundant points.
+
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\reflectores-cobertura\retornos_compactos2\scene.1.node.
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\reflectores-cobertura\retornos_compactos2\scene.1.ele.
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\reflectores-cobertura\retornos_compactos2\scene.1.face.
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\reflectores-cobertura\retornos_compactos2\scene.1.edge.
+
+Output seconds:  0.024
+Total running seconds:  0.53
+
+Statistics:
+
+  Input points: 2356
+  Input facets: 4716
+  Input segments: 7074
+  Input holes: 2
+  Input regions: 0
+
+  Mesh points: 2537
+  Mesh tetrahedra: 8085
+  Mesh faces: 18528
+  Mesh faces on facets: 4716
+  Mesh edges on segments: 7074
+  Steiner points inside domain: 181
+

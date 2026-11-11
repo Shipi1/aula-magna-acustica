@@ -1,0 +1,64 @@
+{
+  "principales_nuevas_terminadas": 84,
+  "principales_nuevas_esperadas": 84,
+  "reutilizadas": 12,
+  "bandas": [
+    {
+      "frecuencia_Hz": 63,
+      "nuevas_terminadas": 12,
+      "reutilizadas": 0,
+      "total": 12,
+      "esperadas": 12
+    },
+    {
+      "frecuencia_Hz": 125,
+      "nuevas_terminadas": 12,
+      "reutilizadas": 0,
+      "total": 12,
+      "esperadas": 12
+    },
+    {
+      "frecuencia_Hz": 250,
+      "nuevas_terminadas": 12,
+      "reutilizadas": 0,
+      "total": 12,
+      "esperadas": 12
+    },
+    {
+      "frecuencia_Hz": 500,
+      "nuevas_terminadas": 12,
+      "reutilizadas": 0,
+      "total": 12,
+      "esperadas": 12
+    },
+    {
+      "frecuencia_Hz": 1000,
+      "nuevas_terminadas": 0,
+      "reutilizadas": 12,
+      "total": 12,
+      "esperadas": 12
+    },
+    {
+      "frecuencia_Hz": 2000,
+      "nuevas_terminadas": 12,
+      "reutilizadas": 0,
+      "total": 12,
+      "esperadas": 12
+    },
+    {
+      "frecuencia_Hz": 4000,
+      "nuevas_terminadas": 12,
+      "reutilizadas": 0,
+      "total": 12,
+      "esperadas": 12
+    },
+    {
+      "frecuencia_Hz": 8000,
+      "nuevas_terminadas": 12,
+      "reutilizadas": 0,
+      "total": 12,
+      "esperadas": 12
+    }
+  ],
+  "activas": []
+}

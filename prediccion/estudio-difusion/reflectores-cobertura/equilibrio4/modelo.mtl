@@ -1,0 +1,4 @@
+newmtl sala
+Kd 0.72 0.74 0.76
+newmtl reflector
+Kd 0.86 0.57 0.15

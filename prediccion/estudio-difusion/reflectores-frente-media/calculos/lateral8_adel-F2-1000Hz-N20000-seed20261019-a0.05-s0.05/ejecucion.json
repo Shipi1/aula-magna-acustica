@@ -1,0 +1,14 @@
+{
+  "variante": "lateral8_adel",
+  "fuente": "F2",
+  "frecuencia": 1000,
+  "N": 20000,
+  "semilla": 20261019,
+  "alpha": 0.05,
+  "dispersion": 0.05,
+  "fraccion_perdidas": 0.00015,
+  "segundos": 4.97352147102356,
+  "config_sha256": "fa15572b0cf26746c3367f2ca52a1533a30a1b8f702dbec9977566fddc7db65d",
+  "malla_sha256": "10c65ad61c19e73e2828554ed028cded039d00e400ff11910588b6b1a1c4a600",
+  "tetra_sha256": "8aa4fc1161d1d4177dc443f262c6be126b5a896e3a7259cc01543c59b9f36950"
+}

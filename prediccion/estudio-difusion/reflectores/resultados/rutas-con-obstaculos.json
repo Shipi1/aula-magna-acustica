@@ -1,0 +1,898 @@
+[
+  {
+    "variante": "adelantado",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "P8",
+    "punto": [
+      11.607547714227284,
+      -5.4918118060473144,
+      8.27913981212351
+    ],
+    "retardo_ms": 7.892345556081215,
+    "distancia_reflejada_m": 26.10221109286346,
+    "cos_incidencia": 0.4499629151135969,
+    "corte_finito_estimado_Hz": 593.1885966098625,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "adelantado",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V05",
+    "punto": [
+      12.479201344400856,
+      -5.681907879174105,
+      8.665110757552712
+    ],
+    "retardo_ms": 7.616396843070615,
+    "distancia_reflejada_m": 30.448147905812597,
+    "cos_incidencia": 0.4166825100484807,
+    "corte_finito_estimado_Hz": 785.7645927356803,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "adelantado",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V06",
+    "punto": [
+      10.748308726311421,
+      -3.4333137920824846,
+      8.77025989323648
+    ],
+    "retardo_ms": 10.132011778698704,
+    "distancia_reflejada_m": 29.979513807829015,
+    "cos_incidencia": 0.49897910342888124,
+    "corte_finito_estimado_Hz": 500.33718737092374,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "adelantado",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V09",
+    "punto": [
+      12.40861560575668,
+      -5.378701136914163,
+      8.767923207186177
+    ],
+    "retardo_ms": 8.383176088791302,
+    "distancia_reflejada_m": 35.373223963673354,
+    "cos_incidencia": 0.42121852894749723,
+    "corte_finito_estimado_Hz": 830.1599889262865,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "adelantado",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V10",
+    "punto": [
+      11.61635158412395,
+      -3.447015018541765,
+      9.23643280884946
+    ],
+    "retardo_ms": 9.494761326283886,
+    "distancia_reflejada_m": 34.92569697424419,
+    "cos_incidencia": 0.4587021213036394,
+    "corte_finito_estimado_Hz": 664.4116121549079,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "adelantado",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "P8",
+    "punto": [
+      12.965432652168937,
+      -4.1991373652881485,
+      9.620510048505222
+    ],
+    "retardo_ms": 10.077817372617872,
+    "distancia_reflejada_m": 28.672183332490448,
+    "cos_incidencia": 0.4754057382764137,
+    "corte_finito_estimado_Hz": 602.4741499521118,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "adelantado",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V01",
+    "punto": [
+      13.256499633339656,
+      -4.824989363581812,
+      9.487432209011818
+    ],
+    "retardo_ms": 9.256251455026558,
+    "distancia_reflejada_m": 28.301742803035026,
+    "cos_incidencia": 0.459804509344949,
+    "corte_finito_estimado_Hz": 635.1813420397954,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "adelantado",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "P9",
+    "punto": [
+      11.710207120122304,
+      3.095806153212285,
+      8.08789332003163
+    ],
+    "retardo_ms": 6.143984134142969,
+    "distancia_reflejada_m": 25.381688732717386,
+    "cos_incidencia": 0.4103209845183989,
+    "corte_finito_estimado_Hz": 675.0649089912118,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "adelantado",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V04",
+    "punto": [
+      11.673238826462327,
+      3.5437074192599933,
+      8.070419247220494
+    ],
+    "retardo_ms": 5.98816588670135,
+    "distancia_reflejada_m": 25.158023249920753,
+    "cos_incidencia": 0.4054385867344308,
+    "corte_finito_estimado_Hz": 690.7117669408985,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "adelantado",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V08",
+    "punto": [
+      12.625686421550231,
+      3.233252617532111,
+      8.430199842627442
+    ],
+    "retardo_ms": 5.820447052424001,
+    "distancia_reflejada_m": 29.821000591073393,
+    "cos_incidencia": 0.375714882356323,
+    "corte_finito_estimado_Hz": 917.3396708539709,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "adelantado",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V12",
+    "punto": [
+      12.792351069544807,
+      2.805963883440465,
+      8.496159447742285
+    ],
+    "retardo_ms": 6.2118976557698025,
+    "distancia_reflejada_m": 34.61957003466722,
+    "cos_incidencia": 0.3743618872969332,
+    "corte_finito_estimado_Hz": 996.032000533088,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "adelantado",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "V03",
+    "punto": [
+      11.508199092299801,
+      4.111364125900285,
+      8.003938909688184
+    ],
+    "retardo_ms": 7.023424848769534,
+    "distancia_reflejada_m": 23.43767973563459,
+    "cos_incidencia": 0.45525288672964825,
+    "corte_finito_estimado_Hz": 504.0145027364274,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "adelantado",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "V06",
+    "punto": [
+      12.757666078270134,
+      2.0301551237711513,
+      8.489395413501532
+    ],
+    "retardo_ms": 6.083949157080991,
+    "distancia_reflejada_m": 29.306433734151057,
+    "cos_incidencia": 0.38706582053655125,
+    "corte_finito_estimado_Hz": 849.3732550942367,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "adelantado",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "V07",
+    "punto": [
+      12.797599003841405,
+      4.148567553096426,
+      8.487317163093932
+    ],
+    "retardo_ms": 6.274680238068288,
+    "distancia_reflejada_m": 28.310802566130224,
+    "cos_incidencia": 0.3990803480097178,
+    "corte_finito_estimado_Hz": 773.250662479079,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "intermedio",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "P8",
+    "punto": [
+      19.209075292025613,
+      -5.7408878502532845,
+      8.973899068007196
+    ],
+    "retardo_ms": 4.375319831681398,
+    "distancia_reflejada_m": 24.899388295118722,
+    "cos_incidencia": 0.3639297117480463,
+    "corte_finito_estimado_Hz": 786.030962696367,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "intermedio",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "P8",
+    "punto": [
+      19.532179600219784,
+      -4.363697756536489,
+      9.107478731965086
+    ],
+    "retardo_ms": 4.30129254400656,
+    "distancia_reflejada_m": 26.69661184110538,
+    "cos_incidencia": 0.3523950257716024,
+    "corte_finito_estimado_Hz": 881.2444684176216,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "intermedio",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V01",
+    "punto": [
+      19.304880735120328,
+      -5.084364130646511,
+      9.030401678663495
+    ],
+    "retardo_ms": 4.1194166837411546,
+    "distancia_reflejada_m": 26.544945311255418,
+    "cos_incidencia": 0.349192615013623,
+    "corte_finito_estimado_Hz": 876.2836983474674,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "intermedio",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "P9",
+    "punto": [
+      22.090284871188548,
+      7.648297593645912,
+      8.94638376044531
+    ],
+    "retardo_ms": 4.62965987644214,
+    "distancia_reflejada_m": 24.863789836583702,
+    "cos_incidencia": 0.4371949939175145,
+    "corte_finito_estimado_Hz": 398.6071211847723,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "intermedio",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V04",
+    "punto": [
+      22.26103791174007,
+      8.520456629056033,
+      8.622768755712357
+    ],
+    "retardo_ms": 3.8587480470391826,
+    "distancia_reflejada_m": 24.42976234875629,
+    "cos_incidencia": 0.42904420836042734,
+    "corte_finito_estimado_Hz": 359.9949192022985,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "intermedio",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "P9",
+    "punto": [
+      21.38047999239764,
+      8.420517240952341,
+      8.604960804275803
+    ],
+    "retardo_ms": 3.9903481600410857,
+    "distancia_reflejada_m": 23.2468922147454,
+    "cos_incidencia": 0.39594536981995765,
+    "corte_finito_estimado_Hz": 512.0130854643896,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "intermedio",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "V07",
+    "punto": [
+      22.258729605045026,
+      5.242457236929567,
+      9.87983950838134
+    ],
+    "retardo_ms": 5.3006955102643465,
+    "distancia_reflejada_m": 27.977699789221276,
+    "cos_incidencia": 0.3756211796903943,
+    "corte_finito_estimado_Hz": 837.103347312854,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "P8",
+    "punto": [
+      11.607547714227284,
+      -5.4918118060473144,
+      8.27913981212351
+    ],
+    "retardo_ms": 7.892345556081215,
+    "distancia_reflejada_m": 26.10221109286346,
+    "cos_incidencia": 0.4499629151135969,
+    "corte_finito_estimado_Hz": 593.1885966098625,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V05",
+    "punto": [
+      12.479201344400856,
+      -5.681907879174105,
+      8.665110757552712
+    ],
+    "retardo_ms": 7.616396843070615,
+    "distancia_reflejada_m": 30.448147905812597,
+    "cos_incidencia": 0.4166825100484807,
+    "corte_finito_estimado_Hz": 785.7645927356803,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V06",
+    "punto": [
+      10.748308726311421,
+      -3.4333137920824846,
+      8.77025989323648
+    ],
+    "retardo_ms": 10.132011778698704,
+    "distancia_reflejada_m": 29.979513807829015,
+    "cos_incidencia": 0.49897910342888124,
+    "corte_finito_estimado_Hz": 500.33718737092374,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V09",
+    "punto": [
+      12.40861560575668,
+      -5.378701136914163,
+      8.767923207186177
+    ],
+    "retardo_ms": 8.383176088791302,
+    "distancia_reflejada_m": 35.373223963673354,
+    "cos_incidencia": 0.42121852894749723,
+    "corte_finito_estimado_Hz": 830.1599889262865,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V10",
+    "punto": [
+      11.61635158412395,
+      -3.447015018541765,
+      9.23643280884946
+    ],
+    "retardo_ms": 9.494761326283886,
+    "distancia_reflejada_m": 34.92569697424419,
+    "cos_incidencia": 0.4587021213036394,
+    "corte_finito_estimado_Hz": 664.4116121549079,
+    "visible_con_todos_los_paneles": false
+  },
+  {
+    "variante": "combinado",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "P8",
+    "punto": [
+      12.965432652168937,
+      -4.1991373652881485,
+      9.620510048505222
+    ],
+    "retardo_ms": 10.077817372617872,
+    "distancia_reflejada_m": 28.672183332490448,
+    "cos_incidencia": 0.4754057382764137,
+    "corte_finito_estimado_Hz": 602.4741499521118,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V01",
+    "punto": [
+      13.256499633339656,
+      -4.824989363581812,
+      9.487432209011818
+    ],
+    "retardo_ms": 9.256251455026558,
+    "distancia_reflejada_m": 28.301742803035026,
+    "cos_incidencia": 0.459804509344949,
+    "corte_finito_estimado_Hz": 635.1813420397954,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "P9",
+    "punto": [
+      11.710207120122304,
+      3.095806153212285,
+      8.08789332003163
+    ],
+    "retardo_ms": 6.143984134142969,
+    "distancia_reflejada_m": 25.381688732717386,
+    "cos_incidencia": 0.4103209845183989,
+    "corte_finito_estimado_Hz": 675.0649089912118,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V04",
+    "punto": [
+      11.673238826462327,
+      3.5437074192599933,
+      8.070419247220494
+    ],
+    "retardo_ms": 5.98816588670135,
+    "distancia_reflejada_m": 25.158023249920753,
+    "cos_incidencia": 0.4054385867344308,
+    "corte_finito_estimado_Hz": 690.7117669408985,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V08",
+    "punto": [
+      12.625686421550231,
+      3.233252617532111,
+      8.430199842627442
+    ],
+    "retardo_ms": 5.820447052424001,
+    "distancia_reflejada_m": 29.821000591073393,
+    "cos_incidencia": 0.375714882356323,
+    "corte_finito_estimado_Hz": 917.3396708539709,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V12",
+    "punto": [
+      12.792351069544807,
+      2.805963883440465,
+      8.496159447742285
+    ],
+    "retardo_ms": 6.2118976557698025,
+    "distancia_reflejada_m": 34.61957003466722,
+    "cos_incidencia": 0.3743618872969332,
+    "corte_finito_estimado_Hz": 996.032000533088,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "V03",
+    "punto": [
+      11.508199092299801,
+      4.111364125900285,
+      8.003938909688184
+    ],
+    "retardo_ms": 7.023424848769534,
+    "distancia_reflejada_m": 23.43767973563459,
+    "cos_incidencia": 0.45525288672964825,
+    "corte_finito_estimado_Hz": 504.0145027364274,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "V06",
+    "punto": [
+      12.757666078270134,
+      2.0301551237711513,
+      8.489395413501532
+    ],
+    "retardo_ms": 6.083949157080991,
+    "distancia_reflejada_m": 29.306433734151057,
+    "cos_incidencia": 0.38706582053655125,
+    "corte_finito_estimado_Hz": 849.3732550942367,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "V07",
+    "punto": [
+      12.797599003841405,
+      4.148567553096426,
+      8.487317163093932
+    ],
+    "retardo_ms": 6.274680238068288,
+    "distancia_reflejada_m": 28.310802566130224,
+    "cos_incidencia": 0.3990803480097178,
+    "corte_finito_estimado_Hz": 773.250662479079,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 3,
+    "fuente": "F1",
+    "receptor": "P8",
+    "punto": [
+      19.209075292025613,
+      -5.7408878502532845,
+      8.973899068007196
+    ],
+    "retardo_ms": 4.375319831681398,
+    "distancia_reflejada_m": 24.899388295118722,
+    "cos_incidencia": 0.3639297117480463,
+    "corte_finito_estimado_Hz": 786.030962696367,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 3,
+    "fuente": "F2",
+    "receptor": "P8",
+    "punto": [
+      19.532179600219784,
+      -4.363697756536489,
+      9.107478731965086
+    ],
+    "retardo_ms": 4.30129254400656,
+    "distancia_reflejada_m": 26.69661184110538,
+    "cos_incidencia": 0.3523950257716024,
+    "corte_finito_estimado_Hz": 881.2444684176216,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 3,
+    "fuente": "F2",
+    "receptor": "V01",
+    "punto": [
+      19.304880735120328,
+      -5.084364130646511,
+      9.030401678663495
+    ],
+    "retardo_ms": 4.1194166837411546,
+    "distancia_reflejada_m": 26.544945311255418,
+    "cos_incidencia": 0.349192615013623,
+    "corte_finito_estimado_Hz": 876.2836983474674,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 4,
+    "fuente": "F1",
+    "receptor": "P9",
+    "punto": [
+      22.090284871188548,
+      7.648297593645912,
+      8.94638376044531
+    ],
+    "retardo_ms": 4.62965987644214,
+    "distancia_reflejada_m": 24.863789836583702,
+    "cos_incidencia": 0.4371949939175145,
+    "corte_finito_estimado_Hz": 398.6071211847723,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 4,
+    "fuente": "F1",
+    "receptor": "V04",
+    "punto": [
+      22.26103791174007,
+      8.520456629056033,
+      8.622768755712357
+    ],
+    "retardo_ms": 3.8587480470391826,
+    "distancia_reflejada_m": 24.42976234875629,
+    "cos_incidencia": 0.42904420836042734,
+    "corte_finito_estimado_Hz": 359.9949192022985,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 4,
+    "fuente": "F2",
+    "receptor": "P9",
+    "punto": [
+      21.38047999239764,
+      8.420517240952341,
+      8.604960804275803
+    ],
+    "retardo_ms": 3.9903481600410857,
+    "distancia_reflejada_m": 23.2468922147454,
+    "cos_incidencia": 0.39594536981995765,
+    "corte_finito_estimado_Hz": 512.0130854643896,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "combinado",
+    "panel": 4,
+    "fuente": "F2",
+    "receptor": "V07",
+    "punto": [
+      22.258729605045026,
+      5.242457236929567,
+      9.87983950838134
+    ],
+    "retardo_ms": 5.3006955102643465,
+    "distancia_reflejada_m": 27.977699789221276,
+    "cos_incidencia": 0.3756211796903943,
+    "corte_finito_estimado_Hz": 837.103347312854,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "selectivo",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "P8",
+    "punto": [
+      11.607547714227284,
+      -5.4918118060473144,
+      8.27913981212351
+    ],
+    "retardo_ms": 7.892345556081215,
+    "distancia_reflejada_m": 26.10221109286346,
+    "cos_incidencia": 0.4499629151135969,
+    "corte_finito_estimado_Hz": 593.1885966098625,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "selectivo",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V05",
+    "punto": [
+      12.479201344400856,
+      -5.681907879174105,
+      8.665110757552712
+    ],
+    "retardo_ms": 7.616396843070615,
+    "distancia_reflejada_m": 30.448147905812597,
+    "cos_incidencia": 0.4166825100484807,
+    "corte_finito_estimado_Hz": 785.7645927356803,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "selectivo",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V06",
+    "punto": [
+      10.748308726311421,
+      -3.4333137920824846,
+      8.77025989323648
+    ],
+    "retardo_ms": 10.132011778698704,
+    "distancia_reflejada_m": 29.979513807829015,
+    "cos_incidencia": 0.49897910342888124,
+    "corte_finito_estimado_Hz": 500.33718737092374,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "selectivo",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V09",
+    "punto": [
+      12.40861560575668,
+      -5.378701136914163,
+      8.767923207186177
+    ],
+    "retardo_ms": 8.383176088791302,
+    "distancia_reflejada_m": 35.373223963673354,
+    "cos_incidencia": 0.42121852894749723,
+    "corte_finito_estimado_Hz": 830.1599889262865,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "selectivo",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V10",
+    "punto": [
+      11.61635158412395,
+      -3.447015018541765,
+      9.23643280884946
+    ],
+    "retardo_ms": 9.494761326283886,
+    "distancia_reflejada_m": 34.92569697424419,
+    "cos_incidencia": 0.4587021213036394,
+    "corte_finito_estimado_Hz": 664.4116121549079,
+    "visible_con_todos_los_paneles": false
+  },
+  {
+    "variante": "selectivo",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "P8",
+    "punto": [
+      12.965432652168937,
+      -4.1991373652881485,
+      9.620510048505222
+    ],
+    "retardo_ms": 10.077817372617872,
+    "distancia_reflejada_m": 28.672183332490448,
+    "cos_incidencia": 0.4754057382764137,
+    "corte_finito_estimado_Hz": 602.4741499521118,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "selectivo",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V01",
+    "punto": [
+      13.256499633339656,
+      -4.824989363581812,
+      9.487432209011818
+    ],
+    "retardo_ms": 9.256251455026558,
+    "distancia_reflejada_m": 28.301742803035026,
+    "cos_incidencia": 0.459804509344949,
+    "corte_finito_estimado_Hz": 635.1813420397954,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "selectivo",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "P8",
+    "punto": [
+      19.209075292025613,
+      -5.7408878502532845,
+      8.973899068007196
+    ],
+    "retardo_ms": 4.375319831681398,
+    "distancia_reflejada_m": 24.899388295118722,
+    "cos_incidencia": 0.3639297117480463,
+    "corte_finito_estimado_Hz": 786.030962696367,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "selectivo",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "P8",
+    "punto": [
+      19.532179600219784,
+      -4.363697756536489,
+      9.107478731965086
+    ],
+    "retardo_ms": 4.30129254400656,
+    "distancia_reflejada_m": 26.69661184110538,
+    "cos_incidencia": 0.3523950257716024,
+    "corte_finito_estimado_Hz": 881.2444684176216,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "selectivo",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "V01",
+    "punto": [
+      19.304880735120328,
+      -5.084364130646511,
+      9.030401678663495
+    ],
+    "retardo_ms": 4.1194166837411546,
+    "distancia_reflejada_m": 26.544945311255418,
+    "cos_incidencia": 0.349192615013623,
+    "corte_finito_estimado_Hz": 876.2836983474674,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "selectivo",
+    "panel": 3,
+    "fuente": "F1",
+    "receptor": "P9",
+    "punto": [
+      22.090284871188548,
+      7.648297593645912,
+      8.94638376044531
+    ],
+    "retardo_ms": 4.62965987644214,
+    "distancia_reflejada_m": 24.863789836583702,
+    "cos_incidencia": 0.4371949939175145,
+    "corte_finito_estimado_Hz": 398.6071211847723,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "selectivo",
+    "panel": 3,
+    "fuente": "F1",
+    "receptor": "V04",
+    "punto": [
+      22.26103791174007,
+      8.520456629056033,
+      8.622768755712357
+    ],
+    "retardo_ms": 3.8587480470391826,
+    "distancia_reflejada_m": 24.42976234875629,
+    "cos_incidencia": 0.42904420836042734,
+    "corte_finito_estimado_Hz": 359.9949192022985,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "selectivo",
+    "panel": 3,
+    "fuente": "F2",
+    "receptor": "P9",
+    "punto": [
+      21.38047999239764,
+      8.420517240952341,
+      8.604960804275803
+    ],
+    "retardo_ms": 3.9903481600410857,
+    "distancia_reflejada_m": 23.2468922147454,
+    "cos_incidencia": 0.39594536981995765,
+    "corte_finito_estimado_Hz": 512.0130854643896,
+    "visible_con_todos_los_paneles": true
+  },
+  {
+    "variante": "selectivo",
+    "panel": 3,
+    "fuente": "F2",
+    "receptor": "V07",
+    "punto": [
+      22.258729605045026,
+      5.242457236929567,
+      9.87983950838134
+    ],
+    "retardo_ms": 5.3006955102643465,
+    "distancia_reflejada_m": 27.977699789221276,
+    "cos_incidencia": 0.3756211796903943,
+    "corte_finito_estimado_Hz": 837.103347312854,
+    "visible_con_todos_los_paneles": true
+  }
+]

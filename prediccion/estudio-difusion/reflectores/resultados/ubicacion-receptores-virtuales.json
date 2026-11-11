@@ -1,0 +1,134 @@
+[
+  {
+    "punto": "V01",
+    "X_m": 26.0,
+    "Y_m": -9.0,
+    "Z_global_m": 6.7369232177734375,
+    "piso_Z_m": 4.7369232177734375,
+    "altura_sobre_piso_m": 2.0,
+    "id_material_apoyo": 113,
+    "superficie_modelada": "Butacas",
+    "medicion_real": false
+  },
+  {
+    "punto": "V02",
+    "X_m": 26.0,
+    "Y_m": -3.0,
+    "Z_global_m": 6.335384845733643,
+    "piso_Z_m": 4.335384845733643,
+    "altura_sobre_piso_m": 2.0,
+    "id_material_apoyo": 113,
+    "superficie_modelada": "Butacas",
+    "medicion_real": false
+  },
+  {
+    "punto": "V03",
+    "X_m": 26.0,
+    "Y_m": 3.0,
+    "Z_global_m": 6.335384845733643,
+    "piso_Z_m": 4.335384845733643,
+    "altura_sobre_piso_m": 2.0,
+    "id_material_apoyo": 113,
+    "superficie_modelada": "Butacas",
+    "medicion_real": false
+  },
+  {
+    "punto": "V04",
+    "X_m": 26.0,
+    "Y_m": 9.0,
+    "Z_global_m": 6.7369232177734375,
+    "piso_Z_m": 4.7369232177734375,
+    "altura_sobre_piso_m": 2.0,
+    "id_material_apoyo": 113,
+    "superficie_modelada": "Butacas",
+    "medicion_real": false
+  },
+  {
+    "punto": "V05",
+    "X_m": 31.0,
+    "Y_m": -9.0,
+    "Z_global_m": 7.539999961853027,
+    "piso_Z_m": 5.539999961853027,
+    "altura_sobre_piso_m": 2.0,
+    "id_material_apoyo": 113,
+    "superficie_modelada": "Butacas",
+    "medicion_real": false
+  },
+  {
+    "punto": "V06",
+    "X_m": 31.0,
+    "Y_m": -3.0,
+    "Z_global_m": 7.539999961853027,
+    "piso_Z_m": 5.539999961853027,
+    "altura_sobre_piso_m": 2.0,
+    "id_material_apoyo": 110,
+    "superficie_modelada": "Madera expuesta",
+    "medicion_real": false
+  },
+  {
+    "punto": "V07",
+    "X_m": 31.0,
+    "Y_m": 3.0,
+    "Z_global_m": 7.539999961853027,
+    "piso_Z_m": 5.539999961853027,
+    "altura_sobre_piso_m": 2.0,
+    "id_material_apoyo": 110,
+    "superficie_modelada": "Madera expuesta",
+    "medicion_real": false
+  },
+  {
+    "punto": "V08",
+    "X_m": 31.0,
+    "Y_m": 9.0,
+    "Z_global_m": 7.539999961853027,
+    "piso_Z_m": 5.539999961853027,
+    "altura_sobre_piso_m": 2.0,
+    "id_material_apoyo": 113,
+    "superficie_modelada": "Butacas",
+    "medicion_real": false
+  },
+  {
+    "punto": "V09",
+    "X_m": 36.0,
+    "Y_m": -9.0,
+    "Z_global_m": 7.539999961858616,
+    "piso_Z_m": 5.539999961858616,
+    "altura_sobre_piso_m": 2.0,
+    "id_material_apoyo": 110,
+    "superficie_modelada": "Madera expuesta",
+    "medicion_real": false
+  },
+  {
+    "punto": "V10",
+    "X_m": 36.0,
+    "Y_m": -3.0,
+    "Z_global_m": 8.956315994262695,
+    "piso_Z_m": 6.956315994262695,
+    "altura_sobre_piso_m": 2.0,
+    "id_material_apoyo": 113,
+    "superficie_modelada": "Butacas",
+    "medicion_real": false
+  },
+  {
+    "punto": "V11",
+    "X_m": 36.0,
+    "Y_m": 3.0,
+    "Z_global_m": 8.956315994262695,
+    "piso_Z_m": 6.956315994262695,
+    "altura_sobre_piso_m": 2.0,
+    "id_material_apoyo": 113,
+    "superficie_modelada": "Butacas",
+    "medicion_real": false
+  },
+  {
+    "punto": "V12",
+    "X_m": 36.0,
+    "Y_m": 9.0,
+    "Z_global_m": 7.539999961853027,
+    "piso_Z_m": 5.539999961853027,
+    "altura_sobre_piso_m": 2.0,
+    "id_material_apoyo": 110,
+    "superficie_modelada": "Madera expuesta",
+    "medicion_real": false
+  }
+]

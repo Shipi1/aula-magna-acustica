@@ -1,0 +1,29 @@
+{
+  "lateral_Yneg": {
+    "archivo": "lateral_Yneg_dispersion-equivalente-s060.proj",
+    "sha256": "8d5476918741bab6ab8c6fc7cf4681fdcd5df3edd41e68bc3fe3d3d8dcd6654b",
+    "caras": 31,
+    "area_m2": 112.66242703617672,
+    "caras_totales_sin_duplicados": 4692,
+    "sceneMesh_identica": true,
+    "GUI_verificada": false
+  },
+  "lateral_Ypos": {
+    "archivo": "lateral_Ypos_dispersion-equivalente-s060.proj",
+    "sha256": "0aeedfc0f65e886a4f740889b8441ab8f68d2ec3013d3f4610172506e1dfc3dc",
+    "caras": 42,
+    "area_m2": 92.35145021266953,
+    "caras_totales_sin_duplicados": 4692,
+    "sceneMesh_identica": true,
+    "GUI_verificada": false
+  },
+  "fondo_alto": {
+    "archivo": "fondo_alto_dispersion-equivalente-s060.proj",
+    "sha256": "f8117a123422f6ab0aed8e1f0bc2150001bfde92c990dda10b776cb340ac262f",
+    "caras": 10,
+    "area_m2": 112.46655974715395,
+    "caras_totales_sin_duplicados": 4692,
+    "sceneMesh_identica": true,
+    "GUI_verificada": false
+  }
+}

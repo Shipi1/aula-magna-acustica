@@ -1,0 +1,322 @@
+[
+  {
+    "variante": "vertical",
+    "panel": 1,
+    "holgura_vertical": {
+      "minimo_m": 7.669533399381174,
+      "punto_panel": [
+        11.049089736457827,
+        -5.847287824057543,
+        7.80953339997722
+      ],
+      "cota_piso_m": 0.14000000059604645,
+      "material_piso": 111,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "vertical",
+    "panel": 2,
+    "holgura_vertical": {
+      "minimo_m": 7.509688829364441,
+      "punto_panel": [
+        10.60436877867024,
+        5.999867773173852,
+        7.649688829960487
+      ],
+      "cota_piso_m": 0.14000000059604645,
+      "material_piso": 111,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "vertical",
+    "panel": 3,
+    "holgura_vertical": {
+      "minimo_m": 9.292816831236987,
+      "punto_panel": [
+        18.528980438148842,
+        -5.994776443269766,
+        8.872786934815776
+      ],
+      "cota_piso_m": -0.4200298964212098,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "vertical",
+    "panel": 4,
+    "holgura_vertical": {
+      "minimo_m": 4.382710067633825,
+      "punto_panel": [
+        23.544241219917716,
+        8.817559269769646,
+        8.45040187061234
+      ],
+      "cota_piso_m": 4.067691802978516,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "horizontal",
+    "panel": 1,
+    "holgura_vertical": {
+      "minimo_m": 7.669533399381174,
+      "punto_panel": [
+        10.891706494723824,
+        -5.757381045870172,
+        7.80953339997722
+      ],
+      "cota_piso_m": 0.14000000059604645,
+      "material_piso": 111,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "horizontal",
+    "panel": 2,
+    "holgura_vertical": {
+      "minimo_m": 7.509688829364441,
+      "punto_panel": [
+        10.134319891958068,
+        5.570507991251999,
+        7.649688829960487
+      ],
+      "cota_piso_m": 0.14000000059604645,
+      "material_piso": 111,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "horizontal",
+    "panel": 3,
+    "holgura_vertical": {
+      "minimo_m": 9.272794716293085,
+      "punto_panel": [
+        19.299947497726542,
+        -6.377595025237355,
+        8.872786934815776
+      ],
+      "cota_piso_m": -0.40000778147730887,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "horizontal",
+    "panel": 4,
+    "holgura_vertical": {
+      "minimo_m": 4.6387872373794465,
+      "punto_panel": [
+        23.195870703618553,
+        9.103902136849966,
+        8.572633234236136
+      ],
+      "cota_piso_m": 3.9338459968566895,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "combinada",
+    "panel": 1,
+    "holgura_vertical": {
+      "minimo_m": 7.778148554877078,
+      "punto_panel": [
+        10.681351495548112,
+        -5.693553363750659,
+        7.918148555473125
+      ],
+      "cota_piso_m": 0.14000000059604645,
+      "material_piso": 111,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "combinada",
+    "panel": 2,
+    "holgura_vertical": {
+      "minimo_m": 7.509688829364441,
+      "punto_panel": [
+        10.134319891958068,
+        5.570507991251999,
+        7.649688829960487
+      ],
+      "cota_piso_m": 0.14000000059604645,
+      "material_piso": 111,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "combinada",
+    "panel": 3,
+    "holgura_vertical": {
+      "minimo_m": 9.43957202657165,
+      "punto_panel": [
+        17.92193672882481,
+        -5.3758248093780505,
+        9.002872795148594
+      ],
+      "cota_piso_m": -0.43669923142305633,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "combinada",
+    "panel": 4,
+    "holgura_vertical": {
+      "minimo_m": 4.677450112047721,
+      "punto_panel": [
+        22.528700393862955,
+        8.788434366713403,
+        8.477450064364005
+      ],
+      "cota_piso_m": 3.799999952316284,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "segmentada",
+    "panel": 1,
+    "holgura_vertical": {
+      "minimo_m": 7.533181469151727,
+      "punto_panel": [
+        10.717092485321535,
+        -5.49146958517273,
+        7.673181469747774
+      ],
+      "cota_piso_m": 0.14000000059604645,
+      "material_piso": 111,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "segmentada",
+    "panel": 2,
+    "holgura_vertical": {
+      "minimo_m": 8.476544609392896,
+      "punto_panel": [
+        10.714941395767738,
+        -3.8270356922353073,
+        8.616544609988942
+      ],
+      "cota_piso_m": 0.14000000059604645,
+      "material_piso": 111,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "segmentada",
+    "panel": 3,
+    "holgura_vertical": {
+      "minimo_m": 7.289396612878868,
+      "punto_panel": [
+        10.915900092658697,
+        3.818995817733726,
+        7.429396613474914
+      ],
+      "cota_piso_m": 0.14000000059604645,
+      "material_piso": 111,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "segmentada",
+    "panel": 4,
+    "holgura_vertical": {
+      "minimo_m": 7.273867491002338,
+      "punto_panel": [
+        10.352141145653915,
+        5.945479933838478,
+        7.413867491598385
+      ],
+      "cota_piso_m": 0.14000000059604645,
+      "material_piso": 111,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "segmentada",
+    "panel": 5,
+    "holgura_vertical": {
+      "minimo_m": 9.175665376402375,
+      "punto_panel": [
+        17.87742555233256,
+        -5.161862823644871,
+        8.7374825027577
+      ],
+      "cota_piso_m": -0.4381828736446747,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "segmentada",
+    "panel": 6,
+    "holgura_vertical": {
+      "minimo_m": 9.465126598826558,
+      "punto_panel": [
+        21.679512930029613,
+        -4.191659180116598,
+        9.119511582358406
+      ],
+      "cota_piso_m": -0.3456150164681513,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "segmentada",
+    "panel": 7,
+    "holgura_vertical": {
+      "minimo_m": 5.763360336974928,
+      "punto_panel": [
+        23.454326875568935,
+        6.468460758149625,
+        9.563360289291213
+      ],
+      "cota_piso_m": 3.799999952316284,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  },
+  {
+    "variante": "segmentada",
+    "panel": 8,
+    "holgura_vertical": {
+      "minimo_m": 4.456997041994613,
+      "punto_panel": [
+        23.99927407375148,
+        8.539421635011559,
+        8.658535127932113
+      ],
+      "cota_piso_m": 4.2015380859375,
+      "material_piso": 113,
+      "muestras": 50
+    },
+    "segmentos_directos_preservados": 42
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "variante": "segmentada",
+  "fuente": "F2",
+  "frecuencia": 1000,
+  "N": 600000,
+  "semilla": 20261020,
+  "alpha": 0.05,
+  "dispersion": 0.05,
+  "fraccion_perdidas": 0.00015166666666666668,
+  "segundos": 85.58622407913208,
+  "config_sha256": "99e61a3d04f59e6c71d7ba59150cffbac1aff1b312bf859a2f26060c6fbdc1ce",
+  "malla_sha256": "5c75a3d3bbdc79eafa92fd48598ddb7470c1cb15482a977e2885dc95fd29c509",
+  "tetra_sha256": "927b646be56ebdd27f4abb6be902d428166382c693eee786628c81448475cc7b"
+}

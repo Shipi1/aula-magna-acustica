@@ -1,0 +1,14 @@
+{
+  "variante": "med_exterior_a080",
+  "fuente": "F1",
+  "frecuencia": 1000,
+  "N": 600000,
+  "semilla": 20261019,
+  "area_m2": 9.599999999999994,
+  "alpha_final": 0.8,
+  "segundos": 113.16633367538452,
+  "fraccion_perdidas": 0.00017166666666666667,
+  "config_sha256": "c7ae97a7444b70e3c4f2e0e823d7a17da833f5c4a490d682ed76afdd76ec7e0d",
+  "malla_sha256": "53ed57b2c2e9b75ca27d671418b005999ecd595c2b5c3ecf88be6ba9ddfd2f97",
+  "tetra_sha256": "670756fffa86ac1ec08a120eeeefa4de649ff7d9430ecc84a718a6ccc178874e"
+}

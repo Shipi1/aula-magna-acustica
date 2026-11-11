@@ -1,0 +1,14 @@
+{
+  "variante": "lateral9",
+  "fuente": "F2",
+  "frecuencia": 1000,
+  "N": 600000,
+  "semilla": 20261021,
+  "alpha": 0.05,
+  "dispersion": 0.05,
+  "fraccion_perdidas": 0.00014166666666666668,
+  "segundos": 82.03751540184021,
+  "config_sha256": "45e9ea46ae3c667254353dca99c36ea0fe089337d36e3276ec89f3e78da447a7",
+  "malla_sha256": "b241a664ca2524d6826f3ea9fa5da2bc3f21b1b5fea40b6d1c1d9c29741c45ad",
+  "tetra_sha256": "b72f97564474e93553080ddb9034e0bde0f9c7adf38447dd1b2cdcfaa97dc394"
+}

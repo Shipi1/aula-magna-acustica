@@ -1,0 +1,130 @@
+[
+  {
+    "variante": "base",
+    "fuente": "F1",
+    "frecuencia": 16000,
+    "fraccion_atmosfera": 0.7089133333333333,
+    "fraccion_materiales": 0.2910466666666667,
+    "fraccion_perdidas": 4e-05
+  },
+  {
+    "variante": "base",
+    "fuente": "F1",
+    "frecuencia": 8000,
+    "fraccion_atmosfera": 0.4090933333333333,
+    "fraccion_materiales": 0.5908,
+    "fraccion_perdidas": 0.00010666666666666667
+  },
+  {
+    "variante": "base",
+    "fuente": "F2",
+    "frecuencia": 16000,
+    "fraccion_atmosfera": 0.7088133333333333,
+    "fraccion_materiales": 0.29114666666666666,
+    "fraccion_perdidas": 4e-05
+  },
+  {
+    "variante": "base",
+    "fuente": "F2",
+    "frecuencia": 8000,
+    "fraccion_atmosfera": 0.41188,
+    "fraccion_materiales": 0.5880066666666667,
+    "fraccion_perdidas": 0.00011333333333333333
+  },
+  {
+    "variante": "fondo_alto",
+    "fuente": "F1",
+    "frecuencia": 16000,
+    "fraccion_atmosfera": 0.71,
+    "fraccion_materiales": 0.2899466666666667,
+    "fraccion_perdidas": 5.333333333333333e-05
+  },
+  {
+    "variante": "fondo_alto",
+    "fuente": "F1",
+    "frecuencia": 8000,
+    "fraccion_atmosfera": 0.40961333333333333,
+    "fraccion_materiales": 0.5902933333333333,
+    "fraccion_perdidas": 9.333333333333333e-05
+  },
+  {
+    "variante": "fondo_alto",
+    "fuente": "F2",
+    "frecuencia": 16000,
+    "fraccion_atmosfera": 0.7090933333333334,
+    "fraccion_materiales": 0.2908266666666667,
+    "fraccion_perdidas": 8e-05
+  },
+  {
+    "variante": "fondo_alto",
+    "fuente": "F2",
+    "frecuencia": 8000,
+    "fraccion_atmosfera": 0.4098266666666667,
+    "fraccion_materiales": 0.59006,
+    "fraccion_perdidas": 0.00011333333333333333
+  },
+  {
+    "variante": "lateral_Yneg",
+    "fuente": "F1",
+    "frecuencia": 16000,
+    "fraccion_atmosfera": 0.70904,
+    "fraccion_materiales": 0.29091333333333336,
+    "fraccion_perdidas": 4.6666666666666665e-05
+  },
+  {
+    "variante": "lateral_Yneg",
+    "fuente": "F1",
+    "frecuencia": 8000,
+    "fraccion_atmosfera": 0.41003333333333336,
+    "fraccion_materiales": 0.5898533333333333,
+    "fraccion_perdidas": 0.00011333333333333333
+  },
+  {
+    "variante": "lateral_Yneg",
+    "fuente": "F2",
+    "frecuencia": 16000,
+    "fraccion_atmosfera": 0.70944,
+    "fraccion_materiales": 0.2905066666666667,
+    "fraccion_perdidas": 5.333333333333333e-05
+  },
+  {
+    "variante": "lateral_Yneg",
+    "fuente": "F2",
+    "frecuencia": 8000,
+    "fraccion_atmosfera": 0.4107133333333333,
+    "fraccion_materiales": 0.5891733333333333,
+    "fraccion_perdidas": 0.00011333333333333333
+  },
+  {
+    "variante": "lateral_Ypos",
+    "fuente": "F1",
+    "frecuencia": 16000,
+    "fraccion_atmosfera": 0.7112666666666667,
+    "fraccion_materiales": 0.28869333333333336,
+    "fraccion_perdidas": 4e-05
+  },
+  {
+    "variante": "lateral_Ypos",
+    "fuente": "F1",
+    "frecuencia": 8000,
+    "fraccion_atmosfera": 0.4110066666666667,
+    "fraccion_materiales": 0.5888666666666666,
+    "fraccion_perdidas": 0.00012666666666666666
+  },
+  {
+    "variante": "lateral_Ypos",
+    "fuente": "F2",
+    "frecuencia": 16000,
+    "fraccion_atmosfera": 0.7101533333333333,
+    "fraccion_materiales": 0.2898266666666667,
+    "fraccion_perdidas": 2e-05
+  },
+  {
+    "variante": "lateral_Ypos",
+    "fuente": "F2",
+    "frecuencia": 8000,
+    "fraccion_atmosfera": 0.41216,
+    "fraccion_materiales": 0.58774,
+    "fraccion_perdidas": 0.0001
+  }
+]

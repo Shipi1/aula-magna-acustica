@@ -1,0 +1,15 @@
+{
+  "corridas": 8,
+  "receptores": 21,
+  "max_fraccion_perdidas": 0.00017333333333333334,
+  "archivos": [
+    "adelantado-F1-1000Hz-N150000-seed20261019-a0.05-s0.05",
+    "adelantado-F2-1000Hz-N150000-seed20261019-a0.05-s0.05",
+    "base-F1-1000Hz-N150000-seed20261019-a0.05-s0.05",
+    "base-F2-1000Hz-N150000-seed20261019-a0.05-s0.05",
+    "combinado-F1-1000Hz-N150000-seed20261019-a0.05-s0.05",
+    "combinado-F2-1000Hz-N150000-seed20261019-a0.05-s0.05",
+    "intermedio-F1-1000Hz-N150000-seed20261019-a0.05-s0.05",
+    "intermedio-F2-1000Hz-N150000-seed20261019-a0.05-s0.05"
+  ]
+}

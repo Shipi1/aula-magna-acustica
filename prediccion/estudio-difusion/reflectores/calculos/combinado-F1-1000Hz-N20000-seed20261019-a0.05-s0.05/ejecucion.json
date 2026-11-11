@@ -1,0 +1,14 @@
+{
+  "variante": "combinado",
+  "fuente": "F1",
+  "frecuencia": 1000,
+  "N": 20000,
+  "semilla": 20261019,
+  "alpha": 0.05,
+  "dispersion": 0.05,
+  "fraccion_perdidas": 0.00025,
+  "segundos": 5.809902906417847,
+  "config_sha256": "b72dddcbfc8eb3b35bd6db8e8514d57537e1183706a8c5232496a79dc3f71d5c",
+  "malla_sha256": "6bb91ae042f9f9ed61fa8aef4ef876eb45b3d8f26159b40be68ab5487a5adb75",
+  "tetra_sha256": "31863e85b6c08dc5228bcd0b99fd32e9c0b5fe7d85a7a4a23d9f9e6ddeb4ad70"
+}

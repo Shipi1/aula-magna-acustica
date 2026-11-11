@@ -1,0 +1,8 @@
+{
+  "caso": "selectivo",
+  "paneles": 3,
+  "area_frontal_m2": 36.0,
+  "volumen_aire_m3": 9543.013970362765,
+  "volumen_desplazado_m3": 0.7200002360914368,
+  "aristas_dos_caras": true
+}

@@ -1,0 +1,20 @@
+newmtl BASE
+Kd 0.65 0.67 0.7
+Ka .2 .2 .2
+d 1
+
+newmtl R
+Kd 0.54 0.32 0.69
+Ka .2 .2 .2
+d 1
+
+newmtl Lneg
+Kd 0.15 0.55 0.6
+Ka .2 .2 .2
+d 1
+
+newmtl Lpos
+Kd 0.76 0.48 0.15
+Ka .2 .2 .2
+d 1
+

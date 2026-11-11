@@ -1,0 +1,11 @@
+{
+  "variante": "base",
+  "fuente": "F2",
+  "frecuencia": 8000,
+  "N": 150000,
+  "semilla": 20261019,
+  "dispersion": 0.05,
+  "segundos": 16.758856534957886,
+  "config_sha256": "fcdbbcc9dc8387fcfc7731e4a55d1ef5abb11b1fbafd3683f902901cab9ff4a9",
+  "mesh_sha256": "3e6616806769fde921e6dc3365ae047e98f06da17964e0d58bde92764054faa7"
+}

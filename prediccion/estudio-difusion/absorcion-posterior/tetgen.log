@@ -1,0 +1,42 @@
+Opening C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\absorcion-posterior\scene.poly.
+Delaunizing vertices...
+Delaunay seconds:  0.019
+Creating surface mesh ...
+Surface mesh seconds:  0.007
+Recovering boundaries...
+Boundary recovery seconds:  0.102
+Removing exterior tetrahedra ...
+Exterior tets removal seconds:  0.005
+Suppressing Steiner points ...
+Steiner suppression seconds:  0
+Recovering Delaunayness...
+Delaunay recovery seconds:  0.026
+Refining mesh...
+Refinement seconds:  0.436
+Optimizing mesh...
+Optimization seconds:  0.325
+Jettisoning redundant points.
+
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\absorcion-posterior\scene.1.node.
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\absorcion-posterior\scene.1.ele.
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\absorcion-posterior\scene.1.face.
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\absorcion-posterior\scene.1.edge.
+
+Output seconds:  0.04
+Total running seconds:  0.961
+
+Statistics:
+
+  Input points: 2537
+  Input facets: 5086
+  Input segments: 7629
+  Input holes: 0
+  Input regions: 0
+
+  Mesh points: 2652
+  Mesh tetrahedra: 8184
+  Mesh faces: 18911
+  Mesh faces on facets: 5086
+  Mesh edges on segments: 7629
+  Steiner points inside domain: 115
+

@@ -1,0 +1,19 @@
+{
+  "corridas_estudio": 34,
+  "pilotos": 1,
+  "exploraciones_150k": 16,
+  "referencias_600k": 12,
+  "fondo_repetido_600k": 6,
+  "max_fraccion_perdidas": 0.00022666666666666666,
+  "series_positivas_finitas": true,
+  "mismas_geometria_y_conectividad_entre_variantes": true,
+  "absorcion_conservada": true,
+  "Lw90_verificado": true,
+  "hashes_verificados": true,
+  "documentos_enlaces_verificados": [
+    "informes/RESULTADOS-D50-FONDO-Y-LATERALES-PLATEA-ALTA.md",
+    "informes/PLAN-DE-ESTUDIO-D50-C80-Y-TRATAMIENTOS-POR-ZONA.md",
+    "prediccion/estudio-difusion/d50-laterales/README.md"
+  ],
+  "corridas_archivadas_sin_perdida": 35
+}

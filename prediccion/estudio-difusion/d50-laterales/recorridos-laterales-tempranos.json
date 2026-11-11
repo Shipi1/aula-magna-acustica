@@ -1,0 +1,82 @@
+[
+  {
+    "fuente": "F1",
+    "receptor": "P9",
+    "orden": "1",
+    "superficies": "lateral_Yneg",
+    "retardo_ms": "43.71427900152658",
+    "panos_interceptados": "",
+    "rebotes_xyz": "[[13.270476804635418, -11.665, 3.4513502684368103]]",
+    "interceptado_por_laterales_altos": false
+  },
+  {
+    "fuente": "F1",
+    "receptor": "P9",
+    "orden": "1",
+    "superficies": "lateral_Ypos",
+    "retardo_ms": "9.962496690215861",
+    "panos_interceptados": "",
+    "rebotes_xyz": "[[21.51838927879152, 11.665, 5.48593893984326]]",
+    "interceptado_por_laterales_altos": false
+  },
+  {
+    "fuente": "F1",
+    "receptor": "P8",
+    "orden": "1",
+    "superficies": "lateral_Yneg",
+    "retardo_ms": "9.616731142563108",
+    "panos_interceptados": "",
+    "rebotes_xyz": "[[21.723609750390622, -11.665, 5.523296926168482]]",
+    "interceptado_por_laterales_altos": false
+  },
+  {
+    "fuente": "F1",
+    "receptor": "P8",
+    "orden": "1",
+    "superficies": "lateral_Ypos",
+    "retardo_ms": "43.68538536093519",
+    "panos_interceptados": "",
+    "rebotes_xyz": "[[13.246756698431156, 11.665, 3.4391053800467044]]",
+    "interceptado_por_laterales_altos": false
+  },
+  {
+    "fuente": "F2",
+    "receptor": "P9",
+    "orden": "1",
+    "superficies": "lateral_Yneg",
+    "retardo_ms": "58.974624544956434",
+    "panos_interceptados": "",
+    "rebotes_xyz": "[[15.13746950408206, -11.665, 3.8795963468619576]]",
+    "interceptado_por_laterales_altos": false
+  },
+  {
+    "fuente": "F2",
+    "receptor": "P9",
+    "orden": "1",
+    "superficies": "lateral_Ypos",
+    "retardo_ms": "6.457892074274293",
+    "panos_interceptados": "",
+    "rebotes_xyz": "[[19.352410774283022, 11.665, 4.9312231797986295]]",
+    "interceptado_por_laterales_altos": false
+  },
+  {
+    "fuente": "F2",
+    "receptor": "P8",
+    "orden": "1",
+    "superficies": "lateral_Yneg",
+    "retardo_ms": "12.354882753296323",
+    "panos_interceptados": "",
+    "rebotes_xyz": "[[22.931396456560016, -11.665, 5.8098064436033745]]",
+    "interceptado_por_laterales_altos": false
+  },
+  {
+    "fuente": "F2",
+    "receptor": "P8",
+    "orden": "1",
+    "superficies": "lateral_Ypos",
+    "retardo_ms": "26.959701086945795",
+    "panos_interceptados": "",
+    "rebotes_xyz": "[[11.067726993012409, 11.665, 2.8596622225688906]]",
+    "interceptado_por_laterales_altos": false
+  }
+]

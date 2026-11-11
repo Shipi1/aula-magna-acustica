@@ -1,0 +1,282 @@
+[
+  {
+    "carpeta": "lateral8-F1-1000Hz-N20000-seed20261019-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1082139,
+    "sha256": "199d583238e6d2343f4ea65bc505307e3d927650335ba4303069bbae3df1df4d"
+  },
+  {
+    "carpeta": "lateral8-F1-1000Hz-N600000-seed20261019-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2119814,
+    "sha256": "84c041f60cd048241ced17b2735afeb6cc9ab7ee95512306e7c5436e55981398"
+  },
+  {
+    "carpeta": "lateral8-F1-1000Hz-N600000-seed20261020-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2119581,
+    "sha256": "16d8cd4c2fb5c394de0f3c409b6743d8f7b28ec1195ae5a3668bb248ecdc251e"
+  },
+  {
+    "carpeta": "lateral8-F1-1000Hz-N600000-seed20261021-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2121189,
+    "sha256": "7c59b2184cfb6d1514b7f9effecb2e403e9453db10ef990509f697d053358b2f"
+  },
+  {
+    "carpeta": "lateral8-F2-1000Hz-N20000-seed20261019-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1090019,
+    "sha256": "0a3981d8a1a1539219999586596a152db0f19b0114621a193a5032aa50964a7c"
+  },
+  {
+    "carpeta": "lateral8-F2-1000Hz-N600000-seed20261019-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2111511,
+    "sha256": "3775d5dadcca998c1a92291cf25f1cf302d38f64ee33cf33e8ff6ca88e2c0b4b"
+  },
+  {
+    "carpeta": "lateral8-F2-1000Hz-N600000-seed20261020-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2108626,
+    "sha256": "7a644494e44da9afde46e17ccd1dd513f892cd269368de50c41e707f570fdc48"
+  },
+  {
+    "carpeta": "lateral8-F2-1000Hz-N600000-seed20261021-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2110827,
+    "sha256": "b27d001e08dc616cf36df3e3fd6f92acd99dfe17524df38eabb67207ce923fb1"
+  },
+  {
+    "carpeta": "lateral8_adel-F1-1000Hz-N20000-seed20261019-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1094880,
+    "sha256": "0097d8bf81e6499f46d9d4bcfbc38c71961fb164f587acd96c37a075e5a7a0d2"
+  },
+  {
+    "carpeta": "lateral8_adel-F1-1000Hz-N600000-seed20261019-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2087251,
+    "sha256": "2a7e140e250400fea055fd746d4d77dd242461cccb2097370a6af509e402b31e"
+  },
+  {
+    "carpeta": "lateral8_adel-F1-1000Hz-N600000-seed20261020-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2094102,
+    "sha256": "0f5e8611a940ba04409fbbb4137706e7109512bf53b232d685cb038cce1459b2"
+  },
+  {
+    "carpeta": "lateral8_adel-F1-1000Hz-N600000-seed20261021-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2099445,
+    "sha256": "8ff804838034f66e20e0436c891d549a32e79ca285dba6e928a8e7b0c684e122"
+  },
+  {
+    "carpeta": "lateral8_adel-F2-1000Hz-N20000-seed20261019-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1088794,
+    "sha256": "529b82bf646037d678070feb4938b29de50be0cf34d39d6af0b7f570a2e9dd00"
+  },
+  {
+    "carpeta": "lateral8_equiv-F1-1000Hz-N20000-seed20261019-a0.247946-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1082424,
+    "sha256": "a47c0b2ebf5ee589cbbe83302b8ce907f16b54661ffc14c38ad75a78163e5831"
+  },
+  {
+    "carpeta": "lateral8_equiv-F2-1000Hz-N20000-seed20261019-a0.247946-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1072259,
+    "sha256": "ac540b5dcc13b934e510e01ed66d784904ff2ed78e1e9b7dbc8379e49c881c28"
+  },
+  {
+    "carpeta": "lateral8_inter-F1-1000Hz-N20000-seed20261019-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1086081,
+    "sha256": "6ae5771cba29654524db782853d634aac00a989e37692dd07a20ea300df2b843"
+  },
+  {
+    "carpeta": "lateral8_inter-F2-1000Hz-N20000-seed20261019-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1082552,
+    "sha256": "3cfc6f0cc3d2f7bf8a45ba05890c7abc267ce48c1c780ad53d96a0e223b3a818"
+  },
+  {
+    "carpeta": "lateral9-F1-1000Hz-N20000-seed20261019-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1094054,
+    "sha256": "28272cbd73f11c6e6ed0f8b88096045d85a87093c1cc9374b43f9585fffc1410"
+  },
+  {
+    "carpeta": "lateral9-F1-1000Hz-N600000-seed20261019-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2110406,
+    "sha256": "a92bc6a554fe4d66f0d57f40cbf9570d706d6589775e8b1bb5422ed0fa5d90cf"
+  },
+  {
+    "carpeta": "lateral9-F1-1000Hz-N600000-seed20261020-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2121400,
+    "sha256": "e4323bb119f0f7e94f59ca349b2f17939ee0d9b0d56220a0397f74c5240204a4"
+  },
+  {
+    "carpeta": "lateral9-F1-1000Hz-N600000-seed20261021-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2118749,
+    "sha256": "1d3f0c6d7e8ea2e97a871f3076b93bc5e49a9444db09d594536b727be3e40b5f"
+  },
+  {
+    "carpeta": "lateral9-F2-1000Hz-N20000-seed20261019-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1090619,
+    "sha256": "a71f99bf584f4904cc69bb6b07952c73ce8188d7a2b4f4e22dcaf9ff0cd27276"
+  },
+  {
+    "carpeta": "lateral9-F2-1000Hz-N600000-seed20261019-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2104264,
+    "sha256": "c6ed9f0f3e4eb31cfa9e47216f9468358d649197cd291f4b2caf4ce2087702c6"
+  },
+  {
+    "carpeta": "lateral9-F2-1000Hz-N600000-seed20261020-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2107765,
+    "sha256": "9b4f0b1aec54abbe9e89d961b8cc425c9af668f8d345361728e48bd84e6a7c39"
+  },
+  {
+    "carpeta": "lateral9-F2-1000Hz-N600000-seed20261021-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2109989,
+    "sha256": "b82d1b25493870ad3158acd4b7334b505ef43737c17e67bd444bc7106474961f"
+  },
+  {
+    "carpeta": "lateral8_adel-F2-1000Hz-N600000-seed20261019-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2077776,
+    "sha256": "84e76c955cc6b9aa57d5be61482489b96f994be82a9b5df2d88b48cee1dc3ae5"
+  },
+  {
+    "carpeta": "lateral8_adel-F2-1000Hz-N600000-seed20261020-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2082285,
+    "sha256": "b5ac3603d963171be05708d9435319d7e28dbdacf60355b18a0ad368119d27fd"
+  },
+  {
+    "carpeta": "lateral8_adel-F2-1000Hz-N600000-seed20261021-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2083391,
+    "sha256": "9da879a4f8ab3ead3dd2d3276c92de77ec45f5923bf190eb3b2bcefe0c3107e3"
+  },
+  {
+    "carpeta": "lateral8_equiv-F1-1000Hz-N600000-seed20261019-a0.247946-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2098280,
+    "sha256": "6df0ef40a8f3219cd6aa6962c81e3b63aa4b1f2c772a58390aaaf41dcd8501ed"
+  },
+  {
+    "carpeta": "lateral8_equiv-F1-1000Hz-N600000-seed20261020-a0.247946-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2105696,
+    "sha256": "b929c29091badd099027f7518c5ec652dc7e3f162e05aee9150f783fa842c2e9"
+  },
+  {
+    "carpeta": "lateral8_equiv-F1-1000Hz-N600000-seed20261021-a0.247946-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2093510,
+    "sha256": "a0067f80a16ea3b0bdc414c2920b8d3f38428c3aafe1e3c036fdcd535941a705"
+  },
+  {
+    "carpeta": "lateral8_inter-F1-1000Hz-N600000-seed20261019-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2114729,
+    "sha256": "7cdcb6ade7e69a12791349726ee695b365368c90def95fe7df519692c397576f"
+  },
+  {
+    "carpeta": "lateral8_inter-F1-1000Hz-N600000-seed20261020-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2108092,
+    "sha256": "cdfde8f727a283ec672c6e472f99ec4453c34ceaa66f40beaeddb14a91141f43"
+  },
+  {
+    "carpeta": "lateral8_inter-F1-1000Hz-N600000-seed20261021-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2112261,
+    "sha256": "986c3421a026dd62a7b56615a0db4e48eb633981273d0e6cf4d0f4f44d86c661"
+  },
+  {
+    "carpeta": "lateral8_inter-F2-1000Hz-N600000-seed20261019-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2099963,
+    "sha256": "255859a9a875ca29421d1779c38254befcaa62a7601aebb2814ff060560bb3bd"
+  },
+  {
+    "carpeta": "lateral8_inter-F2-1000Hz-N600000-seed20261020-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2094443,
+    "sha256": "0de78cd40fa34533117071fdbb31a197a97530d170024598a331e7700df0d842"
+  },
+  {
+    "carpeta": "lateral8_inter-F2-1000Hz-N600000-seed20261021-a0.05-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2098990,
+    "sha256": "f0317519aeb4e0418c8a50b8e2f5adf68278f7165d6b5a3aeae6725d7b5de6bb"
+  },
+  {
+    "carpeta": "lateral8_equiv-F2-1000Hz-N600000-seed20261019-a0.247946-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2093965,
+    "sha256": "c91b8cc076155ac4ba9dcf62203d05cd3e9ca96be95b0b548f2d6d24ce298f98"
+  },
+  {
+    "carpeta": "lateral8_equiv-F2-1000Hz-N600000-seed20261020-a0.247946-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2085253,
+    "sha256": "4d1bf95e3cd31d49934b6ef83f254b500106d9841404645828e8d0d9bf33cfef"
+  },
+  {
+    "carpeta": "lateral8_equiv-F2-1000Hz-N600000-seed20261021-a0.247946-s0.05",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 2086749,
+    "sha256": "6e24dfbfff1c91e51c252861f0940e8f366f4f52c86749205ffc1f8eac1967a4"
+  }
+]

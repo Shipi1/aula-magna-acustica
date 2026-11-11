@@ -1,0 +1,390 @@
+{
+  "cobertura4": [
+    {
+      "fuente": "F1",
+      "receptor": "P8",
+      "aporte_geometrico": 0.6766120146860061
+    },
+    {
+      "fuente": "F1",
+      "receptor": "P9",
+      "aporte_geometrico": 0.6733813631631168
+    },
+    {
+      "fuente": "F2",
+      "receptor": "P8",
+      "aporte_geometrico": 1.3748174683784595
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V01",
+      "aporte_geometrico": 0.6907058080243347
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V02",
+      "aporte_geometrico": 0.0
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V03",
+      "aporte_geometrico": 0.7543625302862463
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V04",
+      "aporte_geometrico": 0.6871367786619527
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V05",
+      "aporte_geometrico": 0.7120256366345232
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V08",
+      "aporte_geometrico": 0.7245275579298841
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V10",
+      "aporte_geometrico": 1.461014628344402
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V11",
+      "aporte_geometrico": 0.7771252797475959
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V01",
+      "aporte_geometrico": 1.3972328131561005
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V02",
+      "aporte_geometrico": 0.7048736832826328
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V03",
+      "aporte_geometrico": 0.7056886627643139
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V04",
+      "aporte_geometrico": 1.2029760487607932
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V05",
+      "aporte_geometrico": 0.7667950616658993
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V08",
+      "aporte_geometrico": 0.7504665453275497
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V10",
+      "aporte_geometrico": 0.0
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V11",
+      "aporte_geometrico": 0.7476629477336443
+    }
+  ],
+  "equilibrio4": [
+    {
+      "fuente": "F1",
+      "receptor": "P8",
+      "aporte_geometrico": 0.6766120146860061
+    },
+    {
+      "fuente": "F1",
+      "receptor": "P9",
+      "aporte_geometrico": 0.6733813631631168
+    },
+    {
+      "fuente": "F2",
+      "receptor": "P8",
+      "aporte_geometrico": 1.3798789810393284
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V01",
+      "aporte_geometrico": 0.6907058080243347
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V02",
+      "aporte_geometrico": 0.0
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V03",
+      "aporte_geometrico": 0.7543625302862463
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V04",
+      "aporte_geometrico": 0.6871367786619527
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V05",
+      "aporte_geometrico": 0.7120256366345232
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V08",
+      "aporte_geometrico": 0.7245275579298841
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V10",
+      "aporte_geometrico": 1.4666972518964336
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V11",
+      "aporte_geometrico": 0.7751181485141128
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V01",
+      "aporte_geometrico": 1.404947125186045
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V02",
+      "aporte_geometrico": 0.0
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V03",
+      "aporte_geometrico": 0.7056886627643139
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V04",
+      "aporte_geometrico": 1.2029760487607932
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V05",
+      "aporte_geometrico": 0.7690224960877523
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V08",
+      "aporte_geometrico": 0.7504665453275497
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V10",
+      "aporte_geometrico": 0.7683722223296644
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V11",
+      "aporte_geometrico": 0.7476629477336443
+    }
+  ],
+  "cobertura6": [
+    {
+      "fuente": "F1",
+      "receptor": "P8",
+      "aporte_geometrico": 1.531322686479652
+    },
+    {
+      "fuente": "F1",
+      "receptor": "P9",
+      "aporte_geometrico": 1.5236631125480737
+    },
+    {
+      "fuente": "F2",
+      "receptor": "P8",
+      "aporte_geometrico": 2.2300111476031965
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V01",
+      "aporte_geometrico": 1.553668409964421
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V02",
+      "aporte_geometrico": 0.0
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V03",
+      "aporte_geometrico": 0.7543625302862463
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V04",
+      "aporte_geometrico": 1.535298174710083
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V05",
+      "aporte_geometrico": 0.7120256366345232
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V08",
+      "aporte_geometrico": 0.7245275579298841
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V10",
+      "aporte_geometrico": 1.461014628344402
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V11",
+      "aporte_geometrico": 0.7771252797475959
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V01",
+      "aporte_geometrico": 2.2612208010237795
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V02",
+      "aporte_geometrico": 0.7048736832826328
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V03",
+      "aporte_geometrico": 0.7056886627643139
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V04",
+      "aporte_geometrico": 2.043466763715031
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V05",
+      "aporte_geometrico": 0.7667950616658993
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V08",
+      "aporte_geometrico": 0.7504665453275497
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V10",
+      "aporte_geometrico": 0.0
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V11",
+      "aporte_geometrico": 0.7476629477336443
+    }
+  ],
+  "central5": [
+    {
+      "fuente": "F1",
+      "receptor": "P8",
+      "aporte_geometrico": 1.5227846262372167
+    },
+    {
+      "fuente": "F1",
+      "receptor": "P9",
+      "aporte_geometrico": 1.5504731325947971
+    },
+    {
+      "fuente": "F2",
+      "receptor": "P8",
+      "aporte_geometrico": 2.2875295408092553
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V01",
+      "aporte_geometrico": 0.0
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V02",
+      "aporte_geometrico": 0.7426538952220586
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V03",
+      "aporte_geometrico": 0.7467024895614995
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V04",
+      "aporte_geometrico": 1.5691748354652195
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V05",
+      "aporte_geometrico": 0.7546891678076004
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V08",
+      "aporte_geometrico": 0.7860350733784989
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V10",
+      "aporte_geometrico": 0.0
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V11",
+      "aporte_geometrico": 0.0
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V01",
+      "aporte_geometrico": 2.3067432746111307
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V02",
+      "aporte_geometrico": 0.7558714887711644
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V03",
+      "aporte_geometrico": 0.7269936429081169
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V04",
+      "aporte_geometrico": 0.0
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V05",
+      "aporte_geometrico": 0.0
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V08",
+      "aporte_geometrico": 0.0
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V10",
+      "aporte_geometrico": 0.0
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V11",
+      "aporte_geometrico": 0.0
+    }
+  ]
+}

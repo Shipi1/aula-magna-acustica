@@ -1,0 +1,12 @@
+{
+  "variante": "base",
+  "fuente": "F2",
+  "frecuencia": 4000,
+  "N": 150000,
+  "semilla": 20261019,
+  "segundos": 48.31208324432373,
+  "fraccion_perdidas": 0.00016666666666666666,
+  "config_sha256": "64391b27ec61ae06f5819bc3e9ade775b6998555c4a4decc8b69cc3cb8ba1e14",
+  "malla_sha256": "9c28ded370233a83067b541dfb39153c375c06e65721d82f9dac2a0196bcbf4e",
+  "tetra_sha256": "fe06ba4d9f4b326599a503174ded705649cc96c72ddc527f315dec78f3d1309e"
+}

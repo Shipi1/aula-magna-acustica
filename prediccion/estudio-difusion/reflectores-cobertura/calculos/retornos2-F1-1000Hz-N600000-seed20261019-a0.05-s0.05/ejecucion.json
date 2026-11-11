@@ -1,0 +1,14 @@
+{
+  "variante": "retornos2",
+  "fuente": "F1",
+  "frecuencia": 1000,
+  "N": 600000,
+  "semilla": 20261019,
+  "alpha": 0.05,
+  "dispersion": 0.05,
+  "fraccion_perdidas": 0.00013333333333333334,
+  "segundos": 84.20532631874084,
+  "config_sha256": "862c669c911707d22c8c26e49f7b159bf440e986a95ab0972862ea50ced56024",
+  "malla_sha256": "67dc91138cda5497a8331bada3ad39dea6f1afad05a9b28492e2f358b00aeabe",
+  "tetra_sha256": "6e6afb8afcd03959bd0eceba77333abfba378dabfe3af155698c6dc146cf96f2"
+}

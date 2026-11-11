@@ -1,0 +1,14 @@
+{
+  "variante": "central5",
+  "fuente": "F1",
+  "frecuencia": 1000,
+  "N": 600000,
+  "semilla": 20261021,
+  "alpha": 0.05,
+  "dispersion": 0.05,
+  "fraccion_perdidas": 0.000165,
+  "segundos": 88.69958090782166,
+  "config_sha256": "4e73de5b32be74ec7d054b7d6f4eae703ca52d03efe0e30bd1273c61ef314cc9",
+  "malla_sha256": "c957c202a7847e486d2e85890a7f9f94def370dacc1052c22f65bfdbe03a9697",
+  "tetra_sha256": "08b9b6167c71f2788d6811fe2f9aa4c21b9674b290476bcd79c9d3a9b246f299"
+}

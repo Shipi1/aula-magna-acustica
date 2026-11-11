@@ -1,0 +1,21 @@
+{
+  "corridas_estudio": 12,
+  "pilotos": 2,
+  "receptores": 21,
+  "frecuencia": 1000,
+  "semillas": [
+    20261019,
+    20261020,
+    20261021
+  ],
+  "N_por_semilla": 600000,
+  "area_muro_m2": 112.46655974759456,
+  "dispersion_invariable_verificada": true,
+  "solo_absorcion1000_modificada": true,
+  "fuentes90dB_verificadas": true,
+  "hashes_config_y_mallas_verificados": true,
+  "series_finitas_no_negativas": true,
+  "max_fraccion_perdidas": 0.00025,
+  "enlaces_entregables_verificados": 24,
+  "corridas_archivadas_sin_perdida": 14
+}

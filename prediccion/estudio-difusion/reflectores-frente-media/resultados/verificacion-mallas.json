@@ -1,0 +1,76 @@
+[
+  {
+    "variante": "lateral9",
+    "sala_original_conservada": true,
+    "tetraedros_en_solidos": [
+      0,
+      0
+    ],
+    "volumen_m3": 9543.01395414967,
+    "volumen_desplazado_m3": 0.7200164794903685,
+    "sha256": {
+      "mesh.cbin": "b241a664ca2524d6826f3ea9fa5da2bc3f21b1b5fea40b6d1c1d9c29741c45ad",
+      "tetramesh.mbin": "b72f97564474e93553080ddb9034e0bde0f9c7adf38447dd1b2cdcfaa97dc394"
+    }
+  },
+  {
+    "variante": "lateral8",
+    "sala_original_conservada": true,
+    "tetraedros_en_solidos": [
+      0,
+      0
+    ],
+    "volumen_m3": 9543.01395414967,
+    "volumen_desplazado_m3": 0.7200164794903685,
+    "sha256": {
+      "mesh.cbin": "9be07cf8b2cc4effe92a3913b0f852dbbac51276b971bc457f4dd64abc675955",
+      "tetramesh.mbin": "5acbebfbdcc3fec7cf357b06bc5e31f3833e8d202ba660493adad920c533005f"
+    }
+  },
+  {
+    "variante": "lateral8_adel",
+    "sala_original_conservada": true,
+    "tetraedros_en_solidos": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "volumen_m3": 9542.533953469701,
+    "volumen_desplazado_m3": 1.2000171593681443,
+    "sha256": {
+      "mesh.cbin": "10c65ad61c19e73e2828554ed028cded039d00e400ff11910588b6b1a1c4a600",
+      "tetramesh.mbin": "8aa4fc1161d1d4177dc443f262c6be126b5a896e3a7259cc01543c59b9f36950"
+    }
+  },
+  {
+    "variante": "lateral8_inter",
+    "sala_original_conservada": true,
+    "tetraedros_en_solidos": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "volumen_m3": 9542.53395145519,
+    "volumen_desplazado_m3": 1.200019173871624,
+    "sha256": {
+      "mesh.cbin": "e57b304007c13d9844d0c165be336a23b24b90d0d31494a9631b4df36a45553f",
+      "tetramesh.mbin": "addd47cf6f94759ab02e2d8b9b31422a658493a9ff1516dc8a22489c58177900"
+    }
+  },
+  {
+    "variante": "lateral8_equiv",
+    "sala_original_conservada": true,
+    "tetraedros_en_solidos": [
+      0,
+      0
+    ],
+    "volumen_m3": 9543.01395414967,
+    "volumen_desplazado_m3": 0.7200164794903685,
+    "sha256": {
+      "mesh.cbin": "9be07cf8b2cc4effe92a3913b0f852dbbac51276b971bc457f4dd64abc675955",
+      "tetramesh.mbin": "5acbebfbdcc3fec7cf357b06bc5e31f3833e8d202ba660493adad920c533005f"
+    }
+  }
+]

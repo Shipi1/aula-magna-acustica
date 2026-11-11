@@ -1,0 +1,17 @@
+{
+  "variante": "superior_centro_a060",
+  "fuente": "F2",
+  "frecuencia": 1000,
+  "N": 600000,
+  "semilla": 20261020,
+  "alpha": 0.05,
+  "dispersion": 0.05,
+  "fraccion_perdidas": 0.00012166666666666667,
+  "segundos": 96.7886323928833,
+  "config_sha256": "8d61899f2801f86e572f306c836f2b176420d1558ec962d6853c5f83f12521b6",
+  "malla_sha256": "10d987955d1e86a0e1348b1d9368339ac9fbfefd2fe3924fc72c223359f142e8",
+  "tetra_sha256": "d66038439c20bee5dfa57009beb714ecc8db3d8dc68aefd550e397fafb251005",
+  "alpha_absorbente": 0.6,
+  "area_absorbente_m2": 9.600000000000009,
+  "referencia_estudio": "Cuatro reflectores con giro combinado; particion comun"
+}

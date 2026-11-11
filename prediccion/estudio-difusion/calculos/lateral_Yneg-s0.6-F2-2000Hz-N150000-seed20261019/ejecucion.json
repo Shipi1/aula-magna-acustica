@@ -1,0 +1,11 @@
+{
+  "variante": "lateral_Yneg",
+  "fuente": "F2",
+  "frecuencia": 2000,
+  "N": 150000,
+  "semilla": 20261019,
+  "dispersion": 0.6,
+  "segundos": 33.464574337005615,
+  "config_sha256": "294bc894d50ae54610e9456176daf27960d543afb764cbe17486eb91590587bd",
+  "mesh_sha256": "e33bbe82d1676d1fa2c0e3a93735f06ea46542b218067e2ecea5270e450606ac"
+}

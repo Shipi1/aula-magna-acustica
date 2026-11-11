@@ -1,0 +1,40 @@
+{
+  "corridas_principales": 30,
+  "exploratorias": 8,
+  "pilotos": 3,
+  "zip_verificados": 41,
+  "enlaces_locales": 45,
+  "respuestas_medias": 210,
+  "geometrias": [
+    {
+      "variante": "base",
+      "tetraedros": 7260,
+      "centroides_dentro_de_paneles": 0,
+      "envolvente_original_preservada": true
+    },
+    {
+      "variante": "adelantado",
+      "tetraedros": 7411,
+      "centroides_dentro_de_paneles": 0,
+      "envolvente_original_preservada": true
+    },
+    {
+      "variante": "intermedio",
+      "tetraedros": 8179,
+      "centroides_dentro_de_paneles": 0,
+      "envolvente_original_preservada": true
+    },
+    {
+      "variante": "combinado",
+      "tetraedros": 8387,
+      "centroides_dentro_de_paneles": 0,
+      "envolvente_original_preservada": true
+    },
+    {
+      "variante": "selectivo",
+      "tetraedros": 8251,
+      "centroides_dentro_de_paneles": 0,
+      "envolvente_original_preservada": true
+    }
+  ]
+}

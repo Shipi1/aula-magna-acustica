@@ -1,0 +1,37 @@
+{
+  "lateral9": {
+    "alpha": 0.05,
+    "dispersion": 0.05,
+    "area_m2": 36.0,
+    "paneles": 2,
+    "tipo": "reflector nominal"
+  },
+  "lateral8": {
+    "alpha": 0.05,
+    "dispersion": 0.05,
+    "area_m2": 36.0,
+    "paneles": 2,
+    "tipo": "reflector nominal"
+  },
+  "lateral8_adel": {
+    "alpha": 0.05,
+    "dispersion": 0.05,
+    "area_m2": 60.0,
+    "paneles": 4,
+    "tipo": "reflector nominal"
+  },
+  "lateral8_inter": {
+    "alpha": 0.05,
+    "dispersion": 0.05,
+    "area_m2": 60.0,
+    "paneles": 4,
+    "tipo": "reflector nominal"
+  },
+  "lateral8_equiv": {
+    "alpha": 0.24794628455412168,
+    "dispersion": 0.05,
+    "area_m2": 36.0,
+    "paneles": 2,
+    "tipo": "control de absorcion igual a muro efectivo"
+  }
+}

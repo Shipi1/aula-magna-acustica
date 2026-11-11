@@ -1,0 +1,296 @@
+[
+  {
+    "fuente": "F1",
+    "receptor": "P9",
+    "min_retardo_plano_lateral_ms": 9.96249669021585,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "P8",
+    "min_retardo_plano_lateral_ms": 9.616731142563108,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "P7",
+    "min_retardo_plano_lateral_ms": 25.325482124167145,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "P6",
+    "min_retardo_plano_lateral_ms": 17.340689596173693,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "P5",
+    "min_retardo_plano_lateral_ms": 23.924121123703273,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "P4",
+    "min_retardo_plano_lateral_ms": 7.642178788683269,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "P3",
+    "min_retardo_plano_lateral_ms": 18.875331568131266,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "P2",
+    "min_retardo_plano_lateral_ms": 29.66254367124366,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "P1",
+    "min_retardo_plano_lateral_ms": 8.87168010567974,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "V01",
+    "min_retardo_plano_lateral_ms": 7.462905806741531,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "V02",
+    "min_retardo_plano_lateral_ms": 23.312057953723794,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "V03",
+    "min_retardo_plano_lateral_ms": 23.24749179143293,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "V04",
+    "min_retardo_plano_lateral_ms": 7.443139778169669,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "V05",
+    "min_retardo_plano_lateral_ms": 6.296943075439025,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "V06",
+    "min_retardo_plano_lateral_ms": 19.802555123695832,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "V07",
+    "min_retardo_plano_lateral_ms": 19.744330528151522,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "V08",
+    "min_retardo_plano_lateral_ms": 6.278866326878113,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "V09",
+    "min_retardo_plano_lateral_ms": 5.446233197637361,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "V10",
+    "min_retardo_plano_lateral_ms": 17.110766961619827,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "V11",
+    "min_retardo_plano_lateral_ms": 17.05846942703656,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F1",
+    "receptor": "V12",
+    "min_retardo_plano_lateral_ms": 5.429843532278354,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "P9",
+    "min_retardo_plano_lateral_ms": 6.457892074274303,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "P8",
+    "min_retardo_plano_lateral_ms": 12.354882753296323,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "P7",
+    "min_retardo_plano_lateral_ms": 30.044064666691874,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "P6",
+    "min_retardo_plano_lateral_ms": 10.979432567847555,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "P5",
+    "min_retardo_plano_lateral_ms": 14.934094258128015,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "P4",
+    "min_retardo_plano_lateral_ms": 9.01223195039424,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "P3",
+    "min_retardo_plano_lateral_ms": 23.718718515746673,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "P2",
+    "min_retardo_plano_lateral_ms": 21.092481976208422,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "P1",
+    "min_retardo_plano_lateral_ms": 6.348800875559819,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "V01",
+    "min_retardo_plano_lateral_ms": 9.539839707823283,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "V02",
+    "min_retardo_plano_lateral_ms": 22.71128811939158,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "V03",
+    "min_retardo_plano_lateral_ms": 14.920105077490518,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "V04",
+    "min_retardo_plano_lateral_ms": 4.849054682229031,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "V05",
+    "min_retardo_plano_lateral_ms": 8.26222028079079,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "V06",
+    "min_retardo_plano_lateral_ms": 19.490572528861858,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "V07",
+    "min_retardo_plano_lateral_ms": 12.43891075516093,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "V08",
+    "min_retardo_plano_lateral_ms": 3.9882605010854584,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "V09",
+    "min_retardo_plano_lateral_ms": 7.2672901518701005,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "V10",
+    "min_retardo_plano_lateral_ms": 16.95064518905776,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "V11",
+    "min_retardo_plano_lateral_ms": 10.611871739714815,
+    "ventana_3ms_invariante": true,
+    "ventana_1ms_invariante": true
+  },
+  {
+    "fuente": "F2",
+    "receptor": "V12",
+    "min_retardo_plano_lateral_ms": 3.3962804729161005,
+    "ventana_3ms_invariante": false,
+    "ventana_1ms_invariante": true
+  }
+]

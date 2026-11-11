@@ -1,0 +1,78 @@
+{
+  "version": "mixto_v1",
+  "fecha": "2026-11-10",
+  "origen": "Decision del usuario: priorizar frente y media; posterior fuera del objetivo",
+  "frecuencia_Hz": 1000,
+  "frente_butacas": [
+    "V01",
+    "V02",
+    "V03",
+    "V04"
+  ],
+  "media_butacas": [
+    "V05",
+    "V08"
+  ],
+  "posterior_butacas_control": [
+    "V10",
+    "V11"
+  ],
+  "madera_control": [
+    "V06",
+    "V07",
+    "V09",
+    "V12"
+  ],
+  "pares_campo_prioritarios": [
+    [
+      "F1",
+      "P8"
+    ],
+    [
+      "F1",
+      "P9"
+    ],
+    [
+      "F2",
+      "P8"
+    ]
+  ],
+  "pares_campo_control": [
+    [
+      "F2",
+      "P9"
+    ]
+  ],
+  "otras_zonas_control": [
+    "P1",
+    "P2",
+    "P3",
+    "P4",
+    "P5",
+    "P6",
+    "P7"
+  ],
+  "fuentes_independientes": [
+    "F1",
+    "F2"
+  ],
+  "D50_objetivo_pct": [
+    45,
+    55
+  ],
+  "C80_balance_dB": [
+    -2,
+    2
+  ],
+  "criterio": "Prioridad frontal; evaluar media separadamente y conjunta. No exigir cumplimiento de D50/C80 en posterior para seleccionar geometria. Mantener todos los controles y los resultados historicos.",
+  "alcance": "Estudio independiente de absorcion localizada sobre la referencia de cuatro reflectores inclinados; rangos exploratorios actualizados sin reescribir estudios anteriores.",
+  "rango_D50_pct": [
+    45,
+    55
+  ],
+  "rango_C80_dB": [
+    -2,
+    2
+  ],
+  "F2_V08": "Caso crítico conservado, no requisito único de selección. No se elimina de los conteos."
+}

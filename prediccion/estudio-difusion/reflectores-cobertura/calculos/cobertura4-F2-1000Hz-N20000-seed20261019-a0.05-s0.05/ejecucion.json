@@ -1,0 +1,14 @@
+{
+  "variante": "cobertura4",
+  "fuente": "F2",
+  "frecuencia": 1000,
+  "N": 20000,
+  "semilla": 20261019,
+  "alpha": 0.05,
+  "dispersion": 0.05,
+  "fraccion_perdidas": 0.0,
+  "segundos": 4.256856203079224,
+  "config_sha256": "f0c3dc5de565b55b2fcf3c09458d998c9cd315e61d2dea14d82f984fefb69827",
+  "malla_sha256": "20345c04c96b8585fb9d4a52e4ebe28c9950f1f39d4ee4eb0fd80d1d78499939",
+  "tetra_sha256": "fa4240d6d73d91922e4c1ce7ef25b177da317fdbc0c131210da28dc4f48262cc"
+}

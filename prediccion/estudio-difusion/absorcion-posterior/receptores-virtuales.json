@@ -1,0 +1,122 @@
+[
+  {
+    "nombre": "V01",
+    "x": 26.0,
+    "y": -9.0,
+    "z": 6.7369232177734375,
+    "piso_z_m": 4.7369232177734375,
+    "altura_local_m": 2.0,
+    "distancia_minima_superficie_m": 1.9360322048660148,
+    "medido": false
+  },
+  {
+    "nombre": "V02",
+    "x": 26.0,
+    "y": -3.0,
+    "z": 6.335384845733643,
+    "piso_z_m": 4.335384845733643,
+    "altura_local_m": 2.0,
+    "distancia_minima_superficie_m": 1.8952219823771346,
+    "medido": false
+  },
+  {
+    "nombre": "V03",
+    "x": 26.0,
+    "y": 3.0,
+    "z": 6.335384845733643,
+    "piso_z_m": 4.335384845733643,
+    "altura_local_m": 2.0,
+    "distancia_minima_superficie_m": 1.8952219823771346,
+    "medido": false
+  },
+  {
+    "nombre": "V04",
+    "x": 26.0,
+    "y": 9.0,
+    "z": 6.7369232177734375,
+    "piso_z_m": 4.7369232177734375,
+    "altura_local_m": 2.0,
+    "distancia_minima_superficie_m": 1.9360322048660148,
+    "medido": false
+  },
+  {
+    "nombre": "V05",
+    "x": 31.0,
+    "y": -9.0,
+    "z": 7.539999961853027,
+    "piso_z_m": 5.539999961853027,
+    "altura_local_m": 2.0,
+    "distancia_minima_superficie_m": 1.8713606738425304,
+    "medido": false
+  },
+  {
+    "nombre": "V06",
+    "x": 31.0,
+    "y": -3.0,
+    "z": 7.539999961853027,
+    "piso_z_m": 5.539999961853027,
+    "altura_local_m": 2.0,
+    "distancia_minima_superficie_m": 2.0,
+    "medido": false
+  },
+  {
+    "nombre": "V07",
+    "x": 31.0,
+    "y": 3.0,
+    "z": 7.539999961853027,
+    "piso_z_m": 5.539999961853027,
+    "altura_local_m": 2.0,
+    "distancia_minima_superficie_m": 2.0,
+    "medido": false
+  },
+  {
+    "nombre": "V08",
+    "x": 31.0,
+    "y": 9.0,
+    "z": 7.539999961853027,
+    "piso_z_m": 5.539999961853027,
+    "altura_local_m": 2.0,
+    "distancia_minima_superficie_m": 1.8713606738425304,
+    "medido": false
+  },
+  {
+    "nombre": "V09",
+    "x": 36.0,
+    "y": -9.0,
+    "z": 7.539999961858616,
+    "piso_z_m": 5.539999961858616,
+    "altura_local_m": 2.0,
+    "distancia_minima_superficie_m": 1.7962684788674204,
+    "medido": false
+  },
+  {
+    "nombre": "V10",
+    "x": 36.0,
+    "y": -3.0,
+    "z": 8.956315994262695,
+    "piso_z_m": 6.956315994262695,
+    "altura_local_m": 2.0,
+    "distancia_minima_superficie_m": 1.819040178694719,
+    "medido": false
+  },
+  {
+    "nombre": "V11",
+    "x": 36.0,
+    "y": 3.0,
+    "z": 8.956315994262695,
+    "piso_z_m": 6.956315994262695,
+    "altura_local_m": 2.0,
+    "distancia_minima_superficie_m": 1.819040178694719,
+    "medido": false
+  },
+  {
+    "nombre": "V12",
+    "x": 36.0,
+    "y": 9.0,
+    "z": 7.539999961853027,
+    "piso_z_m": 5.539999961853027,
+    "altura_local_m": 2.0,
+    "distancia_minima_superficie_m": 1.7962684788665837,
+    "medido": false
+  }
+]

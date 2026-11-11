@@ -1,0 +1,98 @@
+[
+  {
+    "estado": "sin_tratamiento",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "semilla": 20261019,
+    "carpeta": "C:\\Users\\arias\\Downloads\\Aula Magna IR\\aula-magna-acustica\\prediccion\\estudio-difusion\\reflectores\\calculos\\base-F1-1000Hz-N600000-seed20261019-a0.05-s0.05",
+    "N": 600000
+  },
+  {
+    "estado": "sin_tratamiento",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "semilla": 20261020,
+    "carpeta": "C:\\Users\\arias\\Downloads\\Aula Magna IR\\aula-magna-acustica\\prediccion\\estudio-difusion\\reflectores\\calculos\\base-F1-1000Hz-N600000-seed20261020-a0.05-s0.05",
+    "N": 600000
+  },
+  {
+    "estado": "sin_tratamiento",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "semilla": 20261021,
+    "carpeta": "C:\\Users\\arias\\Downloads\\Aula Magna IR\\aula-magna-acustica\\prediccion\\estudio-difusion\\reflectores\\calculos\\base-F1-1000Hz-N600000-seed20261021-a0.05-s0.05",
+    "N": 600000
+  },
+  {
+    "estado": "sin_tratamiento",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "semilla": 20261019,
+    "carpeta": "C:\\Users\\arias\\Downloads\\Aula Magna IR\\aula-magna-acustica\\prediccion\\estudio-difusion\\reflectores\\calculos\\base-F2-1000Hz-N600000-seed20261019-a0.05-s0.05",
+    "N": 600000
+  },
+  {
+    "estado": "sin_tratamiento",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "semilla": 20261020,
+    "carpeta": "C:\\Users\\arias\\Downloads\\Aula Magna IR\\aula-magna-acustica\\prediccion\\estudio-difusion\\reflectores\\calculos\\base-F2-1000Hz-N600000-seed20261020-a0.05-s0.05",
+    "N": 600000
+  },
+  {
+    "estado": "sin_tratamiento",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "semilla": 20261021,
+    "carpeta": "C:\\Users\\arias\\Downloads\\Aula Magna IR\\aula-magna-acustica\\prediccion\\estudio-difusion\\reflectores\\calculos\\base-F2-1000Hz-N600000-seed20261021-a0.05-s0.05",
+    "N": 600000
+  },
+  {
+    "estado": "propuesta",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "semilla": 20261019,
+    "carpeta": "C:\\Users\\arias\\Downloads\\Aula Magna IR\\aula-magna-acustica\\prediccion\\estudio-difusion\\reflectores-absorcion-localizada\\calculos\\media_centro_a060-F1-1000Hz-N600000-seed20261019-a0.05-s0.05",
+    "N": 600000
+  },
+  {
+    "estado": "propuesta",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "semilla": 20261020,
+    "carpeta": "C:\\Users\\arias\\Downloads\\Aula Magna IR\\aula-magna-acustica\\prediccion\\estudio-difusion\\reflectores-absorcion-localizada\\calculos\\media_centro_a060-F1-1000Hz-N600000-seed20261020-a0.05-s0.05",
+    "N": 600000
+  },
+  {
+    "estado": "propuesta",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "semilla": 20261021,
+    "carpeta": "C:\\Users\\arias\\Downloads\\Aula Magna IR\\aula-magna-acustica\\prediccion\\estudio-difusion\\reflectores-absorcion-localizada\\calculos\\media_centro_a060-F1-1000Hz-N600000-seed20261021-a0.05-s0.05",
+    "N": 600000
+  },
+  {
+    "estado": "propuesta",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "semilla": 20261019,
+    "carpeta": "C:\\Users\\arias\\Downloads\\Aula Magna IR\\aula-magna-acustica\\prediccion\\estudio-difusion\\reflectores-absorcion-localizada\\calculos\\media_centro_a060-F2-1000Hz-N600000-seed20261019-a0.05-s0.05",
+    "N": 600000
+  },
+  {
+    "estado": "propuesta",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "semilla": 20261020,
+    "carpeta": "C:\\Users\\arias\\Downloads\\Aula Magna IR\\aula-magna-acustica\\prediccion\\estudio-difusion\\reflectores-absorcion-localizada\\calculos\\media_centro_a060-F2-1000Hz-N600000-seed20261020-a0.05-s0.05",
+    "N": 600000
+  },
+  {
+    "estado": "propuesta",
+    "fuente": "F2",
+    "frecuencia": 1000,
+    "semilla": 20261021,
+    "carpeta": "C:\\Users\\arias\\Downloads\\Aula Magna IR\\aula-magna-acustica\\prediccion\\estudio-difusion\\reflectores-absorcion-localizada\\calculos\\media_centro_a060-F2-1000Hz-N600000-seed20261021-a0.05-s0.05",
+    "N": 600000
+  }
+]

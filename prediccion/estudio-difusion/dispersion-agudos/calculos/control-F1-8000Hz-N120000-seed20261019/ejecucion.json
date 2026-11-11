@@ -1,0 +1,12 @@
+{
+  "variante": "control",
+  "fuente": "F1",
+  "frecuencia": 8000,
+  "N": 120000,
+  "semilla": 20261019,
+  "dispersion": null,
+  "segundos": 23.231941200006986,
+  "fraccion_perdidas": 0.00013333333333333334,
+  "config_sha256": "4f90e6d5901e703dafde1b251d27144d1da06afa4b0da80facf7b4adb64a970c",
+  "malla_sha256": "e3c80b81c4b8aec413245ba418ad8e4d027def9db88088c4bd8cc4d5fb959461"
+}

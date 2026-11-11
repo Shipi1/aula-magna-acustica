@@ -1,0 +1,8 @@
+{
+  "caso": "segmentada",
+  "paneles": 8,
+  "area_frontal_m2": 48.0,
+  "volumen_aire_m3": 9542.773972856308,
+  "volumen_desplazado_m3": 0.9599977425477846,
+  "aristas_dos_caras": true
+}

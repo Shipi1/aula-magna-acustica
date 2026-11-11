@@ -1,0 +1,30 @@
+[
+  {
+    "fuente": "F1",
+    "receptor": "P8",
+    "D50_pct": 44.21955306301325,
+    "D80_pct": 53.93701523149718,
+    "D50_max_si_solo_cambia_posterior80_y_C80_hasta2_pct": 50.26721637688317
+  },
+  {
+    "fuente": "F1",
+    "receptor": "P9",
+    "D50_pct": 44.23680567305757,
+    "D80_pct": 52.67870040938932,
+    "D50_max_si_solo_cambia_posterior80_y_C80_hasta2_pct": 51.48800967625363
+  },
+  {
+    "fuente": "F2",
+    "receptor": "P8",
+    "D50_pct": 48.65436036005358,
+    "D80_pct": 56.62218911460205,
+    "D50_max_si_solo_cambia_posterior80_y_C80_hasta2_pct": 52.68567016610666
+  },
+  {
+    "fuente": "F2",
+    "receptor": "P9",
+    "D50_pct": 37.223376014855525,
+    "D80_pct": 48.183689241547384,
+    "D50_max_si_solo_cambia_posterior80_y_C80_hasta2_pct": 47.3666976613191
+  }
+]

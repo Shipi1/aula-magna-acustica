@@ -1,0 +1,42 @@
+Opening C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\reflectores-inclinacion\combinada\scene.poly.
+Delaunizing vertices...
+Delaunay seconds:  0.017
+Creating surface mesh ...
+Surface mesh seconds:  0.005
+Recovering boundaries...
+Boundary recovery seconds:  0.071
+Removing exterior tetrahedra ...
+Exterior tets removal seconds:  0.003
+Suppressing Steiner points ...
+Steiner suppression seconds:  0
+Recovering Delaunayness...
+Delaunay recovery seconds:  0.019
+Refining mesh...
+Refinement seconds:  0.309
+Optimizing mesh...
+Optimization seconds:  0.11
+Jettisoning redundant points.
+
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\reflectores-inclinacion\combinada\scene.1.node.
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\reflectores-inclinacion\combinada\scene.1.ele.
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\reflectores-inclinacion\combinada\scene.1.face.
+Writing C:\Users\arias\Downloads\Aula Magna IR\aula-magna-acustica\prediccion\estudio-difusion\reflectores-inclinacion\combinada\scene.1.edge.
+
+Output seconds:  0.022
+Total running seconds:  0.556
+
+Statistics:
+
+  Input points: 2372
+  Input facets: 4740
+  Input segments: 7110
+  Input holes: 4
+  Input regions: 0
+
+  Mesh points: 2536
+  Mesh tetrahedra: 7896
+  Mesh faces: 18162
+  Mesh faces on facets: 4740
+  Mesh edges on segments: 7110
+  Steiner points inside domain: 164
+

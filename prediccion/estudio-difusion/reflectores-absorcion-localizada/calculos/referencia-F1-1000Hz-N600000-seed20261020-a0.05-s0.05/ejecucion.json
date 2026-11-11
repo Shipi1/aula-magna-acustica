@@ -1,0 +1,17 @@
+{
+  "variante": "referencia",
+  "fuente": "F1",
+  "frecuencia": 1000,
+  "N": 600000,
+  "semilla": 20261020,
+  "alpha": 0.05,
+  "dispersion": 0.05,
+  "fraccion_perdidas": 0.00012166666666666667,
+  "segundos": 88.045241355896,
+  "config_sha256": "9823333e8ed29c9f456a4863b626226f8561ae7236d6ee83ebc77543203e55b4",
+  "malla_sha256": "002d10b52964e5f2fe309b39a67a6a9721e7b465f358911ce76bb8ce7e109e52",
+  "tetra_sha256": "d66038439c20bee5dfa57009beb714ecc8db3d8dc68aefd550e397fafb251005",
+  "alpha_absorbente": null,
+  "area_absorbente_m2": 0.0,
+  "referencia_estudio": "Cuatro reflectores con giro combinado; particion comun"
+}

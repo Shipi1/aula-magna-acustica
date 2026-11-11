@@ -1,0 +1,1118 @@
+[
+  {
+    "variante": "cobertura4",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "P9",
+    "retardo_ms": 10.734332697304726,
+    "corte_finito_estimado_Hz": 502.5590552555832,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V04",
+    "retardo_ms": 9.868803556527904,
+    "corte_finito_estimado_Hz": 527.1424791748811,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V04",
+    "retardo_ms": 7.577475261191565,
+    "corte_finito_estimado_Hz": 531.3711663410085,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V08",
+    "retardo_ms": 7.474767348908693,
+    "corte_finito_estimado_Hz": 716.7042688925801,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V10",
+    "retardo_ms": 10.756762822279656,
+    "corte_finito_estimado_Hz": 499.41735293498624,
+    "visible_con_todos": false
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V11",
+    "retardo_ms": 9.04504628738325,
+    "corte_finito_estimado_Hz": 655.9593951035481,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "P8",
+    "retardo_ms": 10.601498252860932,
+    "corte_finito_estimado_Hz": 490.04445340066553,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "P8",
+    "retardo_ms": 14.345293533170684,
+    "corte_finito_estimado_Hz": 476.41367666961503,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V01",
+    "retardo_ms": 9.674979137275773,
+    "corte_finito_estimado_Hz": 525.1008012060792,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V05",
+    "retardo_ms": 10.244859846122512,
+    "corte_finito_estimado_Hz": 644.000562224866,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V10",
+    "retardo_ms": 13.812906661906725,
+    "corte_finito_estimado_Hz": 494.5503857283476,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "V01",
+    "retardo_ms": 13.014391058368926,
+    "corte_finito_estimado_Hz": 494.9485644853753,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 3,
+    "fuente": "F2",
+    "receptor": "P8",
+    "retardo_ms": 7.57148651252981,
+    "corte_finito_estimado_Hz": 643.2311501687674,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 3,
+    "fuente": "F1",
+    "receptor": "V10",
+    "retardo_ms": 7.1650707458938445,
+    "corte_finito_estimado_Hz": 884.2034222015249,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 3,
+    "fuente": "F1",
+    "receptor": "V11",
+    "retardo_ms": 7.191720109842966,
+    "corte_finito_estimado_Hz": 878.9331430193967,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 3,
+    "fuente": "F2",
+    "receptor": "V01",
+    "retardo_ms": 7.351045071969122,
+    "corte_finito_estimado_Hz": 665.604395742634,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 3,
+    "fuente": "F2",
+    "receptor": "V02",
+    "retardo_ms": 8.592624381793259,
+    "corte_finito_estimado_Hz": 469.1779900425284,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 3,
+    "fuente": "F2",
+    "receptor": "V05",
+    "retardo_ms": 7.320448305517873,
+    "corte_finito_estimado_Hz": 817.3737609934,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 4,
+    "fuente": "F1",
+    "receptor": "V03",
+    "retardo_ms": 5.870660337991774,
+    "corte_finito_estimado_Hz": 226.17079143915663,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 4,
+    "fuente": "F1",
+    "receptor": "V08",
+    "retardo_ms": 9.446236088544383,
+    "corte_finito_estimado_Hz": 547.20456727564,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 4,
+    "fuente": "F2",
+    "receptor": "V03",
+    "retardo_ms": 8.050223128799647,
+    "corte_finito_estimado_Hz": 111.69259352627525,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura4",
+    "panel": 4,
+    "fuente": "F2",
+    "receptor": "V04",
+    "retardo_ms": 22.948133081204777,
+    "corte_finito_estimado_Hz": 237.72472165994662,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "P8",
+    "retardo_ms": 7.295607307214248,
+    "corte_finito_estimado_Hz": 688.4877436986118,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V10",
+    "retardo_ms": 6.802399908710719,
+    "corte_finito_estimado_Hz": 789.0656406298281,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V11",
+    "retardo_ms": 7.32086032030496,
+    "corte_finito_estimado_Hz": 692.5471464900032,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V01",
+    "retardo_ms": 6.936150363349617,
+    "corte_finito_estimado_Hz": 729.0807795459015,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V05",
+    "retardo_ms": 7.184855007154774,
+    "corte_finito_estimado_Hz": 860.7359135893573,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V10",
+    "retardo_ms": 7.896830408047208,
+    "corte_finito_estimado_Hz": 829.3220660175218,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "P9",
+    "retardo_ms": 10.734332697304726,
+    "corte_finito_estimado_Hz": 502.5590552555832,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V04",
+    "retardo_ms": 9.868803556527904,
+    "corte_finito_estimado_Hz": 527.1424791748811,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "V04",
+    "retardo_ms": 7.577475261191565,
+    "corte_finito_estimado_Hz": 531.3711663410085,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "V08",
+    "retardo_ms": 7.474767348908693,
+    "corte_finito_estimado_Hz": 716.7042688925801,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "V10",
+    "retardo_ms": 10.756762822279656,
+    "corte_finito_estimado_Hz": 499.41735293498624,
+    "visible_con_todos": false
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "V11",
+    "retardo_ms": 9.04504628738325,
+    "corte_finito_estimado_Hz": 655.9593951035481,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 3,
+    "fuente": "F1",
+    "receptor": "P8",
+    "retardo_ms": 10.601498252860932,
+    "corte_finito_estimado_Hz": 490.04445340066553,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 3,
+    "fuente": "F2",
+    "receptor": "P8",
+    "retardo_ms": 14.345293533170684,
+    "corte_finito_estimado_Hz": 476.41367666961503,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 3,
+    "fuente": "F1",
+    "receptor": "V01",
+    "retardo_ms": 9.674979137275773,
+    "corte_finito_estimado_Hz": 525.1008012060792,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 3,
+    "fuente": "F1",
+    "receptor": "V05",
+    "retardo_ms": 10.244859846122512,
+    "corte_finito_estimado_Hz": 644.000562224866,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 3,
+    "fuente": "F1",
+    "receptor": "V10",
+    "retardo_ms": 13.812906661906725,
+    "corte_finito_estimado_Hz": 494.5503857283476,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 3,
+    "fuente": "F2",
+    "receptor": "V01",
+    "retardo_ms": 13.014391058368926,
+    "corte_finito_estimado_Hz": 494.9485644853753,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 4,
+    "fuente": "F1",
+    "receptor": "V03",
+    "retardo_ms": 5.870660337991774,
+    "corte_finito_estimado_Hz": 226.17079143915663,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 4,
+    "fuente": "F1",
+    "receptor": "V08",
+    "retardo_ms": 9.446236088544383,
+    "corte_finito_estimado_Hz": 547.20456727564,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 4,
+    "fuente": "F2",
+    "receptor": "V03",
+    "retardo_ms": 8.050223128799647,
+    "corte_finito_estimado_Hz": 111.69259352627525,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "equilibrio4",
+    "panel": 4,
+    "fuente": "F2",
+    "receptor": "V04",
+    "retardo_ms": 22.948133081204777,
+    "corte_finito_estimado_Hz": 237.72472165994662,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "P9",
+    "retardo_ms": 10.734332697304726,
+    "corte_finito_estimado_Hz": 502.5590552555832,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V04",
+    "retardo_ms": 9.868803556527904,
+    "corte_finito_estimado_Hz": 527.1424791748811,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V04",
+    "retardo_ms": 7.577475261191565,
+    "corte_finito_estimado_Hz": 531.3711663410085,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V08",
+    "retardo_ms": 7.474767348908693,
+    "corte_finito_estimado_Hz": 716.7042688925801,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V10",
+    "retardo_ms": 10.756762822279656,
+    "corte_finito_estimado_Hz": 499.41735293498624,
+    "visible_con_todos": false
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V11",
+    "retardo_ms": 9.04504628738325,
+    "corte_finito_estimado_Hz": 655.9593951035481,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "P8",
+    "retardo_ms": 10.601498252860932,
+    "corte_finito_estimado_Hz": 490.04445340066553,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "P8",
+    "retardo_ms": 14.345293533170684,
+    "corte_finito_estimado_Hz": 476.41367666961503,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V01",
+    "retardo_ms": 9.674979137275773,
+    "corte_finito_estimado_Hz": 525.1008012060792,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V05",
+    "retardo_ms": 10.244859846122512,
+    "corte_finito_estimado_Hz": 644.000562224866,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V10",
+    "retardo_ms": 13.812906661906725,
+    "corte_finito_estimado_Hz": 494.5503857283476,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "V01",
+    "retardo_ms": 13.014391058368926,
+    "corte_finito_estimado_Hz": 494.9485644853753,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 3,
+    "fuente": "F2",
+    "receptor": "P8",
+    "retardo_ms": 7.57148651252981,
+    "corte_finito_estimado_Hz": 643.2311501687674,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 3,
+    "fuente": "F1",
+    "receptor": "V10",
+    "retardo_ms": 7.1650707458938445,
+    "corte_finito_estimado_Hz": 884.2034222015249,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 3,
+    "fuente": "F1",
+    "receptor": "V11",
+    "retardo_ms": 7.191720109842966,
+    "corte_finito_estimado_Hz": 878.9331430193967,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 3,
+    "fuente": "F2",
+    "receptor": "V01",
+    "retardo_ms": 7.351045071969122,
+    "corte_finito_estimado_Hz": 665.604395742634,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 3,
+    "fuente": "F2",
+    "receptor": "V02",
+    "retardo_ms": 8.592624381793259,
+    "corte_finito_estimado_Hz": 469.1779900425284,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 3,
+    "fuente": "F2",
+    "receptor": "V05",
+    "retardo_ms": 7.320448305517873,
+    "corte_finito_estimado_Hz": 817.3737609934,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 4,
+    "fuente": "F1",
+    "receptor": "V03",
+    "retardo_ms": 5.870660337991774,
+    "corte_finito_estimado_Hz": 226.17079143915663,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 4,
+    "fuente": "F1",
+    "receptor": "V08",
+    "retardo_ms": 9.446236088544383,
+    "corte_finito_estimado_Hz": 547.20456727564,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 4,
+    "fuente": "F2",
+    "receptor": "V03",
+    "retardo_ms": 8.050223128799647,
+    "corte_finito_estimado_Hz": 111.69259352627525,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 4,
+    "fuente": "F2",
+    "receptor": "V04",
+    "retardo_ms": 22.948133081204777,
+    "corte_finito_estimado_Hz": 237.72472165994662,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 5,
+    "fuente": "F1",
+    "receptor": "P8",
+    "retardo_ms": 1.8870376911097038,
+    "corte_finito_estimado_Hz": 480.0732756050192,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 5,
+    "fuente": "F2",
+    "receptor": "P8",
+    "retardo_ms": 2.0125864769682895,
+    "corte_finito_estimado_Hz": 424.940970539485,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 5,
+    "fuente": "F1",
+    "receptor": "V01",
+    "retardo_ms": 1.5316614409346174,
+    "corte_finito_estimado_Hz": 408.08732468105035,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 5,
+    "fuente": "F2",
+    "receptor": "V01",
+    "retardo_ms": 1.6202039817607732,
+    "corte_finito_estimado_Hz": 365.3515570638676,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 6,
+    "fuente": "F1",
+    "receptor": "P9",
+    "retardo_ms": 2.0590901513844284,
+    "corte_finito_estimado_Hz": 384.19352676797826,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 6,
+    "fuente": "F1",
+    "receptor": "V04",
+    "retardo_ms": 2.1309861855573313,
+    "corte_finito_estimado_Hz": 382.3494547112466,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "cobertura6",
+    "panel": 6,
+    "fuente": "F2",
+    "receptor": "V04",
+    "retardo_ms": 2.27691132178832,
+    "corte_finito_estimado_Hz": 314.8923766760176,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "central5",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "P8",
+    "retardo_ms": 7.892345556081215,
+    "corte_finito_estimado_Hz": 593.1885966098625,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "central5",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "P8",
+    "retardo_ms": 10.077817372617872,
+    "corte_finito_estimado_Hz": 602.4741499521118,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "central5",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V05",
+    "retardo_ms": 7.616396843070615,
+    "corte_finito_estimado_Hz": 785.7645927356803,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "central5",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V10",
+    "retardo_ms": 9.494761326283886,
+    "corte_finito_estimado_Hz": 664.4116121549079,
+    "visible_con_todos": false
+  },
+  {
+    "variante": "central5",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V01",
+    "retardo_ms": 9.256251455026558,
+    "corte_finito_estimado_Hz": 635.1813420397954,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "central5",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "P9",
+    "retardo_ms": 6.143984134142969,
+    "corte_finito_estimado_Hz": 675.0649089912118,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "central5",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V04",
+    "retardo_ms": 5.98816588670135,
+    "corte_finito_estimado_Hz": 690.7117669408985,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "central5",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V08",
+    "retardo_ms": 5.820447052424001,
+    "corte_finito_estimado_Hz": 917.3396708539709,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "central5",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "V03",
+    "retardo_ms": 7.023424848769534,
+    "corte_finito_estimado_Hz": 504.0145027364274,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "central5",
+    "panel": 3,
+    "fuente": "F1",
+    "receptor": "P8",
+    "retardo_ms": 4.375319831681398,
+    "corte_finito_estimado_Hz": 786.030962696367,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "central5",
+    "panel": 3,
+    "fuente": "F2",
+    "receptor": "P8",
+    "retardo_ms": 4.30129254400656,
+    "corte_finito_estimado_Hz": 881.2444684176216,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "central5",
+    "panel": 3,
+    "fuente": "F2",
+    "receptor": "V01",
+    "retardo_ms": 4.1194166837411546,
+    "corte_finito_estimado_Hz": 876.2836983474674,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "central5",
+    "panel": 4,
+    "fuente": "F1",
+    "receptor": "P9",
+    "retardo_ms": 4.62965987644214,
+    "corte_finito_estimado_Hz": 398.6071211847723,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "central5",
+    "panel": 4,
+    "fuente": "F1",
+    "receptor": "V04",
+    "retardo_ms": 3.8587480470391826,
+    "corte_finito_estimado_Hz": 359.9949192022985,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "central5",
+    "panel": 5,
+    "fuente": "F2",
+    "receptor": "P8",
+    "retardo_ms": 5.419476056917963,
+    "corte_finito_estimado_Hz": 862.1882373211852,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "central5",
+    "panel": 5,
+    "fuente": "F1",
+    "receptor": "V02",
+    "retardo_ms": 6.4099349556201135,
+    "corte_finito_estimado_Hz": 566.4419230237903,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "central5",
+    "panel": 5,
+    "fuente": "F1",
+    "receptor": "V03",
+    "retardo_ms": 6.220938084718221,
+    "corte_finito_estimado_Hz": 587.7364070821213,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "central5",
+    "panel": 5,
+    "fuente": "F2",
+    "receptor": "V01",
+    "retardo_ms": 5.278623113755659,
+    "corte_finito_estimado_Hz": 888.2788685811302,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "central5",
+    "panel": 5,
+    "fuente": "F2",
+    "receptor": "V02",
+    "retardo_ms": 6.0554855586352065,
+    "corte_finito_estimado_Hz": 632.8811957903281,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "retornos2",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "P9",
+    "retardo_ms": 34.650398358177185,
+    "corte_finito_estimado_Hz": 109.6159347851315,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "retornos2",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V04",
+    "retardo_ms": 37.423243476717964,
+    "corte_finito_estimado_Hz": 119.40249204343944,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "retornos2",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V08",
+    "retardo_ms": 10.792970263884262,
+    "corte_finito_estimado_Hz": 43.24587655202416,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "retornos2",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V04",
+    "retardo_ms": 39.13080739036316,
+    "corte_finito_estimado_Hz": 109.70884911769443,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "retornos2",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V08",
+    "retardo_ms": 11.268989964566622,
+    "corte_finito_estimado_Hz": 38.594415318628414,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "retornos2",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "P8",
+    "retardo_ms": 34.41360754340364,
+    "corte_finito_estimado_Hz": 105.0137279768532,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "retornos2",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "P8",
+    "retardo_ms": 32.64293061175151,
+    "corte_finito_estimado_Hz": 116.88897618225302,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "retornos2",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V01",
+    "retardo_ms": 37.32315599764299,
+    "corte_finito_estimado_Hz": 114.08465717898196,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "retornos2",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V05",
+    "retardo_ms": 10.257767679621798,
+    "corte_finito_estimado_Hz": 38.42403932721271,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "retornos2",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "V01",
+    "retardo_ms": 35.25924132587717,
+    "corte_finito_estimado_Hz": 127.61568113446371,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "retornos_compactos2",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V10",
+    "retardo_ms": 6.2642671511739385,
+    "corte_finito_estimado_Hz": 360.1375220709536,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "retornos_compactos2",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V10",
+    "retardo_ms": 5.171411195773525,
+    "corte_finito_estimado_Hz": 583.086621865892,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "retornos_compactos2",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V08",
+    "retardo_ms": 22.9523045654228,
+    "corte_finito_estimado_Hz": 234.2873572422969,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "retornos_compactos2",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "V08",
+    "retardo_ms": 24.49957188398671,
+    "corte_finito_estimado_Hz": 202.83788939825786,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "mixta6",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "P8",
+    "retardo_ms": 7.892345556081215,
+    "corte_finito_estimado_Hz": 593.1885966098625,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "mixta6",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "P8",
+    "retardo_ms": 10.077817372617872,
+    "corte_finito_estimado_Hz": 602.4741499521118,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "mixta6",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V05",
+    "retardo_ms": 7.616396843070615,
+    "corte_finito_estimado_Hz": 785.7645927356803,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "mixta6",
+    "panel": 1,
+    "fuente": "F1",
+    "receptor": "V10",
+    "retardo_ms": 9.494761326283886,
+    "corte_finito_estimado_Hz": 664.4116121549079,
+    "visible_con_todos": false
+  },
+  {
+    "variante": "mixta6",
+    "panel": 1,
+    "fuente": "F2",
+    "receptor": "V01",
+    "retardo_ms": 9.256251455026558,
+    "corte_finito_estimado_Hz": 635.1813420397954,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "mixta6",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "P9",
+    "retardo_ms": 6.143984134142969,
+    "corte_finito_estimado_Hz": 675.0649089912118,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "mixta6",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V04",
+    "retardo_ms": 5.98816588670135,
+    "corte_finito_estimado_Hz": 690.7117669408985,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "mixta6",
+    "panel": 2,
+    "fuente": "F1",
+    "receptor": "V08",
+    "retardo_ms": 5.820447052424001,
+    "corte_finito_estimado_Hz": 917.3396708539709,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "mixta6",
+    "panel": 2,
+    "fuente": "F2",
+    "receptor": "V03",
+    "retardo_ms": 7.023424848769534,
+    "corte_finito_estimado_Hz": 504.0145027364274,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "mixta6",
+    "panel": 3,
+    "fuente": "F1",
+    "receptor": "P8",
+    "retardo_ms": 4.375319831681398,
+    "corte_finito_estimado_Hz": 786.030962696367,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "mixta6",
+    "panel": 3,
+    "fuente": "F2",
+    "receptor": "P8",
+    "retardo_ms": 4.30129254400656,
+    "corte_finito_estimado_Hz": 881.2444684176216,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "mixta6",
+    "panel": 3,
+    "fuente": "F2",
+    "receptor": "V01",
+    "retardo_ms": 4.1194166837411546,
+    "corte_finito_estimado_Hz": 876.2836983474674,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "mixta6",
+    "panel": 4,
+    "fuente": "F1",
+    "receptor": "P9",
+    "retardo_ms": 4.62965987644214,
+    "corte_finito_estimado_Hz": 398.6071211847723,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "mixta6",
+    "panel": 4,
+    "fuente": "F1",
+    "receptor": "V04",
+    "retardo_ms": 3.8587480470391826,
+    "corte_finito_estimado_Hz": 359.9949192022985,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "mixta6",
+    "panel": 5,
+    "fuente": "F1",
+    "receptor": "V10",
+    "retardo_ms": 6.2642671511739385,
+    "corte_finito_estimado_Hz": 360.1375220709536,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "mixta6",
+    "panel": 5,
+    "fuente": "F2",
+    "receptor": "V10",
+    "retardo_ms": 5.171411195773525,
+    "corte_finito_estimado_Hz": 583.086621865892,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "mixta6",
+    "panel": 6,
+    "fuente": "F1",
+    "receptor": "V08",
+    "retardo_ms": 22.9523045654228,
+    "corte_finito_estimado_Hz": 234.2873572422969,
+    "visible_con_todos": true
+  },
+  {
+    "variante": "mixta6",
+    "panel": 6,
+    "fuente": "F2",
+    "receptor": "V08",
+    "retardo_ms": 24.49957188398671,
+    "corte_finito_estimado_Hz": 202.83788939825786,
+    "visible_con_todos": true
+  }
+]

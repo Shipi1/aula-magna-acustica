@@ -1,0 +1,12 @@
+{
+  "variante": "lateral_pos",
+  "fuente": "F1",
+  "frecuencia": 8000,
+  "N": 120000,
+  "semilla": 20261019,
+  "dispersion": 0.6,
+  "segundos": 24.192772499998682,
+  "fraccion_perdidas": 8.333333333333333e-05,
+  "config_sha256": "4b13cbe65231a60250247d1ad461cf41eb89ce421c38ea8b4edb7c3c7b2db207",
+  "malla_sha256": "95f6a20f4973f51476b25b0a4cb8d4973f8aae4970b3a96327d296d42cad9714"
+}

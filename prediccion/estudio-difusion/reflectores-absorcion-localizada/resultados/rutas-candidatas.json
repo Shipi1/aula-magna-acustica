@@ -1,0 +1,314 @@
+[
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V04",
+    "punto_candidato": [
+      40.25,
+      4.0,
+      10.6
+    ],
+    "retardo_ms": 84.07640519716429,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V08",
+    "punto_candidato": [
+      40.25,
+      4.0,
+      10.6
+    ],
+    "retardo_ms": 56.71598592389474,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P8",
+    "punto_candidato": [
+      40.25,
+      -4.0,
+      10.6
+    ],
+    "retardo_ms": 80.70183262998788,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P9",
+    "punto_candidato": [
+      40.25,
+      4.0,
+      10.6
+    ],
+    "retardo_ms": 81.13149211908721,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V04",
+    "punto_candidato": [
+      40.25,
+      4.0,
+      10.6
+    ],
+    "retardo_ms": 87.50970142188909,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V08",
+    "punto_candidato": [
+      40.25,
+      4.0,
+      10.6
+    ],
+    "retardo_ms": 59.434447441857266,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P8",
+    "punto_candidato": [
+      40.25,
+      -4.0,
+      10.6
+    ],
+    "retardo_ms": 77.0990694561086,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P9",
+    "punto_candidato": [
+      40.25,
+      4.0,
+      10.6
+    ],
+    "retardo_ms": 83.92189070686408,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V04",
+    "punto_candidato": [
+      40.25,
+      6.3911891420866755,
+      10.6
+    ],
+    "retardo_ms": 83.32967833282908,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V08",
+    "punto_candidato": [
+      40.25,
+      7.089699444604623,
+      10.6
+    ],
+    "retardo_ms": 55.09312408695221,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P8",
+    "punto_candidato": [
+      40.25,
+      -5.842776303924316,
+      10.6
+    ],
+    "retardo_ms": 80.2386384039499,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P9",
+    "punto_candidato": [
+      40.25,
+      5.752941883387294,
+      10.6
+    ],
+    "retardo_ms": 80.71257214169833,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V04",
+    "punto_candidato": [
+      40.25,
+      7.750895830903481,
+      10.6
+    ],
+    "retardo_ms": 85.6086287110292,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V08",
+    "punto_candidato": [
+      40.25,
+      8.0,
+      10.6
+    ],
+    "retardo_ms": 56.468698063381495,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P8",
+    "punto_candidato": [
+      40.25,
+      -4.502793102049436,
+      10.6
+    ],
+    "retardo_ms": 77.06611811718903,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P9",
+    "punto_candidato": [
+      40.25,
+      7.076309366374021,
+      10.6
+    ],
+    "retardo_ms": 82.59248192991855,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V04",
+    "punto_candidato": [
+      40.25,
+      4.0,
+      9.0
+    ],
+    "retardo_ms": 82.0717675117153,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V08",
+    "punto_candidato": [
+      40.25,
+      4.0,
+      9.0
+    ],
+    "retardo_ms": 54.65962296378983,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P8",
+    "punto_candidato": [
+      40.25,
+      -4.0,
+      9.0
+    ],
+    "retardo_ms": 78.64150702435143,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P9",
+    "punto_candidato": [
+      40.25,
+      4.0,
+      9.0
+    ],
+    "retardo_ms": 79.07299957481814,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V04",
+    "punto_candidato": [
+      40.25,
+      4.0,
+      9.0
+    ],
+    "retardo_ms": 85.4915953363985,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V08",
+    "punto_candidato": [
+      40.25,
+      4.0,
+      9.0
+    ],
+    "retardo_ms": 57.36461608171074,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P8",
+    "punto_candidato": [
+      40.25,
+      -4.0,
+      9.0
+    ],
+    "retardo_ms": 75.05614120158424,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P9",
+    "punto_candidato": [
+      40.25,
+      4.0,
+      9.0
+    ],
+    "retardo_ms": 81.8499297625534,
+    "visible_con_paneles": true,
+    "alcance": "M\u00ednimo geom\u00e9trico num\u00e9rico de una primera reflexi\u00f3n en el rect\u00e1ngulo; si est\u00e1 obstruido no identifica la primera llegada visible. No prueba causalidad de un pico."
+  }
+]

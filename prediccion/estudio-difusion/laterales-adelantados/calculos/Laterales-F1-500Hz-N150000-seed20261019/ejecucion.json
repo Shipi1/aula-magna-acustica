@@ -1,0 +1,12 @@
+{
+  "variante": "Laterales",
+  "fuente": "F1",
+  "frecuencia": 500,
+  "N": 150000,
+  "semilla": 20261019,
+  "segundos": 30.01838254928589,
+  "fraccion_perdidas": 0.00013333333333333334,
+  "config_sha256": "9595596760fbf8a5d532da90a2ab1d82ef35830cc1a227c19d51168cf729bf70",
+  "malla_sha256": "0ab697e565b83e52d58cbad5bd34762edbbb303fbed3877ec5124bd9bc36a0c9",
+  "tetra_sha256": "7a3c91d18825c108d272052c876ecd5b88cc818488a91325e233fa1e9082882d"
+}

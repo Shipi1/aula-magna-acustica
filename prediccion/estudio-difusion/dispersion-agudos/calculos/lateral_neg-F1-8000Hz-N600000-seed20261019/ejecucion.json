@@ -1,0 +1,12 @@
+{
+  "variante": "lateral_neg",
+  "fuente": "F1",
+  "frecuencia": 8000,
+  "N": 600000,
+  "semilla": 20261019,
+  "dispersion": 0.6,
+  "segundos": 93.10098339999968,
+  "fraccion_perdidas": 8.5e-05,
+  "config_sha256": "cdcc3d867f7767182af7da332d01ebdc532ea66fe25f4c114ad8ce280208c141",
+  "malla_sha256": "e94ff589fba9f3dac827ca9e9a4d6f8ff74a5c4a6ca380a64aa1dfe6a75db463"
+}

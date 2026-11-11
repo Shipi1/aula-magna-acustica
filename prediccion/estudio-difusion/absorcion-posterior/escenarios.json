@@ -1,0 +1,216 @@
+{
+  "base": {
+    "malla": "base.cbin",
+    "alpha_por_banda": {},
+    "area_m2": 0,
+    "hipotesis": "Referencia sin tratamiento"
+  },
+  "total_a100": {
+    "malla": "total.cbin",
+    "alpha_por_banda": {
+      "1000": 1.0
+    },
+    "area_m2": 112.46655974759456,
+    "hipotesis": "Límite ideal, no producto físico"
+  },
+  "sup_centro_a040": {
+    "malla": "sup_centro.cbin",
+    "alpha_por_banda": {
+      "1000": 0.4
+    },
+    "area_m2": 9.600000000000009,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "sup_centro_a060": {
+    "malla": "sup_centro.cbin",
+    "alpha_por_banda": {
+      "1000": 0.6
+    },
+    "area_m2": 9.600000000000009,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "sup_centro_a080": {
+    "malla": "sup_centro.cbin",
+    "alpha_por_banda": {
+      "1000": 0.8
+    },
+    "area_m2": 9.600000000000009,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "sup_centro_a095": {
+    "malla": "sup_centro.cbin",
+    "alpha_por_banda": {
+      "1000": 0.95
+    },
+    "area_m2": 9.600000000000009,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "sup_exterior_a040": {
+    "malla": "sup_exterior.cbin",
+    "alpha_por_banda": {
+      "1000": 0.4
+    },
+    "area_m2": 9.600000000000009,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "sup_exterior_a060": {
+    "malla": "sup_exterior.cbin",
+    "alpha_por_banda": {
+      "1000": 0.6
+    },
+    "area_m2": 9.600000000000009,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "sup_exterior_a080": {
+    "malla": "sup_exterior.cbin",
+    "alpha_por_banda": {
+      "1000": 0.8
+    },
+    "area_m2": 9.600000000000009,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "sup_exterior_a095": {
+    "malla": "sup_exterior.cbin",
+    "alpha_por_banda": {
+      "1000": 0.95
+    },
+    "area_m2": 9.600000000000009,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "med_centro_a040": {
+    "malla": "med_centro.cbin",
+    "alpha_por_banda": {
+      "1000": 0.4
+    },
+    "area_m2": 9.599999999999996,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "med_centro_a060": {
+    "malla": "med_centro.cbin",
+    "alpha_por_banda": {
+      "1000": 0.6
+    },
+    "area_m2": 9.599999999999996,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "med_centro_a080": {
+    "malla": "med_centro.cbin",
+    "alpha_por_banda": {
+      "1000": 0.8
+    },
+    "area_m2": 9.599999999999996,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "med_centro_a095": {
+    "malla": "med_centro.cbin",
+    "alpha_por_banda": {
+      "1000": 0.95
+    },
+    "area_m2": 9.599999999999996,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "med_exterior_a040": {
+    "malla": "med_exterior.cbin",
+    "alpha_por_banda": {
+      "1000": 0.4
+    },
+    "area_m2": 9.599999999999994,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "med_exterior_a060": {
+    "malla": "med_exterior.cbin",
+    "alpha_por_banda": {
+      "1000": 0.6
+    },
+    "area_m2": 9.599999999999994,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "med_exterior_a080": {
+    "malla": "med_exterior.cbin",
+    "alpha_por_banda": {
+      "1000": 0.8
+    },
+    "area_m2": 9.599999999999994,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "med_exterior_a095": {
+    "malla": "med_exterior.cbin",
+    "alpha_por_banda": {
+      "1000": 0.95
+    },
+    "area_m2": 9.599999999999994,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "sup_completa_a040": {
+    "malla": "sup_completa.cbin",
+    "alpha_por_banda": {
+      "1000": 0.4
+    },
+    "area_m2": 19.200000000000017,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "sup_completa_a060": {
+    "malla": "sup_completa.cbin",
+    "alpha_por_banda": {
+      "1000": 0.6
+    },
+    "area_m2": 19.200000000000017,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "sup_completa_a080": {
+    "malla": "sup_completa.cbin",
+    "alpha_por_banda": {
+      "1000": 0.8
+    },
+    "area_m2": 19.200000000000017,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "sup_completa_a095": {
+    "malla": "sup_completa.cbin",
+    "alpha_por_banda": {
+      "1000": 0.95
+    },
+    "area_m2": 19.200000000000017,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "med_completa_a040": {
+    "malla": "med_completa.cbin",
+    "alpha_por_banda": {
+      "1000": 0.4
+    },
+    "area_m2": 19.19999999999999,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "med_completa_a060": {
+    "malla": "med_completa.cbin",
+    "alpha_por_banda": {
+      "1000": 0.6
+    },
+    "area_m2": 19.19999999999999,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "med_completa_a080": {
+    "malla": "med_completa.cbin",
+    "alpha_por_banda": {
+      "1000": 0.8
+    },
+    "area_m2": 19.19999999999999,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "med_completa_a095": {
+    "malla": "med_completa.cbin",
+    "alpha_por_banda": {
+      "1000": 0.95
+    },
+    "area_m2": 19.19999999999999,
+    "hipotesis": "Sensibilidad; coeficiente final, no material seleccionado"
+  },
+  "total_a080": {
+    "malla": "total.cbin",
+    "alpha_por_banda": {
+      "1000": 0.8
+    },
+    "area_m2": 112.46655974759456,
+    "hipotesis": "Limite de cobertura posterior para alfa 0.80 a 1000 Hz; no producto seleccionado"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "variante": "Lneg",
+  "fuente": "F2",
+  "frecuencia": 500,
+  "N": 150000,
+  "semilla": 20261019,
+  "segundos": 32.542805671691895,
+  "fraccion_perdidas": 0.00013333333333333334,
+  "config_sha256": "584dcc15c3908dad10f634d080b98b13c3bb2925b6ac565916710ba559f7f4a1",
+  "malla_sha256": "a93cfdb1ed82a4d909daabde57e3889293764063eff7d5dcaea47e609f94c9ec",
+  "tetra_sha256": "7a3c91d18825c108d272052c876ecd5b88cc818488a91325e233fa1e9082882d"
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "fuente": "F1",
+    "receptor": "P9",
+    "retardo_minimo_por_cota_longitudinal_ms": 73.8875834943193
+  },
+  {
+    "fuente": "F1",
+    "receptor": "P8",
+    "retardo_minimo_por_cota_longitudinal_ms": 73.32447691926846
+  },
+  {
+    "fuente": "F2",
+    "receptor": "P9",
+    "retardo_minimo_por_cota_longitudinal_ms": 77.27428860643494
+  },
+  {
+    "fuente": "F2",
+    "receptor": "P8",
+    "retardo_minimo_por_cota_longitudinal_ms": 67.29365602787361
+  }
+]

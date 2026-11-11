@@ -1,0 +1,15 @@
+{
+  "corridas_estudio": 46,
+  "pilotos": 1,
+  "exploracion150k": 16,
+  "repeticiones600k": 30,
+  "receptores": 21,
+  "max_fraccion_perdidas": 0.00022,
+  "series_verificadas": true,
+  "geometria_identica_entre_variantes": true,
+  "absorcion_conservada": true,
+  "Lw_global90_verificado": true,
+  "hashes_verificados": true,
+  "corridas_archivadas_sin_perdida": 47,
+  "enlaces_informes_verificados": true
+}

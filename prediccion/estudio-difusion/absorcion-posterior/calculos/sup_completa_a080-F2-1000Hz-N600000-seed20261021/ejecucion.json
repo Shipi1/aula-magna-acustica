@@ -1,0 +1,14 @@
+{
+  "variante": "sup_completa_a080",
+  "fuente": "F2",
+  "frecuencia": 1000,
+  "N": 600000,
+  "semilla": 20261021,
+  "area_m2": 19.200000000000017,
+  "alpha_final": 0.8,
+  "segundos": 128.31538558006287,
+  "fraccion_perdidas": 0.00012,
+  "config_sha256": "e2ab00066d9f2c8c2275ad4629baf39ef985215a447f67f1a8aaa2773702b0c0",
+  "malla_sha256": "c41f4d0bfa348e8b1076df753db2f91368fdd83899a03d258d2564637f910f7c",
+  "tetra_sha256": "670756fffa86ac1ec08a120eeeefa4de649ff7d9430ecc84a718a6ccc178874e"
+}

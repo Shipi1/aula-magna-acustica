@@ -1,0 +1,14 @@
+{
+  "variante": "med_completa_a080",
+  "fuente": "F2",
+  "frecuencia": 1000,
+  "N": 600000,
+  "semilla": 20261019,
+  "area_m2": 19.19999999999999,
+  "alpha_final": 0.8,
+  "segundos": 113.8143002986908,
+  "fraccion_perdidas": 0.00016833333333333332,
+  "config_sha256": "7584fbf28a68dc132b65a3e1f08c596e44d6cf274363529bab554ebd32f39f7b",
+  "malla_sha256": "3d1ac5739dbeb4921f1c9ed0a77bfc3e36142649b3d2092aa3e040cd5a240545",
+  "tetra_sha256": "670756fffa86ac1ec08a120eeeefa4de649ff7d9430ecc84a718a6ccc178874e"
+}

@@ -1,0 +1,14 @@
+{
+  "variante": "equilibrio4",
+  "fuente": "F2",
+  "frecuencia": 1000,
+  "N": 600000,
+  "semilla": 20261021,
+  "alpha": 0.05,
+  "dispersion": 0.05,
+  "fraccion_perdidas": 0.00016166666666666668,
+  "segundos": 83.87487936019897,
+  "config_sha256": "a044f4cb92b03acbb1e42911da36aaba16d5eb4da3fd9f80c82a91496d905606",
+  "malla_sha256": "2d013c0105353fdc01a0e3d89afbeaac4aac0c1fc9864ad59934c404ba0648e6",
+  "tetra_sha256": "0d66560ac529a74fc125a265f1f07fcc47ebebb73bbc8c5b6d0ac33fc2ff6463"
+}

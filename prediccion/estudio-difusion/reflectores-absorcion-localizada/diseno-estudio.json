@@ -1,0 +1,17 @@
+{
+  "referencia": "Cuatro con giro combinado del estudio de inclinaciones, con subdivisión coplanar común del muro posterior.",
+  "frecuencia_Hz": 1000,
+  "material_reflectores": {
+    "alpha": 0.05,
+    "dispersion": 0.05
+  },
+  "material_absorbente": "Coeficiente final efectivo de 0.60 o 0.80 a 1000Hz; sin producto físico ni extrapolación a otras bandas. Dispersión del muro invariable.",
+  "comparaciones": [
+    "Área: superior centro 9.6 frente a superior completa 19.2 m² a alpha .60",
+    "Absorción: superior completa alpha .60 frente a .80",
+    "Altura: centro superior frente a centro medio, ambos 9.6 m² y alpha .60"
+  ],
+  "control_malla": "Se recalcula referencia con partición común; todas las variantes conservan vertices, caras y MBIN idénticos salvo etiquetas de material en CBIN.",
+  "ventana_tiempo": "0-50, 50-80, >80ms relativos al directo; también EDT/T30, energía total y controles fuera de platea alta.",
+  "criterios": "Demostración de mejora local/repartida/consistente sin exigir cobertura perfecta ni excluir silenciosamente F2-V08. No se recalibran los materiales de la sala."
+}

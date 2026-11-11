@@ -1,0 +1,16 @@
+[
+  {
+    "caso": "base",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 20000,
+    "semilla": 20261019
+  },
+  {
+    "caso": "total_a100",
+    "fuente": "F1",
+    "frecuencia": 1000,
+    "N": 20000,
+    "semilla": 20261019
+  }
+]

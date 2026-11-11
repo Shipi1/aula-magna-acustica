@@ -1,0 +1,389 @@
+[
+  {
+    "centro": [
+      12.0,
+      -4.0,
+      9.2
+    ],
+    "normal": [
+      0.42426589126550907,
+      0.3082254392816573,
+      -0.8514666946441961
+    ],
+    "u": [
+      -0.017579669984015694,
+      0.9429148687815923,
+      0.3325695497694367
+    ],
+    "v": [
+      0.9053670022217157,
+      -0.12612941294647348,
+      0.40546511869437263
+    ],
+    "ancho": 4.0,
+    "alto": 3.0,
+    "espesor": 0.02,
+    "familia": "adelantado",
+    "lado": -1,
+    "pares_primarios_tempranos": 2,
+    "virtuales_tempranos": 5,
+    "giro_vertical_grados": 5.0,
+    "giro_horizontal_grados": -10.0,
+    "rutas_utiles": [
+      {
+        "fuente": "F1",
+        "receptor": "P8",
+        "indice": 0,
+        "ganancia_geometrica": 0.7190611241340702,
+        "punto": [
+          11.709104154335456,
+          -5.153227314473421,
+          8.625848146619802
+        ],
+        "retardo_ms": 8.233241563973378,
+        "distancia_reflejada_m": 26.21879752756258,
+        "cos_incidencia": 0.4576518543988878,
+        "corte_finito_estimado_Hz": 577.044948212154
+      },
+      {
+        "fuente": "F2",
+        "receptor": "P8",
+        "indice": 2,
+        "ganancia_geometrica": 0.7006427072265521,
+        "punto": [
+          12.861797486086997,
+          -3.552144294223165,
+          9.779789912251623
+        ],
+        "retardo_ms": 9.953498774232443,
+        "distancia_reflejada_m": 28.62966637184263,
+        "cos_incidencia": 0.47327008476577,
+        "corte_finito_estimado_Hz": 606.2767524130862
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V01",
+        "indice": 3,
+        "ganancia_geometrica": 0.7272287852338133,
+        "punto": [
+          11.925537379435445,
+          -5.626682467589967,
+          8.562304043552322
+        ],
+        "retardo_ms": 7.709047861971374,
+        "distancia_reflejada_m": 25.76213726297805,
+        "cos_incidencia": 0.4446082001652801,
+        "corte_finito_estimado_Hz": 608.175627715924
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V05",
+        "indice": 7,
+        "ganancia_geometrica": 0.7501399655522761,
+        "punto": [
+          12.650253388593875,
+          -5.33854056553013,
+          9.027718545811187
+        ],
+        "retardo_ms": 7.885947733776072,
+        "distancia_reflejada_m": 30.540334310433863,
+        "cos_incidencia": 0.42211698488184946,
+        "corte_finito_estimado_Hz": 771.3650163805798
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V01",
+        "indice": 9,
+        "ganancia_geometrica": 0.7119389762467097,
+        "punto": [
+          13.067126659607988,
+          -4.161504466462791,
+          9.66151618223251
+        ],
+        "retardo_ms": 9.253777996898318,
+        "distancia_reflejada_m": 28.300896880355168,
+        "cos_incidencia": 0.45950984726389527,
+        "corte_finito_estimado_Hz": 636.6509396277912
+      }
+    ]
+  },
+  {
+    "centro": [
+      12.0,
+      4.0,
+      8.2
+    ],
+    "normal": [
+      0.3411947841839179,
+      0.08361794050254598,
+      -0.9362660729043867
+    ],
+    "u": [
+      -0.256254066820355,
+      0.9665836891385232,
+      -0.00705869176205936
+    ],
+    "v": [
+      0.9043892814953739,
+      0.24233037762004872,
+      0.35122075052423346
+    ],
+    "ancho": 4.0,
+    "alto": 3.0,
+    "espesor": 0.02,
+    "familia": "adelantado",
+    "lado": 1,
+    "pares_primarios_tempranos": 1,
+    "virtuales_tempranos": 6,
+    "giro_vertical_grados": 0.0,
+    "giro_horizontal_grados": 15.0,
+    "rutas_utiles": [
+      {
+        "fuente": "F1",
+        "receptor": "P9",
+        "indice": 1,
+        "ganancia_geometrica": 0.7645172945559618,
+        "punto": [
+          11.271634224304867,
+          2.4567855867314776,
+          7.786063165319682
+        ],
+        "retardo_ms": 5.888220059334703,
+        "distancia_reflejada_m": 25.29421741913296,
+        "cos_incidencia": 0.40870001952338175,
+        "corte_finito_estimado_Hz": 658.3755109920446
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V04",
+        "indice": 6,
+        "ganancia_geometrica": 0.7648931776002026,
+        "punto": [
+          11.15756673370471,
+          2.847148824107859,
+          7.77935795292111
+        ],
+        "retardo_ms": 5.827085879811463,
+        "distancia_reflejada_m": 25.10293388756441,
+        "cos_incidencia": 0.40709567431072213,
+        "corte_finito_estimado_Hz": 661.9495584596322
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V08",
+        "indice": 8,
+        "ganancia_geometrica": 0.7902052314599797,
+        "punto": [
+          12.088889368178457,
+          2.5534107547668894,
+          8.09251749309311
+        ],
+        "retardo_ms": 5.5900627728285475,
+        "distancia_reflejada_m": 29.742209167451747,
+        "cos_incidencia": 0.3756740512020338,
+        "corte_finito_estimado_Hz": 882.5399098476862
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V03",
+        "indice": 11,
+        "ganancia_geometrica": 0.7274902074861112,
+        "punto": [
+          11.872121656360845,
+          3.6251730454504374,
+          8.109241951296559
+        ],
+        "retardo_ms": 7.0000321016175775,
+        "distancia_reflejada_m": 23.42967941610862,
+        "cos_incidencia": 0.45107001872220687,
+        "corte_finito_estimado_Hz": 521.3138318071527
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V04",
+        "indice": 12,
+        "ganancia_geometrica": 0.7307877862765286,
+        "punto": [
+          11.765144435899819,
+          5.952406618884006,
+          8.278102506438396
+        ],
+        "retardo_ms": 6.993770341196751,
+        "distancia_reflejada_m": 23.883815966692854,
+        "cos_incidencia": 0.4477587181252003,
+        "corte_finito_estimado_Hz": 537.0010069896309
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V08",
+        "indice": 14,
+        "ganancia_geometrica": 0.7663726940572843,
+        "punto": [
+          12.805693582029765,
+          5.794760373439463,
+          8.64322081721312
+        ],
+        "retardo_ms": 6.589784886870318,
+        "distancia_reflejada_m": 28.7104635935014,
+        "cos_incidencia": 0.40571505210109227,
+        "corte_finito_estimado_Hz": 759.1845691241386
+      }
+    ]
+  },
+  {
+    "centro": [
+      20.0,
+      -4.0,
+      9.2
+    ],
+    "normal": [
+      0.05594220818773299,
+      0.051103222724214345,
+      -0.9971253331303341
+    ],
+    "u": [
+      0.3334927962019585,
+      0.94037561235443,
+      0.06690487703022494
+    ],
+    "v": [
+      0.9410914005687647,
+      -0.336276922069044,
+      0.03556413163976871
+    ],
+    "ancho": 4.0,
+    "alto": 3.0,
+    "espesor": 0.02,
+    "familia": "intermedio",
+    "lado": -1,
+    "pares_primarios_tempranos": 2,
+    "virtuales_tempranos": 1,
+    "giro_vertical_grados": 5.0,
+    "giro_horizontal_grados": -20.0,
+    "rutas_utiles": [
+      {
+        "fuente": "F1",
+        "receptor": "P8",
+        "indice": 0,
+        "ganancia_geometrica": 0.7956398835638886,
+        "punto": [
+          20.699568897636507,
+          -6.13270534677499,
+          9.119917100915053
+        ],
+        "retardo_ms": 4.450582900312903,
+        "distancia_reflejada_m": 24.925128264590697,
+        "cos_incidencia": 0.3876101836972294,
+        "corte_finito_estimado_Hz": 621.0387927423542
+      },
+      {
+        "fuente": "F2",
+        "receptor": "P8",
+        "indice": 2,
+        "ganancia_geometrica": 0.8059785022737721,
+        "punto": [
+          20.90767328877424,
+          -4.955086011376429,
+          9.191946122712691
+        ],
+        "retardo_ms": 4.291715480141614,
+        "distancia_reflejada_m": 26.69333648526357,
+        "cos_incidencia": 0.37143520144479697,
+        "corte_finito_estimado_Hz": 712.4281512670632
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V02",
+        "indice": 4,
+        "ganancia_geometrica": 0.7527291180289192,
+        "punto": [
+          19.265211589055525,
+          -2.2774690489204095,
+          9.237027638709643
+        ],
+        "retardo_ms": 5.946460647038043,
+        "distancia_reflejada_m": 23.44655812754084,
+        "cos_incidencia": 0.43876132504870924,
+        "corte_finito_estimado_Hz": 498.7001830824906
+      },
+      {
+        "fuente": "F2",
+        "receptor": "V01",
+        "indice": 9,
+        "ganancia_geometrica": 0.8080596937382614,
+        "punto": [
+          20.549693158932463,
+          -5.667523807007031,
+          9.13534935957483
+        ],
+        "retardo_ms": 4.176274981025716,
+        "distancia_reflejada_m": 26.564390848926738,
+        "cos_incidencia": 0.37019673508761314,
+        "corte_finito_estimado_Hz": 703.0291139591325
+      }
+    ]
+  },
+  {
+    "centro": [
+      22.0,
+      7.0,
+      9.2
+    ],
+    "normal": [
+      0.13280126831333916,
+      -0.40003679199990666,
+      -0.9068265480127895
+    ],
+    "u": [
+      0.2636861905899125,
+      0.8962173673167013,
+      -0.3567408350779332
+    ],
+    "v": [
+      0.9554231607128585,
+      -0.19174200261378357,
+      0.22450298084236428
+    ],
+    "ancho": 4.0,
+    "alto": 3.0,
+    "espesor": 0.02,
+    "familia": "intermedio",
+    "lado": 1,
+    "pares_primarios_tempranos": 1,
+    "virtuales_tempranos": 2,
+    "giro_vertical_grados": -10.0,
+    "giro_horizontal_grados": -15.0,
+    "rutas_utiles": [
+      {
+        "fuente": "F1",
+        "receptor": "P9",
+        "indice": 1,
+        "ganancia_geometrica": 0.7948462587184741,
+        "punto": [
+          20.9367217750371,
+          7.536691418785292,
+          8.796503861613218
+        ],
+        "retardo_ms": 4.4634558290798285,
+        "distancia_reflejada_m": 24.806948052385792,
+        "cos_incidencia": 0.40246960280741595,
+        "corte_finito_estimado_Hz": 535.6936806103714
+      },
+      {
+        "fuente": "F1",
+        "receptor": "V04",
+        "indice": 6,
+        "ganancia_geometrica": 0.8126199526009882,
+        "punto": [
+          21.345006009080763,
+          8.39662348486277,
+          8.47694572607652
+        ],
+        "retardo_ms": 3.6389970809623113,
+        "distancia_reflejada_m": 24.354607518358,
+        "cos_incidencia": 0.39046915615601063,
+        "corte_finito_estimado_Hz": 495.6143717197838
+      }
+    ]
+  }
+]

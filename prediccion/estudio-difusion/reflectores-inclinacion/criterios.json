@@ -1,0 +1,88 @@
+{
+  "area_frontal_m2": 48,
+  "alpha_1000": 0.05,
+  "dispersion": 0.05,
+  "espesor_m": 0.02,
+  "centros_conservados": true,
+  "referencia": "combinado del primer ciclo: cuatro paneles de 4x3m",
+  "rotaciones": "Yaw alrededor de Z global; después pitch alrededor del eje u girado. Se rotan los tres ejes del panel.",
+  "seleccion": "Ascenso por coordenadas, hasta tres ciclos; malla de -20 a +20 grados en pasos de 5; óptimo local geométrico, no predicción de indicadores.",
+  "pares": [
+    {
+      "fuente": "F1",
+      "receptor": "P8",
+      "peso": 0.9347071892279544
+    },
+    {
+      "fuente": "F1",
+      "receptor": "P9",
+      "peso": 0.556955486771497
+    },
+    {
+      "fuente": "F2",
+      "receptor": "P8",
+      "peso": 0.5576085247500778
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V01",
+      "peso": 1.1833127538620445
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V02",
+      "peso": 1.5657845181459493
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V03",
+      "peso": 1.453091217379305
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V04",
+      "peso": 0.860234086414075
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V05",
+      "peso": 1.4403040818619481
+    },
+    {
+      "fuente": "F1",
+      "receptor": "V08",
+      "peso": 1.6646128813997003
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V01",
+      "peso": 0.9792657922692015
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V02",
+      "peso": 1.023891469510113
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V03",
+      "peso": 0.8571070484602871
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V04",
+      "peso": 2.357594809991568
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V05",
+      "peso": 1.14064851038274
+    },
+    {
+      "fuente": "F2",
+      "receptor": "V08",
+      "peso": 3.0
+    }
+  ],
+  "criterio": "Ganancia de primera reflexión visible antes de 45ms, corte finito estimado <=1000Hz; utilidad logarítmica ponderada y equilibrio frente/media. Las rutas se vuelven a comprobar con los demás paneles presentes."
+}

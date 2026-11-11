@@ -1,0 +1,12 @@
+{
+  "variante": "Lpos",
+  "fuente": "F2",
+  "frecuencia": 500,
+  "N": 150000,
+  "semilla": 20261019,
+  "segundos": 32.02733612060547,
+  "fraccion_perdidas": 0.00012,
+  "config_sha256": "39d5d7b4852b9f69cece739f1f2b0c96525b1469f4a6ca4b7edc43eba8580e05",
+  "malla_sha256": "8891a650c91e3a4414716e91eb86e44578bb1c8bd3f84c76fc0269d3447034f2",
+  "tetra_sha256": "50028832053f9d695732da0db98947170716c3d58b59a8d838ff24389b315c87"
+}

@@ -1,0 +1,13 @@
+{
+  "corridas_principales": 40,
+  "por_numero_particulas": {
+    "150000": 28,
+    "600000": 12
+  },
+  "controles_absorcion": 2,
+  "max_fraccion_particulas_perdidas": 0.00025333333333333333,
+  "series_validas": true,
+  "Lw_global_90_verificado": true,
+  "proyectos_CRC_XML_identificadores_verificados": true,
+  "enlaces_informe_validos": true
+}

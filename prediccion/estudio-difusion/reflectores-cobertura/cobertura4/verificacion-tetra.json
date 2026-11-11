@@ -1,0 +1,9 @@
+{
+  "nodos": 2581,
+  "tetraedros": 8281,
+  "volumen_m3": 9542.773967369509,
+  "volumen_esperado_m3": 9542.773967339412,
+  "min_volumen_tetra_m3": 2.4305338941227836e-06,
+  "fronteras_con_marcador": true,
+  "vecinos_reciprocos": true
+}

@@ -1,0 +1,289 @@
+{
+  "area_total_m2": 48,
+  "modulos": 8,
+  "dimensiones_m": [
+    2,
+    3,
+    0.02
+  ],
+  "separacion_coplanar_m": 0.2,
+  "partida": "Orientación combinada, división por eje u. Los dos centros se desplazan ±1,10m desde el centro del panel padre.",
+  "control": "No es una comparación de orientación pura: cambian tamaño finito, separación, bordes y número de módulos. No se asume que conserve área de absorción equivalente exactamente.",
+  "giros": "Adicionales respecto de la orientación combinada, alrededor del centro de cada módulo; rango ±10 grados cada eje, paso 5.",
+  "puntaje_geometrico_plano": 0.0,
+  "puntaje_geometrico_segmentado": 2.210033686458842,
+  "modulos_planos": [
+    {
+      "centro": [
+        12.019337636982417,
+        -5.037206355659752,
+        8.83417349525362
+      ],
+      "normal": [
+        0.42426589126550907,
+        0.3082254392816573,
+        -0.8514666946441961
+      ],
+      "u": [
+        -0.017579669984015694,
+        0.9429148687815923,
+        0.3325695497694367
+      ],
+      "v": [
+        0.9053670022217157,
+        -0.12612941294647348,
+        0.40546511869437263
+      ],
+      "ancho": 2.0,
+      "alto": 3.0,
+      "espesor": 0.02,
+      "familia": "adelantado",
+      "lado": -1,
+      "pares_primarios_tempranos": 2,
+      "virtuales_tempranos": 5,
+      "giro_vertical_grados": 0.0,
+      "giro_horizontal_grados": 0.0,
+      "panel_padre": 1,
+      "mitad": -1,
+      "rutas_utiles": []
+    },
+    {
+      "centro": [
+        11.980662363017583,
+        -2.9627936443402483,
+        9.56582650474638
+      ],
+      "normal": [
+        0.42426589126550907,
+        0.3082254392816573,
+        -0.8514666946441961
+      ],
+      "u": [
+        -0.017579669984015694,
+        0.9429148687815923,
+        0.3325695497694367
+      ],
+      "v": [
+        0.9053670022217157,
+        -0.12612941294647348,
+        0.40546511869437263
+      ],
+      "ancho": 2.0,
+      "alto": 3.0,
+      "espesor": 0.02,
+      "familia": "adelantado",
+      "lado": -1,
+      "pares_primarios_tempranos": 2,
+      "virtuales_tempranos": 5,
+      "giro_vertical_grados": 0.0,
+      "giro_horizontal_grados": 0.0,
+      "panel_padre": 1,
+      "mitad": 1,
+      "rutas_utiles": []
+    },
+    {
+      "centro": [
+        12.281879473502391,
+        2.9367579419476244,
+        8.207764560938264
+      ],
+      "normal": [
+        0.3411947841839179,
+        0.08361794050254598,
+        -0.9362660729043867
+      ],
+      "u": [
+        -0.256254066820355,
+        0.9665836891385232,
+        -0.00705869176205936
+      ],
+      "v": [
+        0.9043892814953739,
+        0.24233037762004872,
+        0.35122075052423346
+      ],
+      "ancho": 2.0,
+      "alto": 3.0,
+      "espesor": 0.02,
+      "familia": "adelantado",
+      "lado": 1,
+      "pares_primarios_tempranos": 1,
+      "virtuales_tempranos": 6,
+      "giro_vertical_grados": 0.0,
+      "giro_horizontal_grados": 0.0,
+      "panel_padre": 2,
+      "mitad": -1,
+      "rutas_utiles": []
+    },
+    {
+      "centro": [
+        11.718120526497609,
+        5.063242058052376,
+        8.192235439061735
+      ],
+      "normal": [
+        0.3411947841839179,
+        0.08361794050254598,
+        -0.9362660729043867
+      ],
+      "u": [
+        -0.256254066820355,
+        0.9665836891385232,
+        -0.00705869176205936
+      ],
+      "v": [
+        0.9043892814953739,
+        0.24233037762004872,
+        0.35122075052423346
+      ],
+      "ancho": 2.0,
+      "alto": 3.0,
+      "espesor": 0.02,
+      "familia": "adelantado",
+      "lado": 1,
+      "pares_primarios_tempranos": 1,
+      "virtuales_tempranos": 6,
+      "giro_vertical_grados": 0.0,
+      "giro_horizontal_grados": 0.0,
+      "panel_padre": 2,
+      "mitad": 1,
+      "rutas_utiles": []
+    },
+    {
+      "centro": [
+        19.633157924177844,
+        -5.034413173589873,
+        9.126404635266752
+      ],
+      "normal": [
+        0.05594220818773299,
+        0.051103222724214345,
+        -0.9971253331303341
+      ],
+      "u": [
+        0.3334927962019585,
+        0.94037561235443,
+        0.06690487703022494
+      ],
+      "v": [
+        0.9410914005687647,
+        -0.336276922069044,
+        0.03556413163976871
+      ],
+      "ancho": 2.0,
+      "alto": 3.0,
+      "espesor": 0.02,
+      "familia": "intermedio",
+      "lado": -1,
+      "pares_primarios_tempranos": 2,
+      "virtuales_tempranos": 1,
+      "giro_vertical_grados": 0.0,
+      "giro_horizontal_grados": 0.0,
+      "panel_padre": 3,
+      "mitad": -1,
+      "rutas_utiles": []
+    },
+    {
+      "centro": [
+        20.366842075822156,
+        -2.965586826410127,
+        9.273595364733247
+      ],
+      "normal": [
+        0.05594220818773299,
+        0.051103222724214345,
+        -0.9971253331303341
+      ],
+      "u": [
+        0.3334927962019585,
+        0.94037561235443,
+        0.06690487703022494
+      ],
+      "v": [
+        0.9410914005687647,
+        -0.336276922069044,
+        0.03556413163976871
+      ],
+      "ancho": 2.0,
+      "alto": 3.0,
+      "espesor": 0.02,
+      "familia": "intermedio",
+      "lado": -1,
+      "pares_primarios_tempranos": 2,
+      "virtuales_tempranos": 1,
+      "giro_vertical_grados": 0.0,
+      "giro_horizontal_grados": 0.0,
+      "panel_padre": 3,
+      "mitad": 1,
+      "rutas_utiles": []
+    },
+    {
+      "centro": [
+        21.709945190351096,
+        6.014160895951629,
+        9.592414918585726
+      ],
+      "normal": [
+        0.13280126831333916,
+        -0.40003679199990666,
+        -0.9068265480127895
+      ],
+      "u": [
+        0.2636861905899125,
+        0.8962173673167013,
+        -0.3567408350779332
+      ],
+      "v": [
+        0.9554231607128585,
+        -0.19174200261378357,
+        0.22450298084236428
+      ],
+      "ancho": 2.0,
+      "alto": 3.0,
+      "espesor": 0.02,
+      "familia": "intermedio",
+      "lado": 1,
+      "pares_primarios_tempranos": 1,
+      "virtuales_tempranos": 2,
+      "giro_vertical_grados": 0.0,
+      "giro_horizontal_grados": 0.0,
+      "panel_padre": 4,
+      "mitad": -1,
+      "rutas_utiles": []
+    },
+    {
+      "centro": [
+        22.290054809648904,
+        7.985839104048371,
+        8.807585081414272
+      ],
+      "normal": [
+        0.13280126831333916,
+        -0.40003679199990666,
+        -0.9068265480127895
+      ],
+      "u": [
+        0.2636861905899125,
+        0.8962173673167013,
+        -0.3567408350779332
+      ],
+      "v": [
+        0.9554231607128585,
+        -0.19174200261378357,
+        0.22450298084236428
+      ],
+      "ancho": 2.0,
+      "alto": 3.0,
+      "espesor": 0.02,
+      "familia": "intermedio",
+      "lado": 1,
+      "pares_primarios_tempranos": 1,
+      "virtuales_tempranos": 2,
+      "giro_vertical_grados": 0.0,
+      "giro_horizontal_grados": 0.0,
+      "panel_padre": 4,
+      "mitad": 1,
+      "rutas_utiles": []
+    }
+  ]
+}

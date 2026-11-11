@@ -1,0 +1,296 @@
+[
+  {
+    "carpeta": "calculos\\base-s0.6-F1-1000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 781523,
+    "sha256": "ed8be42bf391adf9d81a23f2d99ae3adac92f78085ba7bc7c0b68ef9b4f7f773"
+  },
+  {
+    "carpeta": "calculos\\base-s0.6-F1-2000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 802709,
+    "sha256": "3f66a95b3191de80e1b5608e86d5e449987db33c7b6508cdd712e210883abd13"
+  },
+  {
+    "carpeta": "calculos\\base-s0.6-F1-2000Hz-N600000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 935841,
+    "sha256": "8d1295d04f04694734be0a6f2bd910c495d5f66b7983234d2133111dccfa6133"
+  },
+  {
+    "carpeta": "calculos\\base-s0.6-F1-2000Hz-N600000-seed20261020",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 930856,
+    "sha256": "8024facc9fbf0c28fdaa0d36b3308b6fef96fe89882bfd349523b31dd82faf6b"
+  },
+  {
+    "carpeta": "calculos\\base-s0.6-F1-2000Hz-N600000-seed20261021",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 932318,
+    "sha256": "42d7db113196bcb95083992df02d6e463076ca07752937db18180c7d20db4b93"
+  },
+  {
+    "carpeta": "calculos\\base-s0.6-F1-4000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 788098,
+    "sha256": "e4963816ce56204e879bb5805a9f549da94f65c63af9d6bfecbdcd52ebf1a3dd"
+  },
+  {
+    "carpeta": "calculos\\base-s0.6-F2-1000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 770975,
+    "sha256": "c93614fbd18086bd4854bff8899293ff80c1d591d4da3ac7d159a0b9261ba83b"
+  },
+  {
+    "carpeta": "calculos\\base-s0.6-F2-2000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 792591,
+    "sha256": "0e0bb97ef3bb7a613876a3173670dda21006eddd7120a7c9dbd55bd7ba756403"
+  },
+  {
+    "carpeta": "calculos\\base-s0.6-F2-2000Hz-N600000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 933985,
+    "sha256": "db39aa0612992b518b8b794b6b5dc71052fbb2b53b354cbe795a3bfba6797b84"
+  },
+  {
+    "carpeta": "calculos\\base-s0.6-F2-2000Hz-N600000-seed20261020",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 933604,
+    "sha256": "c9d68ce17da0b36828de4a6bcffe61bf9df8b7281b056047a8a10b9c1078fc3c"
+  },
+  {
+    "carpeta": "calculos\\base-s0.6-F2-2000Hz-N600000-seed20261021",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 929050,
+    "sha256": "7583c90414d29b85169814cc02bd4f68d145fe519c05c7c448b357874490e715"
+  },
+  {
+    "carpeta": "calculos\\base-s0.6-F2-4000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 788578,
+    "sha256": "373a50214af1afb4401fdff95ab070ed110d8e0aa116e6b1c204087bd4be4b9c"
+  },
+  {
+    "carpeta": "calculos\\fondo_alto-s0.3-F1-2000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 798898,
+    "sha256": "07f175f35073df47ffedb1f4cd252554911b87e6446c0824799cffaf72721038"
+  },
+  {
+    "carpeta": "calculos\\fondo_alto-s0.3-F2-2000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 788519,
+    "sha256": "e69823e6414f3c1158d28356f0a321dc45f8de8a32250379a7d05f8e35321e0b"
+  },
+  {
+    "carpeta": "calculos\\fondo_alto-s0.6-F1-1000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 778259,
+    "sha256": "5acd5cec551404a2dfdc8a3a0e28cfba45924e16a49e0245b17284b6624710f4"
+  },
+  {
+    "carpeta": "calculos\\fondo_alto-s0.6-F1-2000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 802331,
+    "sha256": "1e733809d80e12a5e9ed0a2a32218dfd15ea2fc68bca45f2fbbc0f076209e353"
+  },
+  {
+    "carpeta": "calculos\\fondo_alto-s0.6-F1-2000Hz-N600000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 927847,
+    "sha256": "10610f053e76144e446c822f9f0c146e69e85acedf1537882394260eacf2b445"
+  },
+  {
+    "carpeta": "calculos\\fondo_alto-s0.6-F1-2000Hz-N600000-seed20261020",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 924967,
+    "sha256": "a35fafdf2f04c352cc8ea73a5d02acea9a66367f3a21a4ab8c95795ada1ea9c1"
+  },
+  {
+    "carpeta": "calculos\\fondo_alto-s0.6-F1-2000Hz-N600000-seed20261021",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 924961,
+    "sha256": "b4ae43620de7fb80f8aeda71f55902021136db6fcb05855c85db5a4a03319af2"
+  },
+  {
+    "carpeta": "calculos\\fondo_alto-s0.6-F1-4000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 792186,
+    "sha256": "b6bd0ef53caf3a90580cee45a4bf958bf3a94be51c71e2bef983c5578f52ffa8"
+  },
+  {
+    "carpeta": "calculos\\fondo_alto-s0.6-F2-1000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 767555,
+    "sha256": "ac1504929e3333a01ecdeebf5aa323ad87d07fdcdd8558659b96d525359bdad6"
+  },
+  {
+    "carpeta": "calculos\\fondo_alto-s0.6-F2-2000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 788759,
+    "sha256": "acd70e9edef3ee32badde1dffa7b0d284baf91cbef446b017d35ba89c3d2eb48"
+  },
+  {
+    "carpeta": "calculos\\fondo_alto-s0.6-F2-2000Hz-N600000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 924764,
+    "sha256": "70c1ac8da47cea08325f01f5148e1de3dbb35f195a52e57b5ad5e8b7da2b39a0"
+  },
+  {
+    "carpeta": "calculos\\fondo_alto-s0.6-F2-2000Hz-N600000-seed20261020",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 923843,
+    "sha256": "e0c8775e02d94fcb4890877076f5c90bb2b14168e1135c018f5b6b0f6745de55"
+  },
+  {
+    "carpeta": "calculos\\fondo_alto-s0.6-F2-2000Hz-N600000-seed20261021",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 926902,
+    "sha256": "72bf957c79c59a942eaa370f80917f18d3ce080b08a6c4f966968a4d202b7249"
+  },
+  {
+    "carpeta": "calculos\\fondo_alto-s0.6-F2-4000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 786510,
+    "sha256": "950eaa327884af6ad60e92123c2dc24d0c112800e9143e8cc5c6b2c6825f9166"
+  },
+  {
+    "carpeta": "calculos\\fondo_alto-s0.9-F1-2000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 795471,
+    "sha256": "494bdeaddd61b2e98ee08db897eca3999f32cacc98ec70b122c86c87d250c2c2"
+  },
+  {
+    "carpeta": "calculos\\fondo_alto-s0.9-F2-2000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 790365,
+    "sha256": "90dc0649915bce8a83675fe7f4eaf03d56fbe3c0e76fd914dbb2bcbdc251e741"
+  },
+  {
+    "carpeta": "calculos\\lateral_Yneg-s0.6-F1-1000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 776412,
+    "sha256": "f17730461eecd2712b59fc084fd36b62904641cec14e55d8bef82d82b3c71c91"
+  },
+  {
+    "carpeta": "calculos\\lateral_Yneg-s0.6-F1-2000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 796843,
+    "sha256": "c85f882c78e0b90efe8d7526ad928c3262450454b001c4b06c45c18849ba5bc1"
+  },
+  {
+    "carpeta": "calculos\\lateral_Yneg-s0.6-F1-4000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 784034,
+    "sha256": "bc249e4e1b7464fdf7765669eca76b27dbaefae9456b1202a8e61de5ccf35bca"
+  },
+  {
+    "carpeta": "calculos\\lateral_Yneg-s0.6-F2-1000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 775405,
+    "sha256": "dc19637ed33cb68f6fe2ed9d10289ae7d6c1e7aeca6b047b48b535d05ffae0d0"
+  },
+  {
+    "carpeta": "calculos\\lateral_Yneg-s0.6-F2-2000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 792276,
+    "sha256": "2d642b8797fbdbadd46d025579662e16547030f3faa8edf7a17168b5cf130a46"
+  },
+  {
+    "carpeta": "calculos\\lateral_Yneg-s0.6-F2-4000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 780260,
+    "sha256": "a55591b1ee4e80b496fe470a31f0a01358396db98acb079825859a271f5d5051"
+  },
+  {
+    "carpeta": "calculos\\lateral_Ypos-s0.6-F1-1000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 779944,
+    "sha256": "8d9e5f9d19f7e4ebbf0d644da6c7915537c9d0d2d914b1e79d119a5b37821670"
+  },
+  {
+    "carpeta": "calculos\\lateral_Ypos-s0.6-F1-2000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 796077,
+    "sha256": "87c11b68cb3405b80a9c2b4385d0d53076cb8fa72534c0423af6a87d3025b492"
+  },
+  {
+    "carpeta": "calculos\\lateral_Ypos-s0.6-F1-4000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 790477,
+    "sha256": "eb617625293ee0a6229d5ad577bcf6875d5c4642e39232e492479cac003f0af5"
+  },
+  {
+    "carpeta": "calculos\\lateral_Ypos-s0.6-F2-1000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 770931,
+    "sha256": "079b6aaf7cfacacbe820c275ad9b4c3d642c893a156a147f121ce5a44effaf5d"
+  },
+  {
+    "carpeta": "calculos\\lateral_Ypos-s0.6-F2-2000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 791628,
+    "sha256": "3c65182e858425b37d4d6ec3cedb54841f5d43e1f7b5a1d80540fa361ca2b088"
+  },
+  {
+    "carpeta": "calculos\\lateral_Ypos-s0.6-F2-4000Hz-N150000-seed20261019",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 785733,
+    "sha256": "cf7be86d9ed686e0fde215bf2ad4085d4b3e7b44addb71479ddf8d0c9c79d1b3"
+  },
+  {
+    "carpeta": "sensibilidad-absorcion\\F1",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 804190,
+    "sha256": "d4529c171eeaad6e35d5c38959217d527209e433e7b38a484f846cf982856c5e"
+  },
+  {
+    "carpeta": "sensibilidad-absorcion\\F2",
+    "archivos": 48,
+    "bytes_originales": 7258292,
+    "bytes_zip": 794326,
+    "sha256": "28a7b49342ad42bc7d34947e807bddbe133c442ff2b3caeb5247f8346bb79026"
+  }
+]

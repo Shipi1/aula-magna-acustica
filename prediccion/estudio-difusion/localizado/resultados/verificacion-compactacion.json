@@ -1,0 +1,289 @@
+[
+  {
+    "carpeta": "calculos\\base-F1-1000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1793484,
+    "sha256": "c645b2b7d363cfe66f45d25a75148dcf3106064a97192a36a01967f4d8b4263f"
+  },
+  {
+    "carpeta": "calculos\\base-F1-2000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1848678,
+    "sha256": "4be1dcc3b0bd4036769c5570f0733ba2b1ff7eb71f6966be2a3edb7133fd244f"
+  },
+  {
+    "carpeta": "calculos\\base-F1-2000Hz-N20000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1114687,
+    "sha256": "a5d9db7f29f3dd9976b9afedf923fed533a39b35345460199a9946940a390608"
+  },
+  {
+    "carpeta": "calculos\\base-F1-4000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1821740,
+    "sha256": "f4b769cac4f487857d1b4f8c0f217cfec09351aad691b542c33f49ce42e3e108"
+  },
+  {
+    "carpeta": "calculos\\base-F1-8000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1341716,
+    "sha256": "dfb2d9407d02953c9eac63162c10917894d44d5e3177d7b2393168b862e167b8"
+  },
+  {
+    "carpeta": "calculos\\base-F2-1000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1782148,
+    "sha256": "4c195bcb4952824d6602f0de37e7def7bbf544cd08b2d1617f55b934b6a60b4f"
+  },
+  {
+    "carpeta": "calculos\\base-F2-2000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1830167,
+    "sha256": "7538e17ca3736a8c135dffe595fff357c3f47c089fd2d9ab695d74b0b3608501"
+  },
+  {
+    "carpeta": "calculos\\base-F2-4000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1811292,
+    "sha256": "f4e90f3b4ec7a168ba687b0108ead42be9f58ccc62c912e8b70e70678d8fc511"
+  },
+  {
+    "carpeta": "calculos\\base-F2-8000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1331641,
+    "sha256": "2376995cf64863ec37d2652450ba151c2278219b28c51811f8902dcca3b07c85"
+  },
+  {
+    "carpeta": "calculos\\C-F1-1000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1798818,
+    "sha256": "fbb47b5d918fa64169719397403814b994adccd5141fe6c63c9ef5687e26b32b"
+  },
+  {
+    "carpeta": "calculos\\C-F1-2000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1845737,
+    "sha256": "68a07180068ff81b5644c997a1a1aab0dedaf4f877569d12eb4689ac823f6832"
+  },
+  {
+    "carpeta": "calculos\\C-F1-4000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1821221,
+    "sha256": "f959258a57e37ecea3a9e039392cd5438a6634ec2cb5e2ed79467e49f129d706"
+  },
+  {
+    "carpeta": "calculos\\C-F1-8000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1340730,
+    "sha256": "02e7c4535d310dda055ea5ad595d6b4329167373b0b4829a58bb56d99b4b99da"
+  },
+  {
+    "carpeta": "calculos\\C-F2-1000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1777692,
+    "sha256": "5d90d918415851fd2c60c7a2dffa2e24f1dbce7245fd25bdd8e256d331eee0d7"
+  },
+  {
+    "carpeta": "calculos\\C-F2-2000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1837754,
+    "sha256": "6c8e06631aaf58223e97ef20e25ca00006b2e76ebdf639bb738c7afa4e1f4407"
+  },
+  {
+    "carpeta": "calculos\\C-F2-4000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1820358,
+    "sha256": "e4997ab7b80aea6ec3ad77f697e39be6bbff0d20c32bc8a65362d6ae57bcfdf8"
+  },
+  {
+    "carpeta": "calculos\\C-F2-8000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1327761,
+    "sha256": "bb8afc041f4ab1e94da1cedd34c2d182081836169cee407c5acac5e70342cc5a"
+  },
+  {
+    "carpeta": "calculos\\D-F1-1000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1794671,
+    "sha256": "05a9b58e415a22c234b2b9ed56fb6979f44302ec9a35c9ce03922110f60bd994"
+  },
+  {
+    "carpeta": "calculos\\D-F1-2000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1847484,
+    "sha256": "f3118721553040727aa7b603255100180c15247d38241c82833a20f2b38a4d41"
+  },
+  {
+    "carpeta": "calculos\\D-F1-4000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1812225,
+    "sha256": "a73b4883d7079349fc74709afd8f844af011b9cb4dd43aae4686151870c72c0f"
+  },
+  {
+    "carpeta": "calculos\\D-F1-8000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1341124,
+    "sha256": "4e37935ae18bbdce1c8881e794ae522cef544f222269d3806dc390063bec7a37"
+  },
+  {
+    "carpeta": "calculos\\D-F2-1000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1784841,
+    "sha256": "e0d8b78e1e52cbbfa4aa500917b40b00dd989cb1a246418313b0423325c9c146"
+  },
+  {
+    "carpeta": "calculos\\D-F2-2000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1830215,
+    "sha256": "7bf0ca1f4bde969b499a2c0634c8101645e35a987c10bdda173d5e952d54a664"
+  },
+  {
+    "carpeta": "calculos\\D-F2-4000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1816982,
+    "sha256": "bb7b4b90a89a7e9845206da4789704e1b205bac6c5ccd2bd3c5119df196fcc04"
+  },
+  {
+    "carpeta": "calculos\\D-F2-8000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1334168,
+    "sha256": "c65fa780d569b9681c23dd110f00a10c51bffe45ed2ebb0d4d5b4d66c9afc470"
+  },
+  {
+    "carpeta": "calculos\\R-F1-1000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1794276,
+    "sha256": "27b60ceba404ba90a40f342f0418b0cfec378d9b6aa6f6ec96ea6844f14d3e6c"
+  },
+  {
+    "carpeta": "calculos\\R-F1-2000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1846635,
+    "sha256": "d5a18dd2608e749ad78e3fdf646c76f1ae78e6197cdf10e86e59ffdf4bc2dae7"
+  },
+  {
+    "carpeta": "calculos\\R-F1-4000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1813815,
+    "sha256": "474962b3edae5300eeb44d0ca479b7cdcdcb440a8a67036927596ac351f6a722"
+  },
+  {
+    "carpeta": "calculos\\R-F1-8000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1340378,
+    "sha256": "9c4d4a6770e60d2d0ef2db1a32278100fc56fea2e66820e260eab016f52311ab"
+  },
+  {
+    "carpeta": "calculos\\R-F2-1000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1777190,
+    "sha256": "5a30a062b851f16767aa7c70a767fcfc1860216e9a356ddcc2bc9c6bdf53c21a"
+  },
+  {
+    "carpeta": "calculos\\R-F2-2000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1838260,
+    "sha256": "5a7137a24c6463bce6aad3e7346e826879ee2db7ffbd1830b511394677892bd7"
+  },
+  {
+    "carpeta": "calculos\\R-F2-4000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1809370,
+    "sha256": "5226f6048f01aec7407d36818b1211e7ba8e19e5ff6800eb0479d99c7beda73f"
+  },
+  {
+    "carpeta": "calculos\\R-F2-8000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1331954,
+    "sha256": "e3c6d9fa2b70a2c82a16a5defc0f82997182d09394f4e6453e5eff8f6af299a3"
+  },
+  {
+    "carpeta": "calculos\\RC-F1-1000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1791986,
+    "sha256": "f0976af410b3c5bfaf32e579b7b98dfe9dc08172d187b22061ff22e74f06a7de"
+  },
+  {
+    "carpeta": "calculos\\RC-F1-2000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1848927,
+    "sha256": "19b0d7d31aac29f139cff02ea1f564cfd348841ae35fe2fe3797519e05681be6"
+  },
+  {
+    "carpeta": "calculos\\RC-F1-4000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1816119,
+    "sha256": "5001dfd4fd26a0efb5b580f282fc6522af07993db8a1839eb10a9c47235025ed"
+  },
+  {
+    "carpeta": "calculos\\RC-F1-8000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1336640,
+    "sha256": "f9a9e262a75d380511a948b891b9516e072c1fa7a0bdfd742675502b8eee0547"
+  },
+  {
+    "carpeta": "calculos\\RC-F2-1000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1786203,
+    "sha256": "bf75a1b71241e1a7a041af2b96f8153022019e0540f1036a2c2b51ccb8ce5055"
+  },
+  {
+    "carpeta": "calculos\\RC-F2-2000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1830365,
+    "sha256": "2d151b5eb434fbb11c48ffe85777a3da9abd8e4eeaf0bc19f31faa2450847ade"
+  },
+  {
+    "carpeta": "calculos\\RC-F2-4000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1812020,
+    "sha256": "0ccd0896d884be07f3cccbec86a347d017670515bfb5e4561e60e7a179b90ec5"
+  },
+  {
+    "carpeta": "calculos\\RC-F2-8000Hz-N150000-seed20261019",
+    "archivos": 108,
+    "bytes_originales": 16645148,
+    "bytes_zip": 1334034,
+    "sha256": "3256c28e312abde366c12c06fccbe082f5b899a75fbc1e0f23d9cf3f86b45cd7"
+  }
+]

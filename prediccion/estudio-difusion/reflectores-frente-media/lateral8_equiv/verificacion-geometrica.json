@@ -1,0 +1,8 @@
+{
+  "caso": "lateral8_equiv",
+  "paneles": 2,
+  "area_frontal_m2": 36.0,
+  "volumen_aire_m3": 9543.013954119366,
+  "volumen_desplazado_m3": 0.7200164794903685,
+  "aristas_dos_caras": true
+}

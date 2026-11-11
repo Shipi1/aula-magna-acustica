@@ -1,0 +1,17 @@
+{
+  "variante": "superior_completa_a060",
+  "fuente": "F1",
+  "frecuencia": 1000,
+  "N": 600000,
+  "semilla": 20261020,
+  "alpha": 0.05,
+  "dispersion": 0.05,
+  "fraccion_perdidas": 0.00013333333333333334,
+  "segundos": 100.74783325195312,
+  "config_sha256": "8a26dea3dc52a79ed266077421732185d6147986d6f664c202da27f8d23ae588",
+  "malla_sha256": "56d6a49af762254247dda444b5770cdd5cc3a75c1b60eef2d52a7d5b150c8eed",
+  "tetra_sha256": "d66038439c20bee5dfa57009beb714ecc8db3d8dc68aefd550e397fafb251005",
+  "alpha_absorbente": 0.6,
+  "area_absorbente_m2": 19.200000000000017,
+  "referencia_estudio": "Cuatro reflectores con giro combinado; particion comun"
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "variante": "cobertura4",
+    "paneles": 4,
+    "area_m2": 48.0,
+    "min_holgura_vertical_muestreada_m": 2.498534227250861,
+    "tetraedros": 8281,
+    "envolvente_original_preservada": true,
+    "segmentos_directos_preservados": 42,
+    "paneles_sin_interseccion": true,
+    "centroides_tetra_en_solidos": 0
+  },
+  {
+    "variante": "equilibrio4",
+    "paneles": 4,
+    "area_m2": 48.0,
+    "min_holgura_vertical_muestreada_m": 2.498534227250861,
+    "tetraedros": 8141,
+    "envolvente_original_preservada": true,
+    "segmentos_directos_preservados": 42,
+    "paneles_sin_interseccion": true,
+    "centroides_tetra_en_solidos": 0
+  },
+  {
+    "variante": "cobertura6",
+    "paneles": 6,
+    "area_m2": 72.0,
+    "min_holgura_vertical_muestreada_m": 2.498534227250861,
+    "tetraedros": 9335,
+    "envolvente_original_preservada": true,
+    "segmentos_directos_preservados": 42,
+    "paneles_sin_interseccion": true,
+    "centroides_tetra_en_solidos": 0
+  },
+  {
+    "variante": "central5",
+    "paneles": 5,
+    "area_m2": 60.0,
+    "min_holgura_vertical_muestreada_m": 4.50494143125762,
+    "tetraedros": 8509,
+    "envolvente_original_preservada": true,
+    "segmentos_directos_preservados": 42,
+    "paneles_sin_interseccion": true,
+    "centroides_tetra_en_solidos": 0
+  },
+  {
+    "variante": "retornos2",
+    "paneles": 2,
+    "area_m2": 24.0,
+    "min_holgura_vertical_muestreada_m": 2.5924125299776115,
+    "tetraedros": 8333,
+    "envolvente_original_preservada": true,
+    "segmentos_directos_preservados": 42,
+    "paneles_sin_interseccion": true,
+    "centroides_tetra_en_solidos": 0
+  },
+  {
+    "variante": "retornos_compactos2",
+    "paneles": 2,
+    "area_m2": 24.0,
+    "min_holgura_vertical_muestreada_m": 2.3752431062953647,
+    "tetraedros": 8085,
+    "envolvente_original_preservada": true,
+    "segmentos_directos_preservados": 42,
+    "paneles_sin_interseccion": true,
+    "centroides_tetra_en_solidos": 0
+  },
+  {
+    "variante": "mixta6",
+    "paneles": 6,
+    "area_m2": 72.0,
+    "min_holgura_vertical_muestreada_m": 2.3752431062953647,
+    "tetraedros": 9122,
+    "envolvente_original_preservada": true,
+    "segmentos_directos_preservados": 42,
+    "paneles_sin_interseccion": true,
+    "centroides_tetra_en_solidos": 0
+  }
+]

@@ -1,0 +1,5042 @@
+[
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P9",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P9",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P9",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P8",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P8",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P8",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P7",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P7",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P7",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P6",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P6",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P6",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P5",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P5",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P5",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P4",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P4",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P4",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P3",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P3",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P3",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P2",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P2",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P2",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P1",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P1",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "P1",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V01",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V01",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V01",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V02",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V02",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V02",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V03",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V03",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V03",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V04",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V04",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V04",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V05",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V05",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V05",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V06",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V06",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V06",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V07",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V07",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V07",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V08",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V08",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V08",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V09",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V09",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V09",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V10",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V10",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V10",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V11",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V11",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V11",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V12",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V12",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F1",
+    "receptor": "V12",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P9",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P9",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P9",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P8",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P8",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P8",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P7",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P7",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P7",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P6",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P6",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P6",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P5",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P5",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P5",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P4",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P4",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P4",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P3",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P3",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P3",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P2",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P2",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P2",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P1",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P1",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "P1",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V01",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V01",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V01",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V02",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V02",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V02",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V03",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V03",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V03",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V04",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V04",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V04",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V05",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V05",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V05",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V06",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V06",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V06",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V07",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V07",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V07",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V08",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V08",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V08",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V09",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V09",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V09",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V10",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V10",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V10",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V11",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V11",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V11",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V12",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V12",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "referencia",
+    "fuente": "F2",
+    "receptor": "V12",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.0,
+    "delta_C80": 0.0
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P9",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.4575458837893791,
+    "delta_C80": 0.18215888785003753
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P9",
+    "semilla": 20261020,
+    "delta_D50_pp": -2.020669046872875,
+    "delta_C80": -0.4020304132453486
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P9",
+    "semilla": 20261021,
+    "delta_D50_pp": -1.4518988025658857,
+    "delta_C80": -0.24054563108005178
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P8",
+    "semilla": 20261019,
+    "delta_D50_pp": 3.695909992136663,
+    "delta_C80": 0.3510642816687821
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P8",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.21118710732096,
+    "delta_C80": 0.32656256021980967
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P8",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.1130771911372292,
+    "delta_C80": 0.525943184513977
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P7",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.8595826751692144,
+    "delta_C80": -0.3874747702283159
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P7",
+    "semilla": 20261020,
+    "delta_D50_pp": 3.5687082705492585,
+    "delta_C80": 0.474413168463344
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P7",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.7013099214823484,
+    "delta_C80": 0.029085326533048628
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P6",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.37640356545313125,
+    "delta_C80": 0.14577032598114048
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P6",
+    "semilla": 20261020,
+    "delta_D50_pp": -2.228616633174198,
+    "delta_C80": -0.35791277457179893
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P6",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.105632556927816,
+    "delta_C80": 0.194985111750837
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P5",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.5653702505080886,
+    "delta_C80": 0.6787625017543375
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P5",
+    "semilla": 20261020,
+    "delta_D50_pp": -2.7943255489450465,
+    "delta_C80": -0.7012896304090543
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P5",
+    "semilla": 20261021,
+    "delta_D50_pp": 3.2424565561707865,
+    "delta_C80": 0.5890506084771312
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P4",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.35001461313959226,
+    "delta_C80": -0.00914316830434192
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P4",
+    "semilla": 20261020,
+    "delta_D50_pp": -2.563120686670409,
+    "delta_C80": -0.5188996952890922
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P4",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.07107600834854821,
+    "delta_C80": -0.09475073175282223
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P3",
+    "semilla": 20261019,
+    "delta_D50_pp": -2.0565626142037345,
+    "delta_C80": -0.10310389653213159
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P3",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.7624799060641507,
+    "delta_C80": -0.007358688091895882
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P3",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.25348503165613323,
+    "delta_C80": -0.5394945841950203
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P2",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.5455811620028186,
+    "delta_C80": 0.21138910763804697
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P2",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.8666658200807404,
+    "delta_C80": -0.11983215252589607
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P2",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.07750768795273899,
+    "delta_C80": 0.2581573126908898
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P1",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.771700765925324,
+    "delta_C80": 0.032781565132716683
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P1",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.5678494354934145,
+    "delta_C80": 0.04236661984929646
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "P1",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.02549472564068367,
+    "delta_C80": 0.07998025128951713
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V01",
+    "semilla": 20261019,
+    "delta_D50_pp": -2.121884526879633,
+    "delta_C80": -0.3354303120784079
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V01",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.6415279403098708,
+    "delta_C80": 0.16206963640116256
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V01",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.4248186687015192,
+    "delta_C80": -0.015737274656267397
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V02",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.6473198705199792,
+    "delta_C80": -0.19267602355421398
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V02",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.9182154173969863,
+    "delta_C80": 0.45434711938469374
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V02",
+    "semilla": 20261021,
+    "delta_D50_pp": 3.5200148241929483,
+    "delta_C80": 0.3419349705278292
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V03",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.6666904734141568,
+    "delta_C80": 0.35404412392995943
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V03",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.6844155310761479,
+    "delta_C80": 0.17728791824783507
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V03",
+    "semilla": 20261021,
+    "delta_D50_pp": 3.4926850467884094,
+    "delta_C80": 0.5409411256461403
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V04",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.6848601655761257,
+    "delta_C80": -0.34657077839264083
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V04",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.420695079416248,
+    "delta_C80": 0.42362201036424274
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V04",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.11246669087294947,
+    "delta_C80": 0.02184299759280739
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V05",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.846216623721503,
+    "delta_C80": 0.3283072910033711
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V05",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.402051595167606,
+    "delta_C80": 0.49204080477341283
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V05",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.4378361194815312,
+    "delta_C80": 0.5661066300058846
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V06",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.6626251091090509,
+    "delta_C80": 0.08381776019181686
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V06",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.045555430311495115,
+    "delta_C80": 0.2472698404913023
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V06",
+    "semilla": 20261021,
+    "delta_D50_pp": 3.4073026658122245,
+    "delta_C80": 0.4284253036500296
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V07",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.6321018006070389,
+    "delta_C80": -0.010470155025406824
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V07",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.6477791614817008,
+    "delta_C80": 0.04532455525692758
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V07",
+    "semilla": 20261021,
+    "delta_D50_pp": -2.4256921718514235,
+    "delta_C80": -0.6076529659888545
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V08",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.3490444849646366,
+    "delta_C80": 0.02844573390723837
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V08",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.7705489506083225,
+    "delta_C80": -0.043480050224381506
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V08",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.9130362568430144,
+    "delta_C80": 0.5565449570492278
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V09",
+    "semilla": 20261019,
+    "delta_D50_pp": 3.8976002919565573,
+    "delta_C80": 0.5688007917438325
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V09",
+    "semilla": 20261020,
+    "delta_D50_pp": -1.1067310483262602,
+    "delta_C80": -0.07693748633409592
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V09",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.0660572442494853,
+    "delta_C80": 0.42410287466922325
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V10",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.9297255383954806,
+    "delta_C80": 0.1994154801053556
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V10",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.5894225452469684,
+    "delta_C80": 0.4083736826042992
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V10",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.3267108161841179,
+    "delta_C80": -0.09671412162785886
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V11",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.4606312301309785,
+    "delta_C80": 0.05380909300228898
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V11",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.7022212070795462,
+    "delta_C80": 0.1230906661391431
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V11",
+    "semilla": 20261021,
+    "delta_D50_pp": -2.166242037486626,
+    "delta_C80": -0.3546666275893582
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V12",
+    "semilla": 20261019,
+    "delta_D50_pp": 3.3432979963881095,
+    "delta_C80": 0.4222780705170739
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V12",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.32516737924918004,
+    "delta_C80": -0.3859603079327458
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F1",
+    "receptor": "V12",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.4849584376006959,
+    "delta_C80": -0.1328996782013585
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P9",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.0625230876066567,
+    "delta_C80": 0.25862523444258173
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P9",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.8185922798123428,
+    "delta_C80": 0.516335978661869
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P9",
+    "semilla": 20261021,
+    "delta_D50_pp": -3.7142493851539626,
+    "delta_C80": -0.4049688464566092
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P8",
+    "semilla": 20261019,
+    "delta_D50_pp": 4.745635699186437,
+    "delta_C80": 0.7010855548992174
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P8",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.9511746534359133,
+    "delta_C80": 0.5759263775351764
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P8",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.1687027564898713,
+    "delta_C80": 0.029009497075107582
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P7",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.2580474246727462,
+    "delta_C80": 0.2162350396188807
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P7",
+    "semilla": 20261020,
+    "delta_D50_pp": -2.05575300692567,
+    "delta_C80": -0.10419540405348426
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P7",
+    "semilla": 20261021,
+    "delta_D50_pp": -1.8034857883145392,
+    "delta_C80": -0.04243420356890837
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P6",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.3308064926526768,
+    "delta_C80": -0.19341576961641316
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P6",
+    "semilla": 20261020,
+    "delta_D50_pp": -5.672555880174393,
+    "delta_C80": -0.32153569011771976
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P6",
+    "semilla": 20261021,
+    "delta_D50_pp": -4.729216382122914,
+    "delta_C80": -0.35208900748826055
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P5",
+    "semilla": 20261019,
+    "delta_D50_pp": -3.739624779627448,
+    "delta_C80": -0.5851211535355576
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P5",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.9595772376155765,
+    "delta_C80": 0.03766620861480163
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P5",
+    "semilla": 20261021,
+    "delta_D50_pp": 3.191387489478174,
+    "delta_C80": 0.6730285521137613
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P4",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.2531920046314511,
+    "delta_C80": -0.330021320736565
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P4",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.3675120904917577,
+    "delta_C80": -0.2628420519649912
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P4",
+    "semilla": 20261021,
+    "delta_D50_pp": -2.8606794189079494,
+    "delta_C80": 0.02122481312941238
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P3",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.7723149118660686,
+    "delta_C80": -0.1672559592225693
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P3",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.7339148348758044,
+    "delta_C80": 0.05083254709189999
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P3",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.3141656043315635,
+    "delta_C80": -0.2236915082666835
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P2",
+    "semilla": 20261019,
+    "delta_D50_pp": -3.0845919163908846,
+    "delta_C80": -0.4756306833078505
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P2",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.04034163235137811,
+    "delta_C80": -0.12564192402675678
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P2",
+    "semilla": 20261021,
+    "delta_D50_pp": -2.240167896880216,
+    "delta_C80": -0.18030757019006538
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P1",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.3597976324358214,
+    "delta_C80": 0.39186943284031206
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P1",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.1520916554357683,
+    "delta_C80": 0.17339187455056104
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "P1",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.38739748261402696,
+    "delta_C80": -0.05646410639738621
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V01",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.286415583260819,
+    "delta_C80": 0.08666343197974485
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V01",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.7613201564226344,
+    "delta_C80": 0.4861532253134758
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V01",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.39011655000411594,
+    "delta_C80": 0.12253212135159819
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V02",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.3751879578065314,
+    "delta_C80": -0.11161057008246655
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V02",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.7899102141252214,
+    "delta_C80": 0.3200151735790625
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V02",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.9044610730174227,
+    "delta_C80": 0.03772364673321649
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V03",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.894054245994738,
+    "delta_C80": -0.26327713583633416
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V03",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.1120865937664846,
+    "delta_C80": 0.14180055675853764
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V03",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.01052542802803913,
+    "delta_C80": 0.41359491024295614
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V04",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.6985988038713558,
+    "delta_C80": 0.11987571191463126
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V04",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.765384064926991,
+    "delta_C80": 0.49387372805497454
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V04",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.234770666193455,
+    "delta_C80": 0.28918766750164293
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V05",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.619863485895557,
+    "delta_C80": 0.42024464684393203
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V05",
+    "semilla": 20261020,
+    "delta_D50_pp": 4.342294665636686,
+    "delta_C80": 0.8398234800269123
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V05",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.8276508641561762,
+    "delta_C80": 0.14332652509389154
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V06",
+    "semilla": 20261019,
+    "delta_D50_pp": 5.167678998557058,
+    "delta_C80": 0.8923742439899474
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V06",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.538678008498934,
+    "delta_C80": 0.36961879404018094
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V06",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.662438633604296,
+    "delta_C80": -0.19287089737352037
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V07",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.5011294675446081,
+    "delta_C80": -0.2699612229676154
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V07",
+    "semilla": 20261020,
+    "delta_D50_pp": 3.610298493159391,
+    "delta_C80": 0.36450245233071765
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V07",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.2848180322777836,
+    "delta_C80": 0.1614941086929811
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V08",
+    "semilla": 20261019,
+    "delta_D50_pp": 3.864993898883011,
+    "delta_C80": 0.3114191916556567
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V08",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.7643514205304562,
+    "delta_C80": 0.3551499249333345
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V08",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.15765749235586668,
+    "delta_C80": 0.2098392061386938
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V09",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.4221036956255446,
+    "delta_C80": -0.16598673247831153
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V09",
+    "semilla": 20261020,
+    "delta_D50_pp": 3.3764563552506957,
+    "delta_C80": 0.7801467793489714
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V09",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.2641938752623076,
+    "delta_C80": 0.05062237115307955
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V10",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.120723603567235,
+    "delta_C80": 0.5434158681376507
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V10",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.29515373313388693,
+    "delta_C80": -0.15421250714949397
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V10",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.02996006165896148,
+    "delta_C80": 0.28540511864946716
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V11",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.5182072113699476,
+    "delta_C80": -0.1640662865474718
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V11",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.933378608221723,
+    "delta_C80": 0.29694482174196546
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V11",
+    "semilla": 20261021,
+    "delta_D50_pp": 5.170217568052529,
+    "delta_C80": 0.9905527282740872
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V12",
+    "semilla": 20261019,
+    "delta_D50_pp": 3.854586134661332,
+    "delta_C80": 0.7334113732287462
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V12",
+    "semilla": 20261020,
+    "delta_D50_pp": -1.1744923255752298,
+    "delta_C80": -0.5472597776770565
+  },
+  {
+    "variante": "superior_centro_a060",
+    "fuente": "F2",
+    "receptor": "V12",
+    "semilla": 20261021,
+    "delta_D50_pp": 4.355056204591463,
+    "delta_C80": 0.655061018456772
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P9",
+    "semilla": 20261019,
+    "delta_D50_pp": -2.019125710569668,
+    "delta_C80": -0.11501868201185106
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P9",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.021230223566512052,
+    "delta_C80": -0.020021638997960167
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P9",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.6482111764070737,
+    "delta_C80": -0.10035659778719697
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P8",
+    "semilla": 20261019,
+    "delta_D50_pp": 4.039541534755919,
+    "delta_C80": 0.5008199952083852
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P8",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.169874475980201,
+    "delta_C80": 0.5674402206592819
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P8",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.129644023243067,
+    "delta_C80": 0.13460091886324022
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P7",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.2806292729851805,
+    "delta_C80": -0.5676774604234762
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P7",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.6912620171250126,
+    "delta_C80": 0.5211423884454801
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P7",
+    "semilla": 20261021,
+    "delta_D50_pp": -2.595603926926181,
+    "delta_C80": 0.0053613592536430055
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P6",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.8353569904674245,
+    "delta_C80": 0.6264533674357193
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P6",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.0544337645163253,
+    "delta_C80": -0.13637945280528463
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P6",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.0640155332617951,
+    "delta_C80": -0.5151487476402918
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P5",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.5094574471342384,
+    "delta_C80": 0.839105679495566
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P5",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.2163232114868947,
+    "delta_C80": 0.1543232325864472
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P5",
+    "semilla": 20261021,
+    "delta_D50_pp": 7.9710256069241865,
+    "delta_C80": 1.2481618145158637
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P4",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.7842247308316175,
+    "delta_C80": -0.01801281278630773
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P4",
+    "semilla": 20261020,
+    "delta_D50_pp": -4.338703514390829,
+    "delta_C80": -0.6219910616419372
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P4",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.42686691738219906,
+    "delta_C80": 0.05326131786766286
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P3",
+    "semilla": 20261019,
+    "delta_D50_pp": -3.844532240273203,
+    "delta_C80": -0.7629496001448355
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P3",
+    "semilla": 20261020,
+    "delta_D50_pp": 5.31021464622642,
+    "delta_C80": 0.4924184205203561
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P3",
+    "semilla": 20261021,
+    "delta_D50_pp": -3.5378534299783198,
+    "delta_C80": -0.8305662112183443
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P2",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.998916334545555,
+    "delta_C80": 0.5231727269180688
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P2",
+    "semilla": 20261020,
+    "delta_D50_pp": -1.7372827768172598,
+    "delta_C80": -0.17292809948722132
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P2",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.9969449751992201,
+    "delta_C80": -0.04967336975271186
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P1",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.9571960570679963,
+    "delta_C80": -0.09807507398185866
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P1",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.23087251558145283,
+    "delta_C80": -0.2974758709176101
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "P1",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.41380322958574567,
+    "delta_C80": 0.20405128044694143
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V01",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.168928132233063,
+    "delta_C80": 0.3299045129687619
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V01",
+    "semilla": 20261020,
+    "delta_D50_pp": 3.0308770510796847,
+    "delta_C80": 0.2183167482307279
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V01",
+    "semilla": 20261021,
+    "delta_D50_pp": -1.6455594845328676,
+    "delta_C80": -0.11814371136839852
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V02",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.078978056677073,
+    "delta_C80": -0.01648878233544182
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V02",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.9505568019851722,
+    "delta_C80": 0.34534426370117477
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V02",
+    "semilla": 20261021,
+    "delta_D50_pp": 3.5689052850401524,
+    "delta_C80": 0.4763219541866601
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V03",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.7384059947120818,
+    "delta_C80": 0.271525003695819
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V03",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.7759290991029175,
+    "delta_C80": 0.634379854573478
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V03",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.9853024025142361,
+    "delta_C80": 0.27535845258923697
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V04",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.8475027418231704,
+    "delta_C80": -0.08223967135718979
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V04",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.7730669391057248,
+    "delta_C80": 0.4847747940203069
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V04",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.882348519965376,
+    "delta_C80": -0.16623035923869356
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V05",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.0643700049650704,
+    "delta_C80": 0.4241333425716567
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V05",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.8475650389027223,
+    "delta_C80": 0.6614441338560924
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V05",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.685278231300707,
+    "delta_C80": 0.37749590655123755
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V06",
+    "semilla": 20261019,
+    "delta_D50_pp": -2.243380883506717,
+    "delta_C80": -0.3085295743043073
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V06",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.6309806076569089,
+    "delta_C80": 0.1659895832134104
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V06",
+    "semilla": 20261021,
+    "delta_D50_pp": 5.621165710965059,
+    "delta_C80": 0.3706954028645444
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V07",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.5233232117421807,
+    "delta_C80": -0.13496668219209484
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V07",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.8268928771550677,
+    "delta_C80": 0.24748005249040206
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V07",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.2249549943232125,
+    "delta_C80": -0.015667386734500965
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V08",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.223367876947421,
+    "delta_C80": 0.2383718065417355
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V08",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.14297356171682907,
+    "delta_C80": 0.0029621950486848903
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V08",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.39330173335306995,
+    "delta_C80": -0.11740192392484716
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V09",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.9287656245288574,
+    "delta_C80": 0.19609089428810078
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V09",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.2349048053779867,
+    "delta_C80": 0.05687524995905724
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V09",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.26789069579211144,
+    "delta_C80": 0.26935194941072416
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V10",
+    "semilla": 20261019,
+    "delta_D50_pp": 4.997647636354628,
+    "delta_C80": 0.43272993907631263
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V10",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.7963244890342764,
+    "delta_C80": -0.09596280467519791
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V10",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.750798845914275,
+    "delta_C80": 0.3936440879558949
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V11",
+    "semilla": 20261019,
+    "delta_D50_pp": 4.0067363300666585,
+    "delta_C80": -0.09121152001235089
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V11",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.27100484992741514,
+    "delta_C80": 0.12345463283891955
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V11",
+    "semilla": 20261021,
+    "delta_D50_pp": -4.697756040229272,
+    "delta_C80": -0.7349829041234954
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V12",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.2868635842622709,
+    "delta_C80": -0.17373023942055354
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V12",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.5721875890869512,
+    "delta_C80": 0.030699813064472448
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F1",
+    "receptor": "V12",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.8053699594487966,
+    "delta_C80": 0.17262179538005817
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P9",
+    "semilla": 20261019,
+    "delta_D50_pp": 3.3270603311326354,
+    "delta_C80": 0.7070656012353698
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P9",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.8548367576942937,
+    "delta_C80": 0.5022641188389139
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P9",
+    "semilla": 20261021,
+    "delta_D50_pp": -2.0112701464044704,
+    "delta_C80": -0.18108063777259753
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P8",
+    "semilla": 20261019,
+    "delta_D50_pp": 6.203787978587712,
+    "delta_C80": 0.9594296775220601
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P8",
+    "semilla": 20261020,
+    "delta_D50_pp": 3.4071965164792104,
+    "delta_C80": 0.5989529263313642
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P8",
+    "semilla": 20261021,
+    "delta_D50_pp": 3.8043174680652925,
+    "delta_C80": 0.2663515900306128
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P7",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.5816363508531879,
+    "delta_C80": -0.045096675267812136
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P7",
+    "semilla": 20261020,
+    "delta_D50_pp": -3.5415687305133545,
+    "delta_C80": -0.3743707699058183
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P7",
+    "semilla": 20261021,
+    "delta_D50_pp": -3.4618806097795414,
+    "delta_C80": -0.2083129018660812
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P6",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.9481685327209419,
+    "delta_C80": 0.16344438783639959
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P6",
+    "semilla": 20261020,
+    "delta_D50_pp": -3.436192153472632,
+    "delta_C80": -0.2533002318014912
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P6",
+    "semilla": 20261021,
+    "delta_D50_pp": -3.1910365794961493,
+    "delta_C80": -0.682602213274234
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P5",
+    "semilla": 20261019,
+    "delta_D50_pp": -4.4192427374720396,
+    "delta_C80": -0.9038703397124266
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P5",
+    "semilla": 20261020,
+    "delta_D50_pp": -2.973127440464175,
+    "delta_C80": -1.018895192363924
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P5",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.2589629886945417,
+    "delta_C80": -0.34708025606072024
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P4",
+    "semilla": 20261019,
+    "delta_D50_pp": -3.7461735082465566,
+    "delta_C80": -1.0198643531855323
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P4",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.5466969276991733,
+    "delta_C80": -0.2540122061963799
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P4",
+    "semilla": 20261021,
+    "delta_D50_pp": -1.0007057026647388,
+    "delta_C80": -0.04267640422817909
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P3",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.7050371744748247,
+    "delta_C80": -0.22507841476044277
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P3",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.5468076818201837,
+    "delta_C80": -0.10988761935775493
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P3",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.9173320668264608,
+    "delta_C80": 0.24709422016892368
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P2",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.1492799630754433,
+    "delta_C80": 0.011804917284111038
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P2",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.48169144672947084,
+    "delta_C80": -0.11136518511509585
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P2",
+    "semilla": 20261021,
+    "delta_D50_pp": -2.763872609256495,
+    "delta_C80": -0.5223258765726979
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P1",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.874047021136299,
+    "delta_C80": -0.04346252503475306
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P1",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.1604811346230335,
+    "delta_C80": 0.23074729721471504
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "P1",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.5106861886608272,
+    "delta_C80": -0.17211650732960576
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V01",
+    "semilla": 20261019,
+    "delta_D50_pp": 3.9614195612940932,
+    "delta_C80": 0.4062062986298591
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V01",
+    "semilla": 20261020,
+    "delta_D50_pp": -1.3240035847234282,
+    "delta_C80": 0.06057395591136128
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V01",
+    "semilla": 20261021,
+    "delta_D50_pp": 3.3484151738539865,
+    "delta_C80": 0.7963285334403513
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V02",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.02129102270787797,
+    "delta_C80": -0.02050179789266826
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V02",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.5366196553429106,
+    "delta_C80": 0.2782389913432496
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V02",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.5125831413390998,
+    "delta_C80": 0.30016171840303607
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V03",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.5493806013108795,
+    "delta_C80": 0.37946156712443324
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V03",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.251857044837017,
+    "delta_C80": 0.16990447667651742
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V03",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.1906265955824793,
+    "delta_C80": 0.3309319909104005
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V04",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.526579379238136,
+    "delta_C80": 0.424743532064566
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V04",
+    "semilla": 20261020,
+    "delta_D50_pp": 3.7275938964030857,
+    "delta_C80": 0.6736963426334084
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V04",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.749695951295955,
+    "delta_C80": 0.4934225593315372
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V05",
+    "semilla": 20261019,
+    "delta_D50_pp": 3.946803031049555,
+    "delta_C80": 0.28573019369257335
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V05",
+    "semilla": 20261020,
+    "delta_D50_pp": 6.447944291561797,
+    "delta_C80": 1.1727145183490975
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V05",
+    "semilla": 20261021,
+    "delta_D50_pp": 3.1646125919704886,
+    "delta_C80": 0.1748548945572881
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V06",
+    "semilla": 20261019,
+    "delta_D50_pp": 5.33902790634324,
+    "delta_C80": 0.6271364934710268
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V06",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.6857413579857763,
+    "delta_C80": -0.02291231361721513
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V06",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.1819343139155052,
+    "delta_C80": 0.3211337554049585
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V07",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.567542764627561,
+    "delta_C80": 0.148671385087205
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V07",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.4100508759416002,
+    "delta_C80": -0.03164969651347849
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V07",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.5666176777605187,
+    "delta_C80": -0.15480696459568577
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V08",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.304413413864168,
+    "delta_C80": 0.7033134065077461
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V08",
+    "semilla": 20261020,
+    "delta_D50_pp": -1.2600538375323644,
+    "delta_C80": 0.18969932940883005
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V08",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.9700095181594932,
+    "delta_C80": 0.40369438726541973
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V09",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.0685004863136953,
+    "delta_C80": -0.38815340835963563
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V09",
+    "semilla": 20261020,
+    "delta_D50_pp": 3.3987927042166035,
+    "delta_C80": 0.47679484077261014
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V09",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.3232952216447487,
+    "delta_C80": 0.21170030278194307
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V10",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.017208880533296,
+    "delta_C80": 0.24784060702758348
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V10",
+    "semilla": 20261020,
+    "delta_D50_pp": -1.1602984978459219,
+    "delta_C80": -0.32680537319660796
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V10",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.06667629139334963,
+    "delta_C80": 0.11492850480067118
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V11",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.20215549043408032,
+    "delta_C80": -0.07895850471978916
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V11",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.8742735577483032,
+    "delta_C80": 0.3002628228672872
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V11",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.881861147332117,
+    "delta_C80": 0.6061942798688292
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V12",
+    "semilla": 20261019,
+    "delta_D50_pp": 3.875121503855098,
+    "delta_C80": 0.23787671651084508
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V12",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.3576264486589409,
+    "delta_C80": -0.3012136572411297
+  },
+  {
+    "variante": "superior_completa_a060",
+    "fuente": "F2",
+    "receptor": "V12",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.456843466698949,
+    "delta_C80": 0.48690941646712815
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P9",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.4249965293072151,
+    "delta_C80": 0.3771365203397654
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P9",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.0399352603898535,
+    "delta_C80": 0.17572230602697392
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P9",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.9047642169031747,
+    "delta_C80": 0.4104722476129723
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P8",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.773724552922836,
+    "delta_C80": 0.4401153014543786
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P8",
+    "semilla": 20261020,
+    "delta_D50_pp": 4.709028473725063,
+    "delta_C80": 0.8853666559581403
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P8",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.858873154452887,
+    "delta_C80": 0.335497343565724
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P7",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.1974230240117478,
+    "delta_C80": -0.24678494935987805
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P7",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.2467874765494713,
+    "delta_C80": 0.07504206431414373
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P7",
+    "semilla": 20261021,
+    "delta_D50_pp": -5.400418559718169,
+    "delta_C80": -0.5634768383099662
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P6",
+    "semilla": 20261019,
+    "delta_D50_pp": 6.051743700222076,
+    "delta_C80": 0.9068079581556989
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P6",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.7676308570064805,
+    "delta_C80": -0.046505763450887194
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P6",
+    "semilla": 20261021,
+    "delta_D50_pp": -3.757032569637026,
+    "delta_C80": -0.5361288192466107
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P5",
+    "semilla": 20261019,
+    "delta_D50_pp": 3.954442966186697,
+    "delta_C80": 0.6046847289512458
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P5",
+    "semilla": 20261020,
+    "delta_D50_pp": -2.2839841406988626,
+    "delta_C80": -0.18444975039480838
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P5",
+    "semilla": 20261021,
+    "delta_D50_pp": 3.4398706752829753,
+    "delta_C80": 0.18545899537368582
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P4",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.8496766469456389,
+    "delta_C80": -0.14025036670492574
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P4",
+    "semilla": 20261020,
+    "delta_D50_pp": -2.015372520940929,
+    "delta_C80": -0.5228378755269405
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P4",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.2658057486028724,
+    "delta_C80": -0.49661163390396434
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P3",
+    "semilla": 20261019,
+    "delta_D50_pp": -5.02927293568311,
+    "delta_C80": -0.8328003925589957
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P3",
+    "semilla": 20261020,
+    "delta_D50_pp": 4.392665088291068,
+    "delta_C80": 0.45709109152767047
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P3",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.2517691365352377,
+    "delta_C80": -0.48737610573993706
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P2",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.3242752465339365,
+    "delta_C80": 0.20123102000920423
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P2",
+    "semilla": 20261020,
+    "delta_D50_pp": -1.0422134526079674,
+    "delta_C80": -0.2500305488878565
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P2",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.14104618105658062,
+    "delta_C80": 0.197949221805098
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P1",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.339200041380863,
+    "delta_C80": 0.4218524976203514
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P1",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.07196912815924605,
+    "delta_C80": -0.3149165914050325
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "P1",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.7235094354525202,
+    "delta_C80": 0.04546931106504948
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V01",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.9959874960825417,
+    "delta_C80": 0.13720075276375066
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V01",
+    "semilla": 20261020,
+    "delta_D50_pp": 3.1494264449076326,
+    "delta_C80": 0.44160630570655013
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V01",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.652436472224558,
+    "delta_C80": 0.46822488242854354
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V02",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.6547455786297078,
+    "delta_C80": 0.34005288626302077
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V02",
+    "semilla": 20261020,
+    "delta_D50_pp": 4.507775844246005,
+    "delta_C80": 0.9532413575171035
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V02",
+    "semilla": 20261021,
+    "delta_D50_pp": 3.9768057946786683,
+    "delta_C80": 0.7226525508436419
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V03",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.3324108325157695,
+    "delta_C80": 0.43136776382435293
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V03",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.9770363913351048,
+    "delta_C80": 0.4255121288993382
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V03",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.8731038625217096,
+    "delta_C80": 0.2254582189664447
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V04",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.4762705841233696,
+    "delta_C80": 0.09429680612733882
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V04",
+    "semilla": 20261020,
+    "delta_D50_pp": 4.812226427173094,
+    "delta_C80": 1.0045488657965516
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V04",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.43800142410687926,
+    "delta_C80": -0.17278456055300406
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V05",
+    "semilla": 20261019,
+    "delta_D50_pp": 3.3581708926103886,
+    "delta_C80": 0.434111581760229
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V05",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.759514001193864,
+    "delta_C80": 0.6409907611555918
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V05",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.6232980162874497,
+    "delta_C80": 0.3743035269278143
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V06",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.3213722279605093,
+    "delta_C80": 0.356167351900484
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V06",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.6158976124476325,
+    "delta_C80": 0.24052546670896424
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V06",
+    "semilla": 20261021,
+    "delta_D50_pp": 5.560154744732522,
+    "delta_C80": 0.5222804427882228
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V07",
+    "semilla": 20261019,
+    "delta_D50_pp": 3.7437541241977144,
+    "delta_C80": 0.591710427005168
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V07",
+    "semilla": 20261020,
+    "delta_D50_pp": 5.9424203343559725,
+    "delta_C80": 0.7600609898393632
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V07",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.555706688000214,
+    "delta_C80": 0.15359826850846114
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V08",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.3096429183786285,
+    "delta_C80": 0.733590908518357
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V08",
+    "semilla": 20261020,
+    "delta_D50_pp": 4.904547284277051,
+    "delta_C80": 0.5303872942491605
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V08",
+    "semilla": 20261021,
+    "delta_D50_pp": 5.338956828367884,
+    "delta_C80": 0.8547867751512255
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V09",
+    "semilla": 20261019,
+    "delta_D50_pp": 8.267977598103577,
+    "delta_C80": 0.6719157767827233
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V09",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.566194056640107,
+    "delta_C80": 0.4642927807590165
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V09",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.2641031067891646,
+    "delta_C80": 0.41646948020965713
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V10",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.8290144555105456,
+    "delta_C80": 0.2381770065280504
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V10",
+    "semilla": 20261020,
+    "delta_D50_pp": -2.7690035126710697,
+    "delta_C80": -0.3008793695380433
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V10",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.8647052858139688,
+    "delta_C80": 0.4234285297415825
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V11",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.7867039492782126,
+    "delta_C80": -0.09706602255044605
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V11",
+    "semilla": 20261020,
+    "delta_D50_pp": 4.9206249828678565,
+    "delta_C80": 0.6095786623623684
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V11",
+    "semilla": 20261021,
+    "delta_D50_pp": -2.1752773370201695,
+    "delta_C80": -0.3713424053332033
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V12",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.8665532995113452,
+    "delta_C80": -0.22172449996814358
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V12",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.5777928348583572,
+    "delta_C80": 0.0017897593991511584
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F1",
+    "receptor": "V12",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.4783133582400083,
+    "delta_C80": -0.281454523480718
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P9",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.8727785868892042,
+    "delta_C80": 0.6819722341846937
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P9",
+    "semilla": 20261020,
+    "delta_D50_pp": 5.474126738311021,
+    "delta_C80": 0.7758619416286106
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P9",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.747522852193022,
+    "delta_C80": 0.20747675738807347
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P8",
+    "semilla": 20261019,
+    "delta_D50_pp": 5.670350327672558,
+    "delta_C80": 1.076914777521939
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P8",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.982219961797739,
+    "delta_C80": 0.4301612539044557
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P8",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.739473527269787,
+    "delta_C80": 0.24020128321945466
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P7",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.9110512104297541,
+    "delta_C80": -0.3345098227440363
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P7",
+    "semilla": 20261020,
+    "delta_D50_pp": -3.5694842828909117,
+    "delta_C80": -0.24889617000885866
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P7",
+    "semilla": 20261021,
+    "delta_D50_pp": -5.77953748493087,
+    "delta_C80": -0.1694110804802409
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P6",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.4349531633138852,
+    "delta_C80": -0.19173888802027417
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P6",
+    "semilla": 20261020,
+    "delta_D50_pp": -5.030873016756978,
+    "delta_C80": -0.601838418372477
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P6",
+    "semilla": 20261021,
+    "delta_D50_pp": -5.590332024260562,
+    "delta_C80": -1.0262352351006574
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P5",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.4854819775899557,
+    "delta_C80": -0.27221617039518975
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P5",
+    "semilla": 20261020,
+    "delta_D50_pp": -3.953071228900889,
+    "delta_C80": -0.46805376372457985
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P5",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.27503075909037733,
+    "delta_C80": 0.4374464211233935
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P4",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.43367397294633747,
+    "delta_C80": -0.3964683048603894
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P4",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.1225598199308138,
+    "delta_C80": -0.12590049453968022
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P4",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.28217523270368616,
+    "delta_C80": -0.18279861290161303
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P3",
+    "semilla": 20261019,
+    "delta_D50_pp": -4.189060691657161,
+    "delta_C80": -0.7283098999131981
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P3",
+    "semilla": 20261020,
+    "delta_D50_pp": 3.89322101856267,
+    "delta_C80": 0.6284254907446565
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P3",
+    "semilla": 20261021,
+    "delta_D50_pp": -1.473899970593699,
+    "delta_C80": 0.30567327478834017
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P2",
+    "semilla": 20261019,
+    "delta_D50_pp": -2.7910269115423887,
+    "delta_C80": -0.35260792338202496
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P2",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.2690552728310962,
+    "delta_C80": -0.17925152792425747
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P2",
+    "semilla": 20261021,
+    "delta_D50_pp": -3.2628287966978675,
+    "delta_C80": -0.45746186797752175
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P1",
+    "semilla": 20261019,
+    "delta_D50_pp": 3.4800396206913504,
+    "delta_C80": 0.23763781692730718
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P1",
+    "semilla": 20261020,
+    "delta_D50_pp": -1.890336321630535,
+    "delta_C80": 0.05676587341582118
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "P1",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.9090179422834908,
+    "delta_C80": -0.2838038160279164
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V01",
+    "semilla": 20261019,
+    "delta_D50_pp": 6.808620197774225,
+    "delta_C80": 1.0866365143150538
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V01",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.13950515763174565,
+    "delta_C80": 0.253970441173747
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V01",
+    "semilla": 20261021,
+    "delta_D50_pp": 6.6153278462942,
+    "delta_C80": 1.4841838413014075
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V02",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.793084324649165,
+    "delta_C80": 0.6285186727480379
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V02",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.09410798185833613,
+    "delta_C80": -0.09837538643542054
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V02",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.7792692867525517,
+    "delta_C80": 0.45537567399598233
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V03",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.91030208241785,
+    "delta_C80": 0.4367520000827625
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V03",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.7275800127382013,
+    "delta_C80": 0.08659075508407943
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V03",
+    "semilla": 20261021,
+    "delta_D50_pp": 4.150378810046234,
+    "delta_C80": 0.5995103258089702
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V04",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.8623733745604412,
+    "delta_C80": 0.48389769923076303
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V04",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.4361897334496945,
+    "delta_C80": 1.076292570847853
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V04",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.4910120377822196,
+    "delta_C80": 0.6180108014683882
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V05",
+    "semilla": 20261019,
+    "delta_D50_pp": 4.724306034485728,
+    "delta_C80": 0.6261376015857552
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V05",
+    "semilla": 20261020,
+    "delta_D50_pp": 4.328409758904094,
+    "delta_C80": 0.47776316546107866
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V05",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.1292904924573293,
+    "delta_C80": 0.20833209019829635
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V06",
+    "semilla": 20261019,
+    "delta_D50_pp": 5.2381883490791665,
+    "delta_C80": 0.8678207908764597
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V06",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.0042527674923605,
+    "delta_C80": 0.20246904116439945
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V06",
+    "semilla": 20261021,
+    "delta_D50_pp": 4.61696791770521,
+    "delta_C80": 0.7776760749402862
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V07",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.946610205765822,
+    "delta_C80": 0.25697495539384674
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V07",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.062276080133742084,
+    "delta_C80": -0.1417349396194123
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V07",
+    "semilla": 20261021,
+    "delta_D50_pp": 5.135696220959829,
+    "delta_C80": 0.7955388756671176
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V08",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.7387667683218808,
+    "delta_C80": 0.574370844101964
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V08",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.2381844190791647,
+    "delta_C80": 0.12509260332320826
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V08",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.685532013068439,
+    "delta_C80": 0.34587799359679205
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V09",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.5081965833027553,
+    "delta_C80": -0.046144725101903816
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V09",
+    "semilla": 20261020,
+    "delta_D50_pp": 3.521952607829654,
+    "delta_C80": 0.6089952876760867
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V09",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.1682372324566828,
+    "delta_C80": 0.3164539842359799
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V10",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.31050726080336233,
+    "delta_C80": -0.0257464411188415
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V10",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.1345643430951426,
+    "delta_C80": -0.16654420802127756
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V10",
+    "semilla": 20261021,
+    "delta_D50_pp": 3.780749386301771,
+    "delta_C80": 0.017076173801455985
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V11",
+    "semilla": 20261019,
+    "delta_D50_pp": 4.146940607717255,
+    "delta_C80": 0.36746147866588097
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V11",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.4409542930939594,
+    "delta_C80": 0.13561718094924613
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V11",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.5524158016167178,
+    "delta_C80": 1.0064874445530694
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V12",
+    "semilla": 20261019,
+    "delta_D50_pp": 5.987625174317223,
+    "delta_C80": 0.7654765146508484
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V12",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.0730760923717853,
+    "delta_C80": 0.1103349315381641
+  },
+  {
+    "variante": "superior_completa_a080",
+    "fuente": "F2",
+    "receptor": "V12",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.6374003784019777,
+    "delta_C80": 0.416803922525361
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P9",
+    "semilla": 20261019,
+    "delta_D50_pp": -3.5784463877815895,
+    "delta_C80": -0.3632666993642333
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P9",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.3052079134762806,
+    "delta_C80": 0.2673827223481351
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P9",
+    "semilla": 20261021,
+    "delta_D50_pp": -1.3164553902285974,
+    "delta_C80": -0.4646231703868917
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P8",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.7181098963363652,
+    "delta_C80": -0.13582020264837436
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P8",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.5260361278741996,
+    "delta_C80": 0.5095192990261574
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P8",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.0918567338393004,
+    "delta_C80": 0.014418939995110236
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P7",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.8097011187583973,
+    "delta_C80": -0.1600886991585322
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P7",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.8532617695493343,
+    "delta_C80": 0.10706383149148302
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P7",
+    "semilla": 20261021,
+    "delta_D50_pp": -1.3673251473996189,
+    "delta_C80": 0.0968133937120792
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P6",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.1293665489329925,
+    "delta_C80": 0.4741360150376619
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P6",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.10315873615898852,
+    "delta_C80": -0.34240089149944497
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P6",
+    "semilla": 20261021,
+    "delta_D50_pp": -1.2591270593081774,
+    "delta_C80": -0.36265235622520553
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P5",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.8478680981904887,
+    "delta_C80": 0.39213302040114106
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P5",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.5183955144944647,
+    "delta_C80": -0.07457483232515427
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P5",
+    "semilla": 20261021,
+    "delta_D50_pp": 3.916229386487153,
+    "delta_C80": 0.6603065580217446
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P4",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.01758901921797218,
+    "delta_C80": 0.007466227218537735
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P4",
+    "semilla": 20261020,
+    "delta_D50_pp": -1.1006696212465954,
+    "delta_C80": -0.20657217174274223
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P4",
+    "semilla": 20261021,
+    "delta_D50_pp": -3.768159603082246,
+    "delta_C80": -0.8859992206760792
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P3",
+    "semilla": 20261019,
+    "delta_D50_pp": -3.015518748128663,
+    "delta_C80": -0.45076020849698484
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P3",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.6610282227846085,
+    "delta_C80": 0.15872155829995216
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P3",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.6264914079683948,
+    "delta_C80": -0.010923577744977653
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P2",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.7075645974579601,
+    "delta_C80": -0.05880187545645632
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P2",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.05776470730909722,
+    "delta_C80": -0.32468782494927373
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P2",
+    "semilla": 20261021,
+    "delta_D50_pp": -1.5288477711278503,
+    "delta_C80": -0.1075977642119188
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P1",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.5396580119651375,
+    "delta_C80": -0.09341925317093314
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P1",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.4388030999118655,
+    "delta_C80": 0.028885467230558515
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "P1",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.7947495157116435,
+    "delta_C80": -0.1452287265396075
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V01",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.5362038591090794,
+    "delta_C80": -0.041127479299582825
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V01",
+    "semilla": 20261020,
+    "delta_D50_pp": -1.4889467222505957,
+    "delta_C80": -0.04539014401758201
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V01",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.2092389596383697,
+    "delta_C80": 0.08306346910176954
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V02",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.5028370479254676,
+    "delta_C80": 0.16883741833317556
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V02",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.424468468877002,
+    "delta_C80": 0.524352370351926
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V02",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.4892634953938071,
+    "delta_C80": 0.0216766518484508
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V03",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.1595880047015541,
+    "delta_C80": 0.28621333546786354
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V03",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.6247431740078042,
+    "delta_C80": 0.29342201239074917
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V03",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.723458476504014,
+    "delta_C80": 0.1285012461159296
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V04",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.4897224540156984,
+    "delta_C80": -0.4326148890394761
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V04",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.13843457000444204,
+    "delta_C80": -0.124452601450328
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V04",
+    "semilla": 20261021,
+    "delta_D50_pp": -2.1440596890287225,
+    "delta_C80": -0.36816336638298175
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V05",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.7209425611444402,
+    "delta_C80": 0.12163559114987255
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V05",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.4193797411165008,
+    "delta_C80": 0.04503365624125233
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V05",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.4034647012485948,
+    "delta_C80": 0.03836532370466883
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V06",
+    "semilla": 20261019,
+    "delta_D50_pp": -3.0562437337089534,
+    "delta_C80": -0.1127572082267716
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V06",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.07413285871842135,
+    "delta_C80": 0.040755248584507964
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V06",
+    "semilla": 20261021,
+    "delta_D50_pp": 4.153021708627357,
+    "delta_C80": 0.45348749008427025
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V07",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.7452266740643978,
+    "delta_C80": 0.5040563846263905
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V07",
+    "semilla": 20261020,
+    "delta_D50_pp": -1.5279789577598208,
+    "delta_C80": -0.14312354606222522
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V07",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.4022751207476176,
+    "delta_C80": -0.15278639786144788
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V08",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.1696596668262842,
+    "delta_C80": -0.10851183564433797
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V08",
+    "semilla": 20261020,
+    "delta_D50_pp": 3.8396067567697827,
+    "delta_C80": 0.5609734086642704
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V08",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.273385595965067,
+    "delta_C80": 0.3193232763489955
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V09",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.5427715173822776,
+    "delta_C80": 0.45762306661531316
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V09",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.2606971186674585,
+    "delta_C80": 0.14637564073492948
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V09",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.04321143347045364,
+    "delta_C80": 0.05376414876535751
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V10",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.10942492227325573,
+    "delta_C80": -0.27823589872857823
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V10",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.1583185646526886,
+    "delta_C80": 0.029265049269415755
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V10",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.4108215986484396,
+    "delta_C80": 0.27823234900514215
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V11",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.9356544214222424,
+    "delta_C80": 0.15724370933798393
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V11",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.9401985626107958,
+    "delta_C80": 0.25693615606108666
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V11",
+    "semilla": 20261021,
+    "delta_D50_pp": -2.5087155982326266,
+    "delta_C80": -0.15627741295225728
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V12",
+    "semilla": 20261019,
+    "delta_D50_pp": -2.6704911862650036,
+    "delta_C80": -0.08161640929906788
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V12",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.960054721720553,
+    "delta_C80": 0.3144744064052789
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F1",
+    "receptor": "V12",
+    "semilla": 20261021,
+    "delta_D50_pp": -1.526533704302139,
+    "delta_C80": -0.16693493399894765
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P9",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.24912974843483937,
+    "delta_C80": 0.2701360980158413
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P9",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.652012548878929,
+    "delta_C80": 0.39584549044184864
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P9",
+    "semilla": 20261021,
+    "delta_D50_pp": -3.1180165804425144,
+    "delta_C80": -0.5026432633852957
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P8",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.6928126702558473,
+    "delta_C80": 0.4099618200840782
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P8",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.9421492840408874,
+    "delta_C80": -0.08455394957737483
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P8",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.7410974464844386,
+    "delta_C80": 0.01843408101795596
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P7",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.7841798691162012,
+    "delta_C80": -0.13254537420556445
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P7",
+    "semilla": 20261020,
+    "delta_D50_pp": -1.6040225440551197,
+    "delta_C80": 0.0014020102001516266
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P7",
+    "semilla": 20261021,
+    "delta_D50_pp": -3.080042667010879,
+    "delta_C80": -0.3808529164729767
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P6",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.058600831993786,
+    "delta_C80": 0.1254802100720891
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P6",
+    "semilla": 20261020,
+    "delta_D50_pp": -4.594286029744175,
+    "delta_C80": -0.7804786753702406
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P6",
+    "semilla": 20261021,
+    "delta_D50_pp": -2.3755215539377375,
+    "delta_C80": -0.5031634367050466
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P5",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.5308527411854413,
+    "delta_C80": -0.8688639110240084
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P5",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.4667979245475209,
+    "delta_C80": 0.013798361824181704
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P5",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.12404497488962818,
+    "delta_C80": 0.014053572926865598
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P4",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.1694409925832403,
+    "delta_C80": -0.1722424033713672
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P4",
+    "semilla": 20261020,
+    "delta_D50_pp": -1.3092411721638513,
+    "delta_C80": -0.45181862127157746
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P4",
+    "semilla": 20261021,
+    "delta_D50_pp": -2.021657950709212,
+    "delta_C80": -0.13859367510344467
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P3",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.989791973388499,
+    "delta_C80": -0.11573856320791709
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P3",
+    "semilla": 20261020,
+    "delta_D50_pp": 5.335955121436086,
+    "delta_C80": 0.8982943366851197
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P3",
+    "semilla": 20261021,
+    "delta_D50_pp": 5.37535328201254,
+    "delta_C80": 0.7602719926830495
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P2",
+    "semilla": 20261019,
+    "delta_D50_pp": -2.7161401592194565,
+    "delta_C80": -0.3271140228885958
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P2",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.35869232177132204,
+    "delta_C80": -0.1735973497681007
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P2",
+    "semilla": 20261021,
+    "delta_D50_pp": -2.626208038481913,
+    "delta_C80": -0.5598373455836105
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P1",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.6833080960781857,
+    "delta_C80": 0.35981044982861277
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P1",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.27645134307354624,
+    "delta_C80": 0.16623909598612763
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "P1",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.4313171096236772,
+    "delta_C80": -0.47161716020332206
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V01",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.577930802893256,
+    "delta_C80": 0.10151810049297832
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V01",
+    "semilla": 20261020,
+    "delta_D50_pp": -4.203649840076068,
+    "delta_C80": -0.48225445625312346
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V01",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.9330504917610511,
+    "delta_C80": -0.022402575084110476
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V02",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.251560390058181,
+    "delta_C80": 0.271901679269862
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V02",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.41656396142349905,
+    "delta_C80": 0.08826232145477675
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V02",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.8793953400732875,
+    "delta_C80": 0.04680849892515848
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V03",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.4318266836491134,
+    "delta_C80": -0.21771518382471922
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V03",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.17887705835514112,
+    "delta_C80": 0.19104095279057343
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V03",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.07902524064515148,
+    "delta_C80": 0.012285962449212207
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V04",
+    "semilla": 20261019,
+    "delta_D50_pp": -0.26862262221975186,
+    "delta_C80": 0.09529327599679793
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V04",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.49952967078934307,
+    "delta_C80": 0.4960063118718298
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V04",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.1393478850730219,
+    "delta_C80": 0.2458638726214295
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V05",
+    "semilla": 20261019,
+    "delta_D50_pp": 3.1905722045850595,
+    "delta_C80": 0.7917475035649075
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V05",
+    "semilla": 20261020,
+    "delta_D50_pp": 2.0494512259700883,
+    "delta_C80": 0.614382372696851
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V05",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.479824488120144,
+    "delta_C80": 0.24915645120440888
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V06",
+    "semilla": 20261019,
+    "delta_D50_pp": 2.220798676849242,
+    "delta_C80": 0.44634969093630805
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V06",
+    "semilla": 20261020,
+    "delta_D50_pp": -1.6951504567573892,
+    "delta_C80": 0.03835278277882659
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V06",
+    "semilla": 20261021,
+    "delta_D50_pp": -0.44342703055033894,
+    "delta_C80": 0.15866642329758962
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V07",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.34365365229329825,
+    "delta_C80": 0.013868645506878163
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V07",
+    "semilla": 20261020,
+    "delta_D50_pp": -0.0987274738099373,
+    "delta_C80": -0.19194186070074726
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V07",
+    "semilla": 20261021,
+    "delta_D50_pp": 3.745655125319786,
+    "delta_C80": 0.48197442186241624
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V08",
+    "semilla": 20261019,
+    "delta_D50_pp": 3.427415055466934,
+    "delta_C80": 0.4344363250266153
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V08",
+    "semilla": 20261020,
+    "delta_D50_pp": -1.0448418143015061,
+    "delta_C80": -0.05634486637525826
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V08",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.818313021592914,
+    "delta_C80": 0.3091704097140507
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V09",
+    "semilla": 20261019,
+    "delta_D50_pp": -1.9345352309833714,
+    "delta_C80": -0.4519028114028403
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V09",
+    "semilla": 20261020,
+    "delta_D50_pp": 5.021533449381664,
+    "delta_C80": 0.8281237782144675
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V09",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.1500030070048126,
+    "delta_C80": 0.35221441805792164
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V10",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.1453812380591515,
+    "delta_C80": 0.3159763047495582
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V10",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.8104477750760495,
+    "delta_C80": 0.017829852864216233
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V10",
+    "semilla": 20261021,
+    "delta_D50_pp": 1.30341161077709,
+    "delta_C80": 0.0047565417508735885
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V11",
+    "semilla": 20261019,
+    "delta_D50_pp": 1.593441990166859,
+    "delta_C80": -0.08278701145523648
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V11",
+    "semilla": 20261020,
+    "delta_D50_pp": 1.0811120003072858,
+    "delta_C80": 0.32695115613278536
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V11",
+    "semilla": 20261021,
+    "delta_D50_pp": 2.345790262648876,
+    "delta_C80": 0.5068188112813684
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V12",
+    "semilla": 20261019,
+    "delta_D50_pp": 0.42267845028851525,
+    "delta_C80": 0.1852869788732645
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V12",
+    "semilla": 20261020,
+    "delta_D50_pp": 0.4856247315566051,
+    "delta_C80": -0.3715401973901753
+  },
+  {
+    "variante": "media_centro_a060",
+    "fuente": "F2",
+    "receptor": "V12",
+    "semilla": 20261021,
+    "delta_D50_pp": 0.6582104068307473,
+    "delta_C80": 0.024799153179775768
+  }
+]

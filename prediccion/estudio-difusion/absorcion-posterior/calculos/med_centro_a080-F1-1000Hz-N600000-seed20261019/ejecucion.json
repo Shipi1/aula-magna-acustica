@@ -1,0 +1,14 @@
+{
+  "variante": "med_centro_a080",
+  "fuente": "F1",
+  "frecuencia": 1000,
+  "N": 600000,
+  "semilla": 20261019,
+  "area_m2": 9.599999999999996,
+  "alpha_final": 0.8,
+  "segundos": 210.05982327461243,
+  "fraccion_perdidas": 0.00013833333333333333,
+  "config_sha256": "c121a2fc8d33548c855bc697dc72116117fcedb04439abef5a9b28231685667d",
+  "malla_sha256": "fc58e6a93837d890b106d699d6db9bbce93588f4cf389d29bdb0224106e11a5f",
+  "tetra_sha256": "670756fffa86ac1ec08a120eeeefa4de649ff7d9430ecc84a718a6ccc178874e"
+}

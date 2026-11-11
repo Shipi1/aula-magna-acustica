@@ -1,0 +1,1282 @@
+[
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 107,
+    "frecuencia": 63,
+    "absorcion": 0.0130000002682209,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 107,
+    "frecuencia": 125,
+    "absorcion": 0.0130000002682209,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 107,
+    "frecuencia": 250,
+    "absorcion": 0.0149999996647239,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 107,
+    "frecuencia": 500,
+    "absorcion": 0.0199999995529652,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 107,
+    "frecuencia": 1000,
+    "absorcion": 0.0299999993294477,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 107,
+    "frecuencia": 2000,
+    "absorcion": 0.0399999991059303,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 107,
+    "frecuencia": 4000,
+    "absorcion": 0.0500000007450581,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 107,
+    "frecuencia": 8000,
+    "absorcion": 0.0500000007450581,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 108,
+    "frecuencia": 63,
+    "absorcion": 0.0130000002682209,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 108,
+    "frecuencia": 125,
+    "absorcion": 0.0130000002682209,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 108,
+    "frecuencia": 250,
+    "absorcion": 0.0149999996647239,
+    "dispersion": 0.100000001490116,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 108,
+    "frecuencia": 500,
+    "absorcion": 0.0199999995529652,
+    "dispersion": 0.150000005960464,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 108,
+    "frecuencia": 1000,
+    "absorcion": 0.0299999993294477,
+    "dispersion": 0.200000002980232,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 108,
+    "frecuencia": 2000,
+    "absorcion": 0.0399999991059303,
+    "dispersion": 0.25,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 108,
+    "frecuencia": 4000,
+    "absorcion": 0.0500000007450581,
+    "dispersion": 0.300000011920929,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 108,
+    "frecuencia": 8000,
+    "absorcion": 0.0500000007450581,
+    "dispersion": 0.300000011920929,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 109,
+    "frecuencia": 63,
+    "absorcion": 0.0130000002682209,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 109,
+    "frecuencia": 125,
+    "absorcion": 0.0130000002682209,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 109,
+    "frecuencia": 250,
+    "absorcion": 0.0149999996647239,
+    "dispersion": 0.100000001490116,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 109,
+    "frecuencia": 500,
+    "absorcion": 0.0199999995529652,
+    "dispersion": 0.150000005960464,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 109,
+    "frecuencia": 1000,
+    "absorcion": 0.0299999993294477,
+    "dispersion": 0.200000002980232,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 109,
+    "frecuencia": 2000,
+    "absorcion": 0.0399999991059303,
+    "dispersion": 0.25,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 109,
+    "frecuencia": 4000,
+    "absorcion": 0.0500000007450581,
+    "dispersion": 0.300000011920929,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 109,
+    "frecuencia": 8000,
+    "absorcion": 0.0500000007450581,
+    "dispersion": 0.300000011920929,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 110,
+    "frecuencia": 63,
+    "absorcion": 0.0399999991059303,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 110,
+    "frecuencia": 125,
+    "absorcion": 0.0399999991059303,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 110,
+    "frecuencia": 250,
+    "absorcion": 0.0399999991059303,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 110,
+    "frecuencia": 500,
+    "absorcion": 0.0700000002980232,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 110,
+    "frecuencia": 1000,
+    "absorcion": 0.0599999986588955,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 110,
+    "frecuencia": 2000,
+    "absorcion": 0.0599999986588955,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 110,
+    "frecuencia": 4000,
+    "absorcion": 0.0700000002980232,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 110,
+    "frecuencia": 8000,
+    "absorcion": 0.0700000002980232,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 111,
+    "frecuencia": 63,
+    "absorcion": 0.150000005960464,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 111,
+    "frecuencia": 125,
+    "absorcion": 0.150000005960464,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 111,
+    "frecuencia": 250,
+    "absorcion": 0.109999999403954,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 111,
+    "frecuencia": 500,
+    "absorcion": 0.100000001490116,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 111,
+    "frecuencia": 1000,
+    "absorcion": 0.0700000002980232,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 111,
+    "frecuencia": 2000,
+    "absorcion": 0.0599999986588955,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 111,
+    "frecuencia": 4000,
+    "absorcion": 0.0700000002980232,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 111,
+    "frecuencia": 8000,
+    "absorcion": 0.0700000002980232,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 112,
+    "frecuencia": 63,
+    "absorcion": 0.0199999995529652,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 112,
+    "frecuencia": 125,
+    "absorcion": 0.0199999995529652,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 112,
+    "frecuencia": 250,
+    "absorcion": 0.0599999986588955,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 112,
+    "frecuencia": 500,
+    "absorcion": 0.140000000596046,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 112,
+    "frecuencia": 1000,
+    "absorcion": 0.370000004768372,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 112,
+    "frecuencia": 2000,
+    "absorcion": 0.600000023841858,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 112,
+    "frecuencia": 4000,
+    "absorcion": 0.649999976158142,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 112,
+    "frecuencia": 8000,
+    "absorcion": 0.649999976158142,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 113,
+    "frecuencia": 63,
+    "absorcion": 0.439999997615814,
+    "dispersion": 0.400000005960464,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 113,
+    "frecuencia": 125,
+    "absorcion": 0.439999997615814,
+    "dispersion": 0.400000005960464,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 113,
+    "frecuencia": 250,
+    "absorcion": 0.540000021457672,
+    "dispersion": 0.449999988079071,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 113,
+    "frecuencia": 500,
+    "absorcion": 0.600000023841858,
+    "dispersion": 0.5,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 113,
+    "frecuencia": 1000,
+    "absorcion": 0.620000004768372,
+    "dispersion": 0.550000011920929,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 113,
+    "frecuencia": 2000,
+    "absorcion": 0.579999983310699,
+    "dispersion": 0.600000023841858,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 113,
+    "frecuencia": 4000,
+    "absorcion": 0.5,
+    "dispersion": 0.649999976158142,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 113,
+    "frecuencia": 8000,
+    "absorcion": 0.5,
+    "dispersion": 0.649999976158142,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 114,
+    "frecuencia": 63,
+    "absorcion": 0.0700000002980232,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 114,
+    "frecuencia": 125,
+    "absorcion": 0.0700000002980232,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 114,
+    "frecuencia": 250,
+    "absorcion": 0.310000002384186,
+    "dispersion": 0.100000001490116,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 114,
+    "frecuencia": 500,
+    "absorcion": 0.490000009536743,
+    "dispersion": 0.150000005960464,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 114,
+    "frecuencia": 1000,
+    "absorcion": 0.75,
+    "dispersion": 0.200000002980232,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 114,
+    "frecuencia": 2000,
+    "absorcion": 0.699999988079071,
+    "dispersion": 0.25,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 114,
+    "frecuencia": 4000,
+    "absorcion": 0.600000023841858,
+    "dispersion": 0.300000011920929,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 114,
+    "frecuencia": 8000,
+    "absorcion": 0.600000023841858,
+    "dispersion": 0.300000011920929,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 115,
+    "frecuencia": 63,
+    "absorcion": 0.23094628455412167,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 115,
+    "frecuencia": 125,
+    "absorcion": 0.23094628455412167,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 115,
+    "frecuencia": 250,
+    "absorcion": 0.6,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 115,
+    "frecuencia": 500,
+    "absorcion": 0.44,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 115,
+    "frecuencia": 1000,
+    "absorcion": 0.24794628455412168,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 115,
+    "frecuencia": 2000,
+    "absorcion": 0.17,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 115,
+    "frecuencia": 4000,
+    "absorcion": 0.11,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "sin_tratamiento",
+    "material_id": 115,
+    "frecuencia": 8000,
+    "absorcion": 0.2679462845541217,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 107,
+    "frecuencia": 63,
+    "absorcion": 0.0130000002682209,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 107,
+    "frecuencia": 125,
+    "absorcion": 0.0130000002682209,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 107,
+    "frecuencia": 250,
+    "absorcion": 0.0149999996647239,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 107,
+    "frecuencia": 500,
+    "absorcion": 0.0199999995529652,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 107,
+    "frecuencia": 1000,
+    "absorcion": 0.0299999993294477,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 107,
+    "frecuencia": 2000,
+    "absorcion": 0.0399999991059303,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 107,
+    "frecuencia": 4000,
+    "absorcion": 0.0500000007450581,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 107,
+    "frecuencia": 8000,
+    "absorcion": 0.0500000007450581,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 108,
+    "frecuencia": 63,
+    "absorcion": 0.0130000002682209,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 108,
+    "frecuencia": 125,
+    "absorcion": 0.0130000002682209,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 108,
+    "frecuencia": 250,
+    "absorcion": 0.0149999996647239,
+    "dispersion": 0.100000001490116,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 108,
+    "frecuencia": 500,
+    "absorcion": 0.0199999995529652,
+    "dispersion": 0.150000005960464,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 108,
+    "frecuencia": 1000,
+    "absorcion": 0.0299999993294477,
+    "dispersion": 0.200000002980232,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 108,
+    "frecuencia": 2000,
+    "absorcion": 0.0399999991059303,
+    "dispersion": 0.25,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 108,
+    "frecuencia": 4000,
+    "absorcion": 0.0500000007450581,
+    "dispersion": 0.300000011920929,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 108,
+    "frecuencia": 8000,
+    "absorcion": 0.0500000007450581,
+    "dispersion": 0.300000011920929,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 109,
+    "frecuencia": 63,
+    "absorcion": 0.0130000002682209,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 109,
+    "frecuencia": 125,
+    "absorcion": 0.0130000002682209,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 109,
+    "frecuencia": 250,
+    "absorcion": 0.0149999996647239,
+    "dispersion": 0.100000001490116,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 109,
+    "frecuencia": 500,
+    "absorcion": 0.0199999995529652,
+    "dispersion": 0.150000005960464,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 109,
+    "frecuencia": 1000,
+    "absorcion": 0.0299999993294477,
+    "dispersion": 0.200000002980232,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 109,
+    "frecuencia": 2000,
+    "absorcion": 0.0399999991059303,
+    "dispersion": 0.25,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 109,
+    "frecuencia": 4000,
+    "absorcion": 0.0500000007450581,
+    "dispersion": 0.300000011920929,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 109,
+    "frecuencia": 8000,
+    "absorcion": 0.0500000007450581,
+    "dispersion": 0.300000011920929,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 110,
+    "frecuencia": 63,
+    "absorcion": 0.0399999991059303,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 110,
+    "frecuencia": 125,
+    "absorcion": 0.0399999991059303,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 110,
+    "frecuencia": 250,
+    "absorcion": 0.0399999991059303,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 110,
+    "frecuencia": 500,
+    "absorcion": 0.0700000002980232,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 110,
+    "frecuencia": 1000,
+    "absorcion": 0.0599999986588955,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 110,
+    "frecuencia": 2000,
+    "absorcion": 0.0599999986588955,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 110,
+    "frecuencia": 4000,
+    "absorcion": 0.0700000002980232,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 110,
+    "frecuencia": 8000,
+    "absorcion": 0.0700000002980232,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 111,
+    "frecuencia": 63,
+    "absorcion": 0.150000005960464,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 111,
+    "frecuencia": 125,
+    "absorcion": 0.150000005960464,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 111,
+    "frecuencia": 250,
+    "absorcion": 0.109999999403954,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 111,
+    "frecuencia": 500,
+    "absorcion": 0.100000001490116,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 111,
+    "frecuencia": 1000,
+    "absorcion": 0.0700000002980232,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 111,
+    "frecuencia": 2000,
+    "absorcion": 0.0599999986588955,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 111,
+    "frecuencia": 4000,
+    "absorcion": 0.0700000002980232,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 111,
+    "frecuencia": 8000,
+    "absorcion": 0.0700000002980232,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 112,
+    "frecuencia": 63,
+    "absorcion": 0.0199999995529652,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 112,
+    "frecuencia": 125,
+    "absorcion": 0.0199999995529652,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 112,
+    "frecuencia": 250,
+    "absorcion": 0.0599999986588955,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 112,
+    "frecuencia": 500,
+    "absorcion": 0.140000000596046,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 112,
+    "frecuencia": 1000,
+    "absorcion": 0.370000004768372,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 112,
+    "frecuencia": 2000,
+    "absorcion": 0.600000023841858,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 112,
+    "frecuencia": 4000,
+    "absorcion": 0.649999976158142,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 112,
+    "frecuencia": 8000,
+    "absorcion": 0.649999976158142,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 113,
+    "frecuencia": 63,
+    "absorcion": 0.439999997615814,
+    "dispersion": 0.400000005960464,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 113,
+    "frecuencia": 125,
+    "absorcion": 0.439999997615814,
+    "dispersion": 0.400000005960464,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 113,
+    "frecuencia": 250,
+    "absorcion": 0.540000021457672,
+    "dispersion": 0.449999988079071,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 113,
+    "frecuencia": 500,
+    "absorcion": 0.600000023841858,
+    "dispersion": 0.5,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 113,
+    "frecuencia": 1000,
+    "absorcion": 0.620000004768372,
+    "dispersion": 0.550000011920929,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 113,
+    "frecuencia": 2000,
+    "absorcion": 0.579999983310699,
+    "dispersion": 0.600000023841858,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 113,
+    "frecuencia": 4000,
+    "absorcion": 0.5,
+    "dispersion": 0.649999976158142,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 113,
+    "frecuencia": 8000,
+    "absorcion": 0.5,
+    "dispersion": 0.649999976158142,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 114,
+    "frecuencia": 63,
+    "absorcion": 0.0700000002980232,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 114,
+    "frecuencia": 125,
+    "absorcion": 0.0700000002980232,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 114,
+    "frecuencia": 250,
+    "absorcion": 0.310000002384186,
+    "dispersion": 0.100000001490116,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 114,
+    "frecuencia": 500,
+    "absorcion": 0.490000009536743,
+    "dispersion": 0.150000005960464,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 114,
+    "frecuencia": 1000,
+    "absorcion": 0.75,
+    "dispersion": 0.200000002980232,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 114,
+    "frecuencia": 2000,
+    "absorcion": 0.699999988079071,
+    "dispersion": 0.25,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 114,
+    "frecuencia": 4000,
+    "absorcion": 0.600000023841858,
+    "dispersion": 0.300000011920929,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 114,
+    "frecuencia": 8000,
+    "absorcion": 0.600000023841858,
+    "dispersion": 0.300000011920929,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 115,
+    "frecuencia": 63,
+    "absorcion": 0.23094628455412167,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 115,
+    "frecuencia": 125,
+    "absorcion": 0.23094628455412167,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 115,
+    "frecuencia": 250,
+    "absorcion": 0.6,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 115,
+    "frecuencia": 500,
+    "absorcion": 0.44,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 115,
+    "frecuencia": 1000,
+    "absorcion": 0.24794628455412168,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 115,
+    "frecuencia": 2000,
+    "absorcion": 0.17,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 115,
+    "frecuencia": 4000,
+    "absorcion": 0.11,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 115,
+    "frecuencia": 8000,
+    "absorcion": 0.2679462845541217,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 201,
+    "frecuencia": 63,
+    "absorcion": 0.09,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 201,
+    "frecuencia": 125,
+    "absorcion": 0.09,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 201,
+    "frecuencia": 250,
+    "absorcion": 0.39,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 201,
+    "frecuencia": 500,
+    "absorcion": 0.6,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 201,
+    "frecuencia": 1000,
+    "absorcion": 0.6,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 201,
+    "frecuencia": 2000,
+    "absorcion": 0.6,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 201,
+    "frecuencia": 4000,
+    "absorcion": 0.6,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 201,
+    "frecuencia": 8000,
+    "absorcion": 0.6,
+    "dispersion": 0.0500000007450581,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 301,
+    "frecuencia": 63,
+    "absorcion": 0.05,
+    "dispersion": 0.05,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 301,
+    "frecuencia": 125,
+    "absorcion": 0.05,
+    "dispersion": 0.05,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 301,
+    "frecuencia": 250,
+    "absorcion": 0.05,
+    "dispersion": 0.05,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 301,
+    "frecuencia": 500,
+    "absorcion": 0.05,
+    "dispersion": 0.05,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 301,
+    "frecuencia": 1000,
+    "absorcion": 0.05,
+    "dispersion": 0.05,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 301,
+    "frecuencia": 2000,
+    "absorcion": 0.05,
+    "dispersion": 0.05,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 301,
+    "frecuencia": 4000,
+    "absorcion": 0.05,
+    "dispersion": 0.05,
+    "ley": "2"
+  },
+  {
+    "estado": "propuesta",
+    "material_id": 301,
+    "frecuencia": 8000,
+    "absorcion": 0.05,
+    "dispersion": 0.05,
+    "ley": "2"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "variante": "sin_tratamiento",
+  "fuente": "F2",
+  "frecuencia": 4000,
+  "N": 20000,
+  "semilla": 20261019,
+  "segundos": 8.51531457901001,
+  "fraccion_perdidas": 0.0001,
+  "alpha_pano": null,
+  "config_sha256": "0866e20f05c9798c8f1d7a1f5f3abf293fae71e0cf5b13f1e6d10f22a58f69fa",
+  "malla_sha256": "3e6616806769fde921e6dc3365ae047e98f06da17964e0d58bde92764054faa7",
+  "tetra_sha256": "8bb8e6ca83958e9d1bb65a521b2c6e42f8cbe82420ada701df9740a24034fb58"
+}

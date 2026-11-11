@@ -1,0 +1,20 @@
+newmtl BASE
+Kd 0.65 0.67 0.7
+Ka .2 .2 .2
+d 1
+
+newmtl R
+Kd 0.54 0.32 0.69
+Ka .2 .2 .2
+d 1
+
+newmtl C
+Kd 0.15 0.55 0.6
+Ka .2 .2 .2
+d 1
+
+newmtl D
+Kd 0.84 0.6 0.21
+Ka .2 .2 .2
+d 1
+

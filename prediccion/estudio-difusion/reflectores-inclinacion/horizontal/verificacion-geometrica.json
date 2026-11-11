@@ -1,0 +1,8 @@
+{
+  "caso": "horizontal",
+  "paneles": 4,
+  "area_frontal_m2": 48.0,
+  "volumen_aire_m3": 9542.77396809869,
+  "volumen_desplazado_m3": 0.9600025001655013,
+  "aristas_dos_caras": true
+}
