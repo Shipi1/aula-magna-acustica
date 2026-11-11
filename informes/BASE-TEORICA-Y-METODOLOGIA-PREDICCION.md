@@ -4,7 +4,7 @@
 **Fecha de esta versión:** 20 de octubre de 2026.  
 **Modelo de referencia:** `G_base_efectiva_espectral_Lw90.proj`.
 
-Para abrirlo en I-Simpa, usar la [copia compatible](../prediccion/G_base_efectiva_espectral_Lw90_compatible.proj). Solo corrige la estructura de carpetas del empaquetado; los archivos internos del modelo y sus resultados son idénticos a los originales. Ver la [nota de corrección](NOTA-CORRECCION-CARGA-BASE-G.md).
+Para abrirlo en I-Simpa, usar el [proyecto de referencia vigente](../prediccion/G_base_efectiva_espectral_Lw90.proj). Es el archivo compatible cuya apertura fue confirmada por el usuario; la copia con sufijo `_compatible` ya no es la referencia disponible.
 
 ## 1. Propósito y alcance
 
@@ -103,7 +103,7 @@ La curva efectiva G no se obtuvo de una identificación exacta de un material re
 
 ## 3. Configuración exacta recomendada para continuar
 
-Abrir [G_base_efectiva_espectral_Lw90_compatible.proj](../prediccion/G_base_efectiva_espectral_Lw90_compatible.proj) y conservar la geometría, la malla, las asignaciones y las posiciones existentes.
+Abrir [G_base_efectiva_espectral_Lw90.proj](../prediccion/G_base_efectiva_espectral_Lw90.proj) y conservar la geometría, la malla, las asignaciones y las posiciones existentes.
 
 | Parámetro | Valor de trabajo |
 |---|---|
